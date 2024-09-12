@@ -1,0 +1,1 @@
+to search by the first character of the file; press the character key that refers to it. and to cycle through the files that starts with the same character just press the tab key. 

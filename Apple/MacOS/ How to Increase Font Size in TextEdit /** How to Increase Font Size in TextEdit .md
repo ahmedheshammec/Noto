@@ -1,0 +1,3 @@
+**Command ⌘ + Plus ( + ) or Minus ( - ) 
+
+

@@ -1,0 +1,2 @@
+This is a known issue and we are working on a solution.
+As a workaround, you can open AdGuard settings -> Gear -> Advanced -> Advanced settings -> Change *network.extension.monterey.force.split.tunnel *to *true* value

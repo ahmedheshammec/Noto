@@ -1,0 +1,2 @@
+Press Option + Command + Esc
+

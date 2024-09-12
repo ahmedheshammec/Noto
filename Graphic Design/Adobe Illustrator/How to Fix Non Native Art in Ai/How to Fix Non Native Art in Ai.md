@@ -1,0 +1,1 @@
+if you can’t expand the shape, open the file in CorelDraw and export it as pdf and open the pdf in ai once again. 

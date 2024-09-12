@@ -1,0 +1,2 @@
+الأول بروح من Home Tab واعمل Show للـ Paragraph Marks وهاعمل فراغ في السطور بعد كده هاجي على أول الفراغ ده وأروح من Layout Tab < Breaks >Next Page واعمل نفس الكلام في آخر الفراغ وهالاحظ حتى في الـ Paragraph Marks أنه كاتبلي Section Break Next Page عند أول الفراغ وأخره بعد كده بقف في الفراغ ومن Layout Tab > Orientietion بختار Landscape بس كده والغي الـ Paragraph Marks علشان ارجع للـ View الطبيعي بتاعي
+

@@ -1,0 +1,1 @@
+if you have more than 1 text lines, you must apply the "Create Outlines" to all these texts

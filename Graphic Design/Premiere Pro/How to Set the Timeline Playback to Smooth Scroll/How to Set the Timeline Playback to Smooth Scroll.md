@@ -1,0 +1,1 @@
+from settings >> timeline >> set `Timeline Playback Auto-Scrolling` to ::smooth scroll::
