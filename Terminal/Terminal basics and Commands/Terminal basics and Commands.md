@@ -403,12 +403,25 @@ https://ohmyz.sh/
 now we're gonna install the best theme which is `powerlevel10k` 
 Github Link: https://github.com/romkatv/powerlevel10k#fonts
 
-First Install The Fonts 
+First Install The Fonts from the Following Link:
+https://github.com/romkatv/powerlevel10k?tab=readme-ov-file#fonts
+
+#### Configure your terminal to use this font:
+Open _Terminal → Preferences → Profiles → Text_, click _Change_ under _Font_ and select `MesloLGS NF` family.
+
 after that open terminal and paste this: 
 
 ```bash
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
 ```
+
+The Default theme in `~/.zshrc` will look like this: 
+```zsh
+ZSH_THEME="robbyrussell"
+```
+
+
+Next Set `ZSH_THEME="powerlevel10k/powerlevel10k"` in `~/.zshrc` and Restart the Terminal.
 
 after going with the install here's the last window
 ![image](351A41AC-C759-47A4-A9EF-584AEFEE9AA8.jpg)
@@ -424,10 +437,23 @@ now it's time to install `zsh-syntax-highlighting`
 
 Github Repo: https://github.com/zsh-users/zsh-syntax-highlighting
 
-look for oh my zsh install in the `install.md` file and to activate the plugin edit the `zshrc` file. you'll see the git plugin already there; we just have to add the new one next to it 
+look for oh my zsh install in the `install.md` file 
+
+Open Terminal and Type
+```zsh
+brew install zsh-syntax-highlighting
+```
+
+Second, enable zsh-syntax-highlighting by sourcing the script. Running this command on the terminal will add the source line to the end of your `.zshrc`:
+```zsh
+echo "source $(brew --prefix)/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc
+```
+
+
+and to activate the plugin edit the `zshrc` file. you'll see the git plugin already there; we just have to add the new one next to it 
 
 ```bash
-plugins=(git zsh-syntax-highlighting)
+plugins=(git)
 ```
 
 like this and source the `.zshrc` file to reload and you should be good to go; open terminal and type: 
@@ -741,7 +767,96 @@ expand-count() {
 ```
 
 
+#### How to Run a Command with Time Delay (After that Time Run This Command)? 
+
+To run a command with a delay in Zsh, you can use the `sleep` command to pause for a specified number of seconds before executing the next command. Here's how you can delay the execution of `echo "Hello World"` by 5 seconds:
+
+```zsh
+sleep 5 && echo "Hello World"
+```
+
+This command will wait for 5 seconds (`sleep 5`), then run the `echo "Hello World"` command.
+
+The `sleep` command works with seconds, to delay a command for 30 minutes, you would multiply 30 minutes by 60 seconds per minute, which gives you 1800 seconds.
+
+So, to run a command after 30 minutes, you would use:
+
+```zsh
+sleep 1800 && echo "Hello after 30 minutes"
+```
+
+This will delay the `echo` command for 1800 seconds (30 minutes).
+
+#### Use Case for This Command
+
+❖ You Can Use Command to Set Downloads After a Period of Time Before You Sleep 
 
 
+#### How to Delete All Files with a Specific Extension in the Working Directory Recursively (Including Sub-Directories)?
 
+Let's Say We Want to Delete All `mkv` Files From the Working Directory Recursively We Can Use This Command to Do So: 
+
+```bash
+find . -type f -name "*.mkv" -delete
+```
+
+We Can Also Add a ZSH Snippet Like This: 
+
+```zsh
+# Delete All Files with a Specific Extension in the Working Directory Recursively (Including Sub-Directories)
+
+expand-del() {
+
+local buffer="$BUFFER"
+
+if [[ $buffer =~ '~del$' ]]; then
+
+BUFFER="find . -type f -name \"*.\" -delete"
+
+CURSOR=24 # Move the cursor to the position
+
+fi
+
+}
+```
+
+#### How to Print the Total Size of a Specific Extension in the Current Directory Recursively (Including Sub-Directories)?
+
+Let's Say We Want to Count The Total Size of All `mkv` Files From the Working Directory Recursively We Can Use This Command to Do So: 
+
+```bash
+find . -type f -name "*.mkv" -exec du -ch {} + | grep total$
+```
+
+We Can Also Add a ZSH Snippet Like This: 
+
+```zsh
+# Print the Total Size of a Specific Extension in the Current Directory Recursively (Including Sub-Directories)
+
+expand-total-size() {
+
+local buffer="$BUFFER"
+
+if [[ $buffer =~ '~totals$' ]]; then
+
+BUFFER="find . -type f -name \"*.\" -exec du -ch {} + | grep total\$"
+
+CURSOR=24 # Move the cursor to the position
+
+fi
+
+}
+```
+
+#### How To Exit Python Interpreter In The Terminal?
+ 
+ you can use one of the following methods:
+
+```zsh
+exit()
+```
+
+```bash
+quit()
+```
 

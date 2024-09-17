@@ -351,3 +351,138 @@ expand-ffprobe() {
   fi
 }
 ```
+
+
+### FFPLAY
+
+❖ **`ffplay`** is a command-line media player included with `ffmpeg`. 
+
+❖ **`Purpose`:**  It displays audio and video files to your screen or connected output devices.
+
+**Simple commands:**
+
+```bash
+ffplay <video file>
+```
+
+Plays the specified video file.
+
+**Key features:** 
+
+* Supports various video formats (MP4, AVI, MKV etc.)
+* Customizable playback settings (speed, volume, filters)
+
+Here’s a quick cheat sheet for **`ffplay`** commands and common flags. `ffplay` is a simple media player that uses FFmpeg libraries for playback.
+
+#### Basic `ffplay` Usage
+
+```bash
+ffplay [options] input_file
+```
+
+#### Common Playback Controls (Keyboard Shortcuts)
+
+- **Space**: Pause/Resume
+- **Left/Right**: Seek backward/forward 10 seconds
+- **Up/Down**: Seek backward/forward 1 minute
+- **s**: move forward one frame
+- **q, ESC**: Quit
+- **f**: Toggle fullscreen
+- **m**: Mute/unmute audio
+- **+/-**: Increase/Decrease volume
+- **p**: Frame step (pause video and go frame by frame)
+- **a**: Cycle audio streams
+- **v**: Cycle video streams
+- **t**: Cycle subtitle streams
+- **0-9**: Jump to specific percentage in the file
+
+---
+
+#### Useful `ffplay` Command-Line Flags
+
+| **Flag**           | **Description**                                                    |
+|--------------------|--------------------------------------------------------------------|
+| `-autoexit`        | Automatically exit when the stream ends.                           |
+| `-fs`              | Start in fullscreen mode.                                          |
+| `-loop [count]`    | Loop playback `count` times (use `-1` for infinite loop).          |
+| `-an`              | Disable audio.                                                     |
+| `-vn`              | Disable video.                                                     |
+| `-sn`              | Disable subtitles.                                                 |
+| `-ss [time]`       | Start playback at a specific time (format `hh:mm:ss`).             |
+| `-t [duration]`    | Play a specific duration of the file (format `hh:mm:ss`).          |
+| `-vf [filter]`     | Apply video filters (e.g., `scale=1280:720`).                      |
+| `-af [filter]`     | Apply audio filters (e.g., `volume=2.0` to double volume).         |
+| `-volume [0-100]`  | Set volume level (default is 100).                                 |
+| `-x [width] -y [height]` | Set the video window size manually (e.g., `-x 1280 -y 720`). |
+| `-window_title [title]` | Set custom window title.                                      |
+| `-noborder`        | Play video without a window border.                                |
+| `-i [device]`      | Open input from a capture device (e.g., `-i /dev/video0`).         |
+| `-f [fmt]`         | Force format (useful for raw data input).                          |
+| `-showmode [mode]` | Set display mode (`video`, `waves`, `rdft`).                       |
+
+---
+
+#### Example Commands
+
+- **Play a video with no audio:**
+
+  ```bash
+  ffplay -an video.mp4
+  ```
+
+- **Start playback 1 minute into the file and play for 30 seconds:**
+
+  ```bash
+  ffplay -ss 00:01:00 -t 00:00:30 video.mp4
+  ```
+
+- **Play a video in fullscreen:**
+
+  ```bash
+  ffplay -fs video.mp4
+  ```
+
+- **Apply a video filter to scale the video to 1280x720:**
+
+  ```bash
+  ffplay -vf scale=1280:720 video.mp4
+  ```
+
+This cheat sheet covers most of the common flags you’ll need when using `ffplay`. 
+
+#### Useful Use Cases
+
+↪ You Can Use `ffplay` As a Tiktok Clone (Player) with the Loop Flag to Play a Video or Audio and It Keeps on Looping Forever. 
+
+```bash
+ffplay -i video.mp4 -loop -1
+```
+
+#### MPV For Precise In/Out Timestamps
+
+First Install It Using This Command: 
+
+```bash
+brew install mpv
+```
+
+you can run it using the following command: 
+
+```bash
+mpv video.mp4
+```
+
+useful keyboard shortcuts: 
+
+`.`  ⟶ forward one frame
+
+`,`  ⟶ backward one frame
+
+`← → `  ⟶ seek 5 seconds forward / backwards
+
+`shift + ← → `  ⟶ seek 1 second forward / backwards
+
+❖ Click on the Timestamps at the Player Window to Show Milliseconds Timestamp
+
+
+

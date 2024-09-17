@@ -6,3 +6,11 @@ On macOS, you can use the `lsof` command to find out which process is using the 
 4. Once you have the PID of the process, you can use the `kill` command to stop the process. For example, if the PID of the process is 1234, you would run the command `kill 1234`.
 
 After stopping the process, you should be able to start the Odoo server without encountering the "Address already in use" error. If you're not sure which port the Odoo server is trying to bind to, you can check the configuration file for the server or look for any command line arguments that specify the port.
+
+❖ Sometimes when You Kill a Process It Re-Opens Itself with a New Pid. This Happened to Me on a Linux Machine And `odoo service` Was the Culprit. The Solution to This Was to Stop Odoo Service and Then Run `odoo-bin` With Your Parameters by Doing so the Service Will Start Automatically with Your Command and the Error Will Be Gone
+
+❖ You Can Stop the Service Using the Following Command: 
+
+```bash
+sudo systemctl stop odoo
+```

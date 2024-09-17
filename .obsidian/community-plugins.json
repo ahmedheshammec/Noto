@@ -1,3 +1,5 @@
 [
-  "obsidian-regex-replace"
+  "obsidian-regex-replace",
+  "omnisearch",
+  "find-and-replace-in-selection"
 ]

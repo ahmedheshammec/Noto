@@ -252,4 +252,12 @@ yt-dlp -F "URL"
 yt-dlp -f FORMAT_CODE "URL"
 ```
 
+#### How to Merge Audio and Video Files Together After Downloading Them Separately Using `ffmpeg`? 
+
+Use the Following Command: 
+
+```bash
+ffpb -i video.webm -i audio.webm -c copy output.webm
+```
+
 

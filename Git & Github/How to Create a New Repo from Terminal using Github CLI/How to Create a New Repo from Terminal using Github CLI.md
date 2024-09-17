@@ -55,6 +55,12 @@ git branch -M main
 git remote add origin https://github.com/your_repo_link_without_git
 ```
 
+❖ Before Pushing The Changes We Want to Set the Remote Url to SSH
+
+```bash
+git remote set-url origin git@github.com:ahmedheshammec/repo.git
+```
+
 ❖ Now let's push the changes: 
 
 ```bash
