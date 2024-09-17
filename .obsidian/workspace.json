@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/How to Fix Externally-Managed-Environment Error.md",
+                "file": "VS-Code/How To Configure Vs Code To Work With Git And Push Commits In The Version Control Tab?.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/How to Fix Externally-Managed-Environment Error.md",
+                "file": "VS-Code/How To Configure Vs Code To Work With Git And Push Commits In The Version Control Tab?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/How to Fix Externally-Managed-Environment Error.md",
+                "file": "VS-Code/How To Configure Vs Code To Work With Git And Push Commits In The Version Control Tab?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/How to Fix Externally-Managed-Environment Error.md"
+                "file": "VS-Code/How To Configure Vs Code To Work With Git And Push Commits In The Version Control Tab?.md"
               }
             }
           }
@@ -162,8 +162,9 @@
   },
   "active": "f69350121f30fe83",
   "lastOpenFiles": [
-    "Python/Cheat Sheet/Cheat Sheet.md",
     "Python/How to Fix Externally-Managed-Environment Error.md",
+    "VS-Code/How To Configure Vs Code To Work With Git And Push Commits In The Version Control Tab?.md",
+    "Python/Cheat Sheet/Cheat Sheet.md",
     "Python/How to Install Jupyter Notebook and Pandoc The Right Way/How to Install Jupyter Notebook and Pandoc The Right Way.md",
     "VS-Code/How to Set Autosave in vs Code so It Saves Changes Instantly/How to Set Autosave in vs Code so It Saves Changes Instantly.md",
     "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
