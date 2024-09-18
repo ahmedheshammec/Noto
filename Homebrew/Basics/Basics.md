@@ -1,55 +1,72 @@
-to install Homebrew we need to install Xcode tools, open terminal and type: 
-```plaintext
+to install `Homebrew` we need to install Xcode tools, open terminal and type: 
+
+```zsh
 xcode-select —-install
 ```
-to install Homebrew go to their website 
-```plaintext
+
+to install `Homebrew` go to their website 
+
+```zsh
 https://brew.sh/https://brew.sh
 ```
-and copy the installation code and paste it in terminal. 
+
+And Copy the Installation Code and Paste It in Terminal. 
+
 Note: in M1 Mac Models, there’s additional steps after the install (you will find the steps in the terminal after the install is complete. 
 you can type: 
-```plaintext
+
+```zsh
 brew help
 ```
-to get started 
-to search Homebrew you can type: 
-```plaintext
+
+To Get Started 
+to search `Homebrew` for formulae you can type: 
+
+```zsh
 brew search {input}
 ```
+
+to search `Homebrew` for casks you can type: 
+
+```zsh
+brew search --cask {input}
+```
+
 to uninstall a package; simply type: 
-```plaintext
+
+```zsh
 brew uninstall {input}
 ```
+
 to list all packages that are installed type: 
-```plaintext
+
+```zsh
 brew list
 ```
+
 to see the info of a package and it’s dependencies type: 
-```plaintext
+
+```zsh
 brew info {input}
 ```
-to install GUI Applications you need to install cask
-```plaintext
-brew install cask
-```
+
 to install adobe creative cloud for example type: 
-```plaintext
+
+```zsh
 brew install adobe-creative-cloud —-cask
 ```
+
 you can open the homepage of a cask like this: 
-```plaintext
+
+```zsh
 brew home adobe-creative-cloud —-cask
 ```
 
+#### Where Does `homebrew` Keeps All the Casks? 
 
+In the Following Path: 
 
-
-
-
-
-
-
-
-
+```plain
+/opt/homebrew/Caskroom/
+```
 

@@ -12,6 +12,18 @@ brew uninstall --ignore-dependencies python@3.12
 brew install pyenv
 ```
 
+And Add These Lines to Your Shell Configuration File (Like `~/.zshrc` or `~/.bash_profile`):
+
+```zsh
+# Pyenv
+
+export PATH="$PATH:/opt/homebrew/Cellar/pyenv/2.4.12/bin/"
+
+eval "$(pyenv init --path)"
+
+eval "$(pyenv init -)"
+```
+
 ❖ Now Let's Install The Python Version Using `pyenv`:
 
 ```zsh

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VS-Code/How To Configure Vs Code To Work With Git And Push Commits In The Version Control Tab?.md",
+                "file": "Homebrew/Basics/Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VS-Code/How To Configure Vs Code To Work With Git And Push Commits In The Version Control Tab?.md",
+                "file": "Homebrew/Basics/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VS-Code/How To Configure Vs Code To Work With Git And Push Commits In The Version Control Tab?.md",
+                "file": "Homebrew/Basics/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VS-Code/How To Configure Vs Code To Work With Git And Push Commits In The Version Control Tab?.md"
+                "file": "Homebrew/Basics/Basics.md"
               }
             }
           }
@@ -162,16 +162,24 @@
   },
   "active": "f69350121f30fe83",
   "lastOpenFiles": [
+    "Apple/MacOS/How to Eject Removable Devices Using Terminal?.md",
+    "Apple/MacOS/How to Stop ‘Disk Not Ejected Properly’ Annoying Warning/How to Stop ‘Disk Not Ejected Properly’ Annoying Warning.md",
+    "Apple/IPhone/How to Force Restart iPhone 13 Pro?.md",
+    "Apple/MacOS/How to Erase M1 MacBook?.md",
     "Python/How to Fix Externally-Managed-Environment Error.md",
-    "VS-Code/How To Configure Vs Code To Work With Git And Push Commits In The Version Control Tab?.md",
     "Python/Cheat Sheet/Cheat Sheet.md",
+    "Terminal/Where's The Path Where Zsh Plugins are Installed?.md",
+    "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
+    "VS-Code/How to Fix VS Code Auto Indenting Code when You Paste It/How to Fix VS Code Auto Indenting Code when You Paste It.md",
+    "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
+    "Youtube-dl/[TikTok] Failed to parse JSON - Can't download videos without watermark/[TikTok] Failed to parse JSON - Can't download videos without watermark.md",
+    "Youtube-dl/How to Download Videos from TikTok that Consist of Images and Audio/How to Download Videos from TikTok that Consist of Images and Audio.md",
+    "VS-Code/How To Configure Vs Code To Work With Git And Push Commits In The Version Control Tab?.md",
     "Python/How to Install Jupyter Notebook and Pandoc The Right Way/How to Install Jupyter Notebook and Pandoc The Right Way.md",
     "VS-Code/How to Set Autosave in vs Code so It Saves Changes Instantly/How to Set Autosave in vs Code so It Saves Changes Instantly.md",
-    "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
     "Git & Github/How to Create a New Repo from Terminal using Github CLI/How to Create a New Repo from Terminal using Github CLI.md",
     "Apple/Finder/How to Sort All Files In Every Folder By Name in Finder?.md",
     "Linux/Nano/Nano.md",
-    "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
     "Windows/Useful Run Commands.md",
     "Untitled.md",
     "Pycharm & Odoo/How to Kill Processes Using 8069 Port on Mac/How to Kill Processes Using 8069 Port on Mac.md",
@@ -182,10 +190,6 @@
     "Work/Event/Color Codes/Color Codes.md",
     "Work/Event/Color Codes",
     "Solved/How to fix problem of an unknown error has occurred on Illustrator/How to fix problem of an unknown error has occurred on Illustrator.md",
-    "Solved/How to fix problem of an unknown error has occurred on Illustrator",
-    "Git & Github/Git & Github/Git & Github.md",
-    "Youtube-dl/How to Download Videos from TikTok that Consist of Images and Audio/How to Download Videos from TikTok that Consist of Images and Audio.md",
-    "Tesseract OCR/Tesseract OCR/Tesseract OCR.md",
-    "Linux/How to Share Folder over the Network in Ubuntu/How to Share Folder over the Network in Ubuntu.md"
+    "Solved/How to fix problem of an unknown error has occurred on Illustrator"
   ]
 }

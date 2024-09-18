@@ -461,6 +461,44 @@ like this and source the `.zshrc` file to reload and you should be good to go; o
 echo "Hello World"
 ```
 
+
+### Autopair Plugin
+
+A simple plugin that auto-closes, deletes and skips over matching delimiters in zsh intelligently.
+
+#### How to Install?
+
+Since We Re Using `oh-my-zsh` We Will Install It In The Following Path: 
+
+```plaintext
+/Users/ahmed/.oh-my-zsh/custom/plugins/
+```
+
+Using This Command: 
+
+```zsh
+git clone git@github.com:hlissner/zsh-autopair.git
+```
+
+If We Re Using SSH 
+
+And The Following Command If We Re Using HTTP
+
+```zsh
+git clone https://github.com/hlissner/zsh-autopair.git
+```
+
+❖ Now We Need To Add It In Our `zshrc` File: 
+
+```zsh
+plugins=(
+    # other plugins...
+    zsh-autopair
+)
+```
+
+❖ Restart Your Terminal And You're Good To Go. 
+
 ### :: **Cat Command** ::
 
 you can create a new file using the cat command like this: 
