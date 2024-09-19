@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ba9e2b11d2ed8b55",
+        "id": "10d9a0af020f35cd",
         "type": "tabs",
         "children": [
           {
-            "id": "705420fcd91ac774",
+            "id": "26bcb744ac067892",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Cheat Sheet/Cheat Sheet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f69350121f30fe83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homebrew/Basics/Basics.md",
+                "file": "Chat GPT/Apple Music Album Art Location and How to Merge with m4a Files_ /Apple Music Album Art Location and How to Merge with m4a Files? .md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homebrew/Basics/Basics.md",
+                "file": "Chat GPT/Apple Music Album Art Location and How to Merge with m4a Files_ /Apple Music Album Art Location and How to Merge with m4a Files? .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homebrew/Basics/Basics.md",
+                "file": "Chat GPT/Apple Music Album Art Location and How to Merge with m4a Files_ /Apple Music Album Art Location and How to Merge with m4a Files? .md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homebrew/Basics/Basics.md"
+                "file": "Chat GPT/Apple Music Album Art Location and How to Merge with m4a Files_ /Apple Music Album Art Location and How to Merge with m4a Files? .md"
               }
             }
           }
@@ -160,14 +147,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f69350121f30fe83",
+  "active": "26bcb744ac067892",
   "lastOpenFiles": [
+    "Python/Cheat Sheet/Cheat Sheet.md",
+    "Pycharm & Odoo/How to Remove the Annoying Warp Line in PyCharm?.md",
+    "Homebrew/Basics/Basics.md",
     "Apple/MacOS/How to Eject Removable Devices Using Terminal?.md",
     "Apple/MacOS/How to Stop ‘Disk Not Ejected Properly’ Annoying Warning/How to Stop ‘Disk Not Ejected Properly’ Annoying Warning.md",
     "Apple/IPhone/How to Force Restart iPhone 13 Pro?.md",
     "Apple/MacOS/How to Erase M1 MacBook?.md",
     "Python/How to Fix Externally-Managed-Environment Error.md",
-    "Python/Cheat Sheet/Cheat Sheet.md",
     "Terminal/Where's The Path Where Zsh Plugins are Installed?.md",
     "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
     "VS-Code/How to Fix VS Code Auto Indenting Code when You Paste It/How to Fix VS Code Auto Indenting Code when You Paste It.md",
@@ -187,9 +176,7 @@
     "Noto/Noto to Obsidian.md",
     "Work/Event/Engraving Fonts/Engraving Fonts.md",
     "Work/Event/Engraving Fonts",
-    "Work/Event/Color Codes/Color Codes.md",
     "Work/Event/Color Codes",
-    "Solved/How to fix problem of an unknown error has occurred on Illustrator/How to fix problem of an unknown error has occurred on Illustrator.md",
     "Solved/How to fix problem of an unknown error has occurred on Illustrator"
   ]
 }
