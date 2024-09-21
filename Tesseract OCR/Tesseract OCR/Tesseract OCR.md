@@ -6,6 +6,26 @@ brew install tesseract
 
 This will install Tesseract and all of its dependencies on your system.
 
+To List the Languages Already Installed and the Path of Installation Run the Following Command: 
+
+```zsh
+tesseract --list-langs
+```
+
+You Will See an Output Like This: 
+
+```plain
+List of available languages in "/opt/homebrew/share/tessdata/" (3):
+eng
+osd
+snum
+```
+
+To Install the Arabic Language Head to This Github Link:
+https://github.com/tesseract-ocr/tessdata
+
+Download the `ara.traineddata` file and place it in the path `"/opt/homebrew/share/tessdata/"`
+
 To use Tesseract OCR, you'll need to have an image file that contains the text you want to recognize. Once you have an image file, you can use the following command to extract the text from the image:
 
 ```bash
@@ -18,9 +38,9 @@ This will create a file called "output.txt" in the same directory as your image,
 tesseract image.png -o output/myoutput
 ```
 
-This will create a file called "myoutput.txt" in the "output" directory, containing the recognized text.
+This will create a file called "`myoutput.txt`" in the "output" directory, containing the recognized text.
 
-you can install the Arabic language pack by running the following command:
+to install the Arabic language pack using `homebrew` run the following command:
 
 ```bash
 brew install tesseract-lang

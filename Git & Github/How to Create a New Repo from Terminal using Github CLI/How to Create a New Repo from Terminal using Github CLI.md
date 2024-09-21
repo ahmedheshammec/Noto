@@ -12,7 +12,8 @@ gh auth login
 
 choose to authenticate with the browser and http, then copy the code from the terminal and paste it into the browser. 
 ❖ **Navigate to Your Directory**: Open a terminal and navigate to the directory that you want to initialize as a new Git repository.
-❖ add R**EADME.md **file
+
+❖ add `README.md` file
 
 ```bash
 echo -e "# Title\n\nThis is a description under the title." >> README.md

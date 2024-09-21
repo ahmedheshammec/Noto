@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "10d9a0af020f35cd",
+        "id": "5c8549b60fd73858",
         "type": "tabs",
         "children": [
           {
-            "id": "26bcb744ac067892",
+            "id": "f0ced05080dfae25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chat GPT/Apple Music Album Art Location and How to Merge with m4a Files_ /Apple Music Album Art Location and How to Merge with m4a Files? .md",
+                "file": "Graphic Design/Final Cut Pro/09 - Where Does Final Cut Pro Stores Custom Keyboard Shortcut Sets?.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chat GPT/Apple Music Album Art Location and How to Merge with m4a Files_ /Apple Music Album Art Location and How to Merge with m4a Files? .md",
+                "file": "Graphic Design/Final Cut Pro/09 - Where Does Final Cut Pro Stores Custom Keyboard Shortcut Sets?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chat GPT/Apple Music Album Art Location and How to Merge with m4a Files_ /Apple Music Album Art Location and How to Merge with m4a Files? .md",
+                "file": "Graphic Design/Final Cut Pro/09 - Where Does Final Cut Pro Stores Custom Keyboard Shortcut Sets?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chat GPT/Apple Music Album Art Location and How to Merge with m4a Files_ /Apple Music Album Art Location and How to Merge with m4a Files? .md"
+                "file": "Graphic Design/Final Cut Pro/09 - Where Does Final Cut Pro Stores Custom Keyboard Shortcut Sets?.md"
               }
             }
           }
@@ -147,8 +147,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26bcb744ac067892",
+  "active": "f0ced05080dfae25",
   "lastOpenFiles": [
+    "Chat GPT/How to Merge Subtitle with Movie using FFMPEG/How to Merge Subtitle with Movie using FFMPEG.md",
+    "Graphic Design/Final Cut Pro/09 - Where Does Final Cut Pro Stores Custom Keyboard Shortcut Sets?.md",
+    "Graphic Design/Final Cut Pro/08 - Assign Colors to Clips usin Roles/08 - Assign Colors to Clips usin Roles.md",
+    "Git & Github/How to Create a New Repo from Terminal using Github CLI/How to Create a New Repo from Terminal using Github CLI.md",
+    "Tesseract OCR/Tesseract OCR/Tesseract OCR.md",
+    "Youtube-dl/How to Download Videos from TikTok that Consist of Images and Audio/How to Download Videos from TikTok that Consist of Images and Audio.md",
+    "README.md",
+    "Chat GPT/Apple Music Album Art Location and How to Merge with m4a Files_ /Apple Music Album Art Location and How to Merge with m4a Files? .md",
     "Python/Cheat Sheet/Cheat Sheet.md",
     "Pycharm & Odoo/How to Remove the Annoying Warp Line in PyCharm?.md",
     "Homebrew/Basics/Basics.md",
@@ -162,19 +170,11 @@
     "VS-Code/How to Fix VS Code Auto Indenting Code when You Paste It/How to Fix VS Code Auto Indenting Code when You Paste It.md",
     "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
     "Youtube-dl/[TikTok] Failed to parse JSON - Can't download videos without watermark/[TikTok] Failed to parse JSON - Can't download videos without watermark.md",
-    "Youtube-dl/How to Download Videos from TikTok that Consist of Images and Audio/How to Download Videos from TikTok that Consist of Images and Audio.md",
     "VS-Code/How To Configure Vs Code To Work With Git And Push Commits In The Version Control Tab?.md",
     "Python/How to Install Jupyter Notebook and Pandoc The Right Way/How to Install Jupyter Notebook and Pandoc The Right Way.md",
     "VS-Code/How to Set Autosave in vs Code so It Saves Changes Instantly/How to Set Autosave in vs Code so It Saves Changes Instantly.md",
-    "Git & Github/How to Create a New Repo from Terminal using Github CLI/How to Create a New Repo from Terminal using Github CLI.md",
     "Apple/Finder/How to Sort All Files In Every Folder By Name in Finder?.md",
     "Linux/Nano/Nano.md",
-    "Windows/Useful Run Commands.md",
-    "Untitled.md",
-    "Pycharm & Odoo/How to Kill Processes Using 8069 Port on Mac/How to Kill Processes Using 8069 Port on Mac.md",
-    "FFMPEG Guide/FFMPEG Commands/FFMPEG Commands.md",
-    "Noto/Noto to Obsidian.md",
-    "Work/Event/Engraving Fonts/Engraving Fonts.md",
     "Work/Event/Engraving Fonts",
     "Work/Event/Color Codes",
     "Solved/How to fix problem of an unknown error has occurred on Illustrator"
