@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphic Design/Final Cut Pro/09 - Where Does Final Cut Pro Stores Custom Keyboard Shortcut Sets?.md",
+                "file": "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphic Design/Final Cut Pro/09 - Where Does Final Cut Pro Stores Custom Keyboard Shortcut Sets?.md",
+                "file": "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphic Design/Final Cut Pro/09 - Where Does Final Cut Pro Stores Custom Keyboard Shortcut Sets?.md",
+                "file": "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphic Design/Final Cut Pro/09 - Where Does Final Cut Pro Stores Custom Keyboard Shortcut Sets?.md"
+                "file": "Terminal/Terminal basics and Commands/Terminal basics and Commands.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "f0ced05080dfae25",
   "lastOpenFiles": [
-    "Chat GPT/How to Merge Subtitle with Movie using FFMPEG/How to Merge Subtitle with Movie using FFMPEG.md",
+    "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
     "Graphic Design/Final Cut Pro/09 - Where Does Final Cut Pro Stores Custom Keyboard Shortcut Sets?.md",
+    "Chat GPT/How to Merge Subtitle with Movie using FFMPEG/How to Merge Subtitle with Movie using FFMPEG.md",
     "Graphic Design/Final Cut Pro/08 - Assign Colors to Clips usin Roles/08 - Assign Colors to Clips usin Roles.md",
     "Git & Github/How to Create a New Repo from Terminal using Github CLI/How to Create a New Repo from Terminal using Github CLI.md",
     "Tesseract OCR/Tesseract OCR/Tesseract OCR.md",
@@ -168,7 +169,6 @@
     "Terminal/Where's The Path Where Zsh Plugins are Installed?.md",
     "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
     "VS-Code/How to Fix VS Code Auto Indenting Code when You Paste It/How to Fix VS Code Auto Indenting Code when You Paste It.md",
-    "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
     "Youtube-dl/[TikTok] Failed to parse JSON - Can't download videos without watermark/[TikTok] Failed to parse JSON - Can't download videos without watermark.md",
     "VS-Code/How To Configure Vs Code To Work With Git And Push Commits In The Version Control Tab?.md",
     "Python/How to Install Jupyter Notebook and Pandoc The Right Way/How to Install Jupyter Notebook and Pandoc The Right Way.md",

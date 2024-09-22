@@ -575,6 +575,14 @@ Let's Say We Want to Pass the `Pwd` Output to the `rename.sh` Script so that It 
 rename.sh "$(pwd)"
 ```
 
+But There's Even an Easier Way, We Can Use the Dot `.` Instead Of `"$(pwd)"` Like This:
+
+```
+rename.sh .
+```
+
+We Can Use This for All Sort of Commands Like `code` Command or `pycharm` Command.
+
 ### How to Use Multiple Line Commands in Zsh? 
 
 ❖**First Method**: Put the Commands in a Text Editor First Then Copy Paste Them to the Terminal

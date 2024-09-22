@@ -261,3 +261,12 @@ ffpb -i video.webm -i audio.webm -c copy output.webm
 ```
 
 
+### How to Fetch a Video Title Using `yt-dlp`? 
+
+We Can Do This Using The `--get-title` Flag Like This: 
+
+```zsh
+yt-dlp --get-title https://youtu.be/bp2eev21Qfo
+```
+
+
