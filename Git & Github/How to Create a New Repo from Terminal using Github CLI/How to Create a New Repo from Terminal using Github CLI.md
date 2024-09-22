@@ -194,3 +194,62 @@ Finally Push your changes
 git push origin main
 ```
 
+### How to only Fetch The `.git` Directory From Github if It Was Removed?
+
+❖ First, Navigate to Your Project Directory Where the .git Folder Was Lost, and Reinitialize the Repository:
+
+```zsh
+cd /path/to/your/project
+git init
+```
+
+❖ Add the Original Repository URL Back as the Remote Origin:
+
+```zsh
+git remote add origin https://github.com/your_repo.git
+```
+
+This Will Reattach to the Original Remote Repository
+
+You Can Verify the Remote With:
+
+```zsh
+git remote -v
+```
+
+❖ **Fetch the Original** .git **Data (without Overwriting Files)**:
+
+```zsh
+git fetch origin
+```
+
+❖ **Restore the State of the Repository**:
+
+```zsh
+git reset --mixed origin/main
+```
+
+❖ **See the Status of the Files**: 
+
+```zsh
+git status
+```
+
+❖ **Stage Your Changes**: 
+
+```zsh
+git add <modified_file>
+```
+
+❖ **Commit your changes**: 
+
+```zsh
+git commit -m "Restored .git and resumed work"
+```
+
+❖ **Push the Changes**: 
+
+```zsh
+git push -u origin main
+```
+

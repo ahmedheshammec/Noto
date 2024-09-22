@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
+                "file": "Git & Github/How to Create a New Repo from Terminal using Github CLI/How to Create a New Repo from Terminal using Github CLI.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
+                "file": "Git & Github/How to Create a New Repo from Terminal using Github CLI/How to Create a New Repo from Terminal using Github CLI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
+                "file": "Git & Github/How to Create a New Repo from Terminal using Github CLI/How to Create a New Repo from Terminal using Github CLI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminal/Terminal basics and Commands/Terminal basics and Commands.md"
+                "file": "Git & Github/How to Create a New Repo from Terminal using Github CLI/How to Create a New Repo from Terminal using Github CLI.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "f0ced05080dfae25",
   "lastOpenFiles": [
+    "Apple/MacOS/How to Decrease the show time of your Dock when you set it to Autohide/How to Decrease the show time of your Dock when you set it to Autohide.md",
+    "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
     "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
     "Graphic Design/Final Cut Pro/09 - Where Does Final Cut Pro Stores Custom Keyboard Shortcut Sets?.md",
     "Chat GPT/How to Merge Subtitle with Movie using FFMPEG/How to Merge Subtitle with Movie using FFMPEG.md",
@@ -167,14 +169,12 @@
     "Apple/MacOS/How to Erase M1 MacBook?.md",
     "Python/How to Fix Externally-Managed-Environment Error.md",
     "Terminal/Where's The Path Where Zsh Plugins are Installed?.md",
-    "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
     "VS-Code/How to Fix VS Code Auto Indenting Code when You Paste It/How to Fix VS Code Auto Indenting Code when You Paste It.md",
     "Youtube-dl/[TikTok] Failed to parse JSON - Can't download videos without watermark/[TikTok] Failed to parse JSON - Can't download videos without watermark.md",
     "VS-Code/How To Configure Vs Code To Work With Git And Push Commits In The Version Control Tab?.md",
     "Python/How to Install Jupyter Notebook and Pandoc The Right Way/How to Install Jupyter Notebook and Pandoc The Right Way.md",
     "VS-Code/How to Set Autosave in vs Code so It Saves Changes Instantly/How to Set Autosave in vs Code so It Saves Changes Instantly.md",
     "Apple/Finder/How to Sort All Files In Every Folder By Name in Finder?.md",
-    "Linux/Nano/Nano.md",
     "Work/Event/Engraving Fonts",
     "Work/Event/Color Codes",
     "Solved/How to fix problem of an unknown error has occurred on Illustrator"
