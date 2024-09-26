@@ -764,6 +764,7 @@ i=someFile.txt ; echo ."${i#*.}"
 ❖ With These Tools You Can Easily Manipulate Files Naming
 
 ### If There's a File in Use What Command Can I Use to Show the Process That's Using that Folder or File? 
+
 You can use the `lsof` (List Open Files) command to find out which process is using a specific file or folder. Here's how you can do it:
 
 `To find the process using a specific file:`
@@ -779,6 +780,23 @@ lsof +D /path/to/folder
 ```
 
 This command will list all processes that are using the specified file or folder. The output will include the process ID (PID), user, and command name associated with the process.
+
+❖ If You're Struggling with a Process that Keeps Running After You Kill It Like `Adobe IPC Broker` We Can Disable It Temporarily Using the Following Method: 
+
+#### How to Disable Adobe IPC Broker Temporarily to Eject Your Hard Drive?
+
+❖ Please Note that Process Is Important for Adobe Software to Work so We Can't Remove It Instead We Will Disable It Temporarily Just Enough to Eject Our Hard Drive. 
+
+❖ The Process Location in My Case Is in This Location: 
+
+```
+/Library/Application Support/Adobe/Adobe Desktop Common/IPCBox/AdobeIPCBroker.app/Contents/MacOS/AdobeIPCBroker
+```
+
+❖ You Can Find It's Location Using The `lsof` Command Also (When You Use the Command to Find Which Process Is Using the Hard Drive). 
+
+❖ Rename `AdobeIPCBroker` to `AdobeIPCBroker.old` And Then Kill the Process Using `raycast` or Activity Monitor Until It's No Longer Using the Hard Drive, Then Rename It Back By Removing The `.old` From It's Name.
+
 
 `To filter the output for easier readability, you can use:`
 
