@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal/grep and pdfgrep/grep and pdfgrep.md",
+                "file": "NodeJs and NVM/How to Install NVM and Manage Multiple NodeJs Versions?.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminal/grep and pdfgrep/grep and pdfgrep.md",
+                "file": "NodeJs and NVM/How to Install NVM and Manage Multiple NodeJs Versions?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terminal/grep and pdfgrep/grep and pdfgrep.md",
+                "file": "NodeJs and NVM/How to Install NVM and Manage Multiple NodeJs Versions?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminal/grep and pdfgrep/grep and pdfgrep.md"
+                "file": "NodeJs and NVM/How to Install NVM and Manage Multiple NodeJs Versions?.md"
               }
             }
           }
@@ -173,10 +173,14 @@
   },
   "active": "f0ced05080dfae25",
   "lastOpenFiles": [
-    "Noto/Noto to Obsidian.md",
-    "Terminal/grep and pdfgrep/grep and pdfgrep.md",
-    "Terminal/How to Use the Tree Command to only Show some Specific Files_/How to Use the Tree Command?.md",
     "Chat GPT/ChatGPT to Obsidian Formatting with REGEX.md",
+    "NodeJs and NVM/How to Install NVM and Manage Multiple NodeJs Versions?.md",
+    "Python/How to Fix Externally-Managed-Environment Error.md",
+    "NodeJs and NVM",
+    "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
+    "Terminal/grep and pdfgrep/grep and pdfgrep.md",
+    "Noto/Noto to Obsidian.md",
+    "Terminal/How to Use the Tree Command to only Show some Specific Files_/How to Use the Tree Command?.md",
     "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
     "Pycharm & Odoo/How to Kill Processes Using 8069 Port on Mac/How to Kill Processes Using 8069 Port on Mac.md",
     "Terminal/How to Remove Duplicates Using rmlint/How to Remove Duplicates Using rmlint.md",
@@ -188,7 +192,6 @@
     "VS-Code/How to Change Cell Language in Jupyter Notebook with  a Shortcut/How to Change Cell Language in Jupyter Notebook with  a Shortcut.md",
     "Git & Github/How to Create a New Repo from Terminal using Github CLI/How to Create a New Repo from Terminal using Github CLI.md",
     "Apple/MacOS/How to Decrease the show time of your Dock when you set it to Autohide/How to Decrease the show time of your Dock when you set it to Autohide.md",
-    "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
     "Graphic Design/Final Cut Pro/09 - Where Does Final Cut Pro Stores Custom Keyboard Shortcut Sets?.md",
     "Chat GPT/How to Merge Subtitle with Movie using FFMPEG/How to Merge Subtitle with Movie using FFMPEG.md",
     "Graphic Design/Final Cut Pro/08 - Assign Colors to Clips usin Roles/08 - Assign Colors to Clips usin Roles.md",
@@ -197,8 +200,6 @@
     "README.md",
     "Chat GPT/Apple Music Album Art Location and How to Merge with m4a Files_ /Apple Music Album Art Location and How to Merge with m4a Files? .md",
     "Python/Cheat Sheet/Cheat Sheet.md",
-    "Pycharm & Odoo/How to Remove the Annoying Warp Line in PyCharm?.md",
-    "Homebrew/Basics/Basics.md",
     "Work/Event/Engraving Fonts",
     "Work/Event/Color Codes",
     "Solved/How to fix problem of an unknown error has occurred on Illustrator"
