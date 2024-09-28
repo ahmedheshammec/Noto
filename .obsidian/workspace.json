@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NodeJs and NVM/How to Install NVM and Manage Multiple NodeJs Versions?.md",
+                "file": "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJs and NVM/How to Install NVM and Manage Multiple NodeJs Versions?.md",
+                "file": "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NodeJs and NVM/How to Install NVM and Manage Multiple NodeJs Versions?.md",
+                "file": "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NodeJs and NVM/How to Install NVM and Manage Multiple NodeJs Versions?.md"
+                "file": "Youtube-dl/youtube-dl guide/youtube-dl guide.md"
               }
             }
           }
@@ -173,11 +173,14 @@
   },
   "active": "f0ced05080dfae25",
   "lastOpenFiles": [
-    "Chat GPT/ChatGPT to Obsidian Formatting with REGEX.md",
-    "NodeJs and NVM/How to Install NVM and Manage Multiple NodeJs Versions?.md",
-    "Python/How to Fix Externally-Managed-Environment Error.md",
-    "NodeJs and NVM",
+    "Youtube-dl/youtube-dl guide/cookies.png",
+    "Youtube-dl/How to Download Videos from TikTok that Consist of Images and Audio/How to Download Videos from TikTok that Consist of Images and Audio.md",
+    "Youtube-dl/[TikTok] Failed to parse JSON - Can't download videos without watermark/[TikTok] Failed to parse JSON - Can't download videos without watermark.md",
     "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
+    "Python/How to Fix Externally-Managed-Environment Error.md",
+    "NodeJs and NVM/How to Install NVM and Manage Multiple NodeJs Versions?.md",
+    "Chat GPT/ChatGPT to Obsidian Formatting with REGEX.md",
+    "NodeJs and NVM",
     "Terminal/grep and pdfgrep/grep and pdfgrep.md",
     "Noto/Noto to Obsidian.md",
     "Terminal/How to Use the Tree Command to only Show some Specific Files_/How to Use the Tree Command?.md",
@@ -196,10 +199,7 @@
     "Chat GPT/How to Merge Subtitle with Movie using FFMPEG/How to Merge Subtitle with Movie using FFMPEG.md",
     "Graphic Design/Final Cut Pro/08 - Assign Colors to Clips usin Roles/08 - Assign Colors to Clips usin Roles.md",
     "Tesseract OCR/Tesseract OCR/Tesseract OCR.md",
-    "Youtube-dl/How to Download Videos from TikTok that Consist of Images and Audio/How to Download Videos from TikTok that Consist of Images and Audio.md",
     "README.md",
-    "Chat GPT/Apple Music Album Art Location and How to Merge with m4a Files_ /Apple Music Album Art Location and How to Merge with m4a Files? .md",
-    "Python/Cheat Sheet/Cheat Sheet.md",
     "Work/Event/Engraving Fonts",
     "Work/Event/Color Codes",
     "Solved/How to fix problem of an unknown error has occurred on Illustrator"

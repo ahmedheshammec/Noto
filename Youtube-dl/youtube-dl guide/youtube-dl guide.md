@@ -185,10 +185,10 @@ yt-dlp -f "bestaudio[ext=m4a]" --no-playlist --output "%(title)s.%(ext)s" '
 
 to fix this we need cookies.txt file, and we can get it with two ways: 
 
-❖ using chrome browser extension called `Get cookies.txt LOCALLY`  from this link: 
+❖ Using Chrome Browser Extension Called `Get cookies.txt LOCALLY`  From This Link: 
 https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc
 
-❖ or you can paste the following code in your console: 
+❖ Or You Can Paste the Following Code in Your Console: 
 
 ```js
 (() => {
@@ -206,15 +206,27 @@ https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenk
 })()
 ```
 
-the Netscape-formatted cookies will be copied to your clipboard. Paste inside a cookie.txt file using the following command:
+❖ Make Sure to Put the Cookies in the Quotes Otherwise The `txt` File Won't Be Effective when Used to Download Stuff; You Can Get the Cookies From The `Network Tab` In Your Browser Like This:
+
+![[cookies.png]]
+
+❖ When You Search for Requests Type the Word `web` Or Look For `fetch` Requests Or `XHR` Requests and Click on It and Then From the Headers Tab Copy the Cookie as Shown in the Photo Above. 
+
+❖ Note that the Cookie You Get From the Network Tab is `Window-Based` Cookie, Which Means if You Want to Get Cookies for Two Different Sites You'll Have to Repeat This Process in the Other Tab and Paste the Copied Cookie in the Same `cookies.txt` File.
+
+❖ The Netscape-Formatted Cookies Will Be Copied to Your Clipboard. Paste Inside a `cookie.txt` File Using the Following Command:
 
 ```bash
 pbpaste > cookies.txt
 ```
 
-And Reference It when You Download the File with the Following Flag ::--cookies:: ::./cookie.txt::.
+And Reference It when You Download the File with the Following Flag
 
-❖ If that Didn't Work Go to This Link to Download the Loatest Release: 
+```
+yt-dlp --cookies cookies.txt <video_url>
+```
+
+❖ If that Didn't Work Go to This Link to Download the Latest Release: 
 https://github.com/yt-dlp/yt-dlp-master-builds/releases/
 
 ❖ And Download the Latest One for Mac It Will Be a File Called `yt-dlp_macos` This Will Download a Binary File to Install It Use the Following Commands: 
