@@ -208,7 +208,7 @@ https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenk
 
 ❖ Make Sure to Put the Cookies in the Quotes Otherwise The `txt` File Won't Be Effective when Used to Download Stuff; You Can Get the Cookies From The `Network Tab` In Your Browser Like This:
 
-![[cookies.png]]
+![image](cookies.png)
 
 ❖ When You Search for Requests Type the Word `web` Or Look For `fetch` Requests Or `XHR` Requests and Click on It and Then From the Headers Tab Copy the Cookie as Shown in the Photo Above. 
 
