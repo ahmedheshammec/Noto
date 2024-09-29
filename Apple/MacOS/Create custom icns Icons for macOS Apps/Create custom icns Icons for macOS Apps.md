@@ -1,9 +1,12 @@
-**first create 1024 x 1024 png file and name it 
-```plaintext
+first create 1024 x 1024 png file and name it 
+
+```
 input.png
 ```
+
 Then Change Directory to the Png File Location and Copy Paste the Following Into the Terminal:
-```plaintext
+
+```
 input_filepath="input.png"
 output_iconset_name="output.iconset"
 mkdir $output_iconset_name
@@ -22,6 +25,7 @@ iconutil -c icns $output_iconset_name
 
 rm -R $output_iconset_name
 ```
+
 And Hit Enter
 
 ### source
