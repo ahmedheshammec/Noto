@@ -129,6 +129,11 @@ You Can Find It in the Top Right Corner of the Previous Screenshot.
 ![image](updateList.jpeg)
 
 
+### Blending Modes for Clips
+
+❖ Select a Clip and Open the Inspection → Composite → Select the Blending Mode for the Clip
+
+
 ### Blending Modes in Nodes
 
 ❖ DaVinci Resolve Uses Node-Based Color Grading (Like Layers in Photoshop with Blending Modes); You Can Add Nodes From Here 👇
@@ -165,8 +170,28 @@ You Can Find It in the Top Right Corner of the Previous Screenshot.
 
 ❖ When You Export Choose `ProRes` If You Have `ffmpeg` Nearby on the Mac or Something, and Choose `youtube` If You Don't Have `ffmpeg` Around and You Want An `mpeg-4` File With `mp4` Extension.
 
-❖ Until Now I Don't Know a Way to Export with Alpha Channel From DaVinci but There's a Workaround for That: You Can Create a Still Image with the Green Screen Hex Code and Export the Video with It, Then You Can Use the Key Effect Later in Something Like After Effects to Get the Alpha Channel.
 
+### Hook up a Keyboard and Mouse
+
+❖ When You Connect Keyboard and Mouse (or Use the Ones with the Mac) You Can Press ⌘+⌥+K to Open up the Following Window
+
+![image](keyboardCustomization.jpeg)
+
+❖ Also You Can Use the Keyboard Shortcuts `I` and `O` To Set the in & Out Points in the Source Monitor Just Like in Premiere Pro, you can also use ⌘+Z and other useful Shortcuts.
+
+### How to Show the Rest of the Pages?
+
+❖ When You Open the App for the First Time You Will only See the Cut Page and the Color Page but You Can Actually Add the Rest of the Pages All You Have to Do Is Use the Keyboard Shortcut ⌥+⌘+K to Open up the Keyboard Customization Window and From There Search For `workspace` You Will See Under It Show Page and All the Pages
+
+![image](showTheRestOfThePages.jpeg)
+
+❖ Now All You Have to Do Set Keyboard Shortcuts for the Pages (i Prefer ⇧+1,2,3, etc.)
+
+❖ In the Edit Page You Can Use Compound Clips when You Set in and Out Points and You Can Also Zoom in and Out Through the Timeline with Your Fingers.
+
+❖ When You Show the Deliver Page You Can Get Access to Custom Codec Settings Like Export with Alpha Channel
+
+![image](customRenderSettings.jpeg)
 
 
 ### Useful Things to Know

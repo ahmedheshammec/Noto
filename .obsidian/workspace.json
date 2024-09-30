@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nexus/Davinci Reslove for IPad/Basics.md",
+                "file": "Apple/iPad/FFMPEG on iPad.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nexus/Davinci Reslove for IPad/Basics.md",
+                "file": "Apple/iPad/FFMPEG on iPad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nexus/Davinci Reslove for IPad/Basics.md",
+                "file": "Apple/iPad/FFMPEG on iPad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nexus/Davinci Reslove for IPad/Basics.md"
+                "file": "Apple/iPad/FFMPEG on iPad.md"
               }
             }
           }
@@ -173,19 +173,22 @@
   },
   "active": "f0ced05080dfae25",
   "lastOpenFiles": [
+    "Nexus/Davinci Reslove for IPad/Basics.md",
+    "Apple/iPad/FFMPEG on iPad.md",
+    "Apple/iPad",
+    "Nexus/Davinci Reslove for IPad/customRenderSettings.jpeg",
+    "Nexus/Davinci Reslove for IPad/showTheRestOfThePages.jpeg",
+    "Nexus/Davinci Reslove for IPad/keyboardCustomization.jpeg",
     "Chat GPT/ChatGPT to Obsidian Formatting with REGEX.md",
+    "Git & Github/How to Create a New Repo from Terminal using Github CLI/How to Create a New Repo from Terminal using Github CLI.md",
     "FFMPEG Guide/FFMPEG Commands/FFMPEG Commands.md",
     "Nexus/Davinci Reslove for IPad/switchingTimelineScoops.gif",
-    "Nexus/Davinci Reslove for IPad/Basics.md",
     "Nexus/Davinci Reslove for IPad/grabStill_2.jpeg",
     "Nexus/Davinci Reslove for IPad/grabStill_1.jpeg",
     "Nexus/Davinci Reslove for IPad/showOrHideColorGrading.jpeg",
     "Nexus/Davinci Reslove for IPad/addingNodes.jpeg",
     "Nexus/Davinci Reslove for IPad/adding nodes.jpeg",
     "Nexus/Davinci Reslove for IPad/speedControls.jpeg",
-    "Nexus/Davinci Reslove for IPad/changeSpeed.jpeg",
-    "Nexus/Davinci Reslove for IPad/blendingModes.jpeg",
-    "Nexus/Davinci Reslove for IPad/diableVideoOrAudio.jpeg",
     "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
     "Apple/MacOS/Create custom icns Icons for macOS Apps/Create custom icns Icons for macOS Apps.md",
     "Terminal/grep and pdfgrep/grep and pdfgrep.md",
@@ -207,11 +210,9 @@
     "VS-Code/Cheat Sheet/Cheat Sheet.md",
     "Git & Github/App_V1, App_v2 Workflow vs Github Workflow.md",
     "VS-Code/How to Change Cell Language in Jupyter Notebook with  a Shortcut/How to Change Cell Language in Jupyter Notebook with  a Shortcut.md",
-    "Git & Github/How to Create a New Repo from Terminal using Github CLI/How to Create a New Repo from Terminal using Github CLI.md",
     "Apple/MacOS/How to Decrease the show time of your Dock when you set it to Autohide/How to Decrease the show time of your Dock when you set it to Autohide.md",
     "Graphic Design/Final Cut Pro/09 - Where Does Final Cut Pro Stores Custom Keyboard Shortcut Sets?.md",
     "Chat GPT/How to Merge Subtitle with Movie using FFMPEG/How to Merge Subtitle with Movie using FFMPEG.md",
-    "Graphic Design/Final Cut Pro/08 - Assign Colors to Clips usin Roles/08 - Assign Colors to Clips usin Roles.md",
     "Work/Event/Engraving Fonts",
     "Work/Event/Color Codes",
     "Solved/How to fix problem of an unknown error has occurred on Illustrator"
