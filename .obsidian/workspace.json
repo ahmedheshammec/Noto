@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apple/iPad/FFMPEG on iPad.md",
+                "file": "Git & Github/How to Convert Any Webpage to an Application Using Nativefier (Cross Platform).md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apple/iPad/FFMPEG on iPad.md",
+                "file": "Git & Github/How to Convert Any Webpage to an Application Using Nativefier (Cross Platform).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apple/iPad/FFMPEG on iPad.md",
+                "file": "Git & Github/How to Convert Any Webpage to an Application Using Nativefier (Cross Platform).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apple/iPad/FFMPEG on iPad.md"
+                "file": "Git & Github/How to Convert Any Webpage to an Application Using Nativefier (Cross Platform).md"
               }
             }
           }
@@ -173,8 +173,15 @@
   },
   "active": "f0ced05080dfae25",
   "lastOpenFiles": [
-    "Nexus/Davinci Reslove for IPad/Basics.md",
+    "Nexus/Tailwind CSS/Installation/Installation.md",
+    "Git & Github/How to Convert Any Webpage to an Application Using Nativefier (Cross Platform).md",
+    "Noto/Noto to Obsidian.md",
+    "Linux/How to remove the lock on folders and files when created via root user/How to Remove the Lock on Folders and Files when Created via Root User - How to Take Ownership over a Directory in MacOs.md",
+    "Apple/MacOS/ How to Repair Permissions and Rebuild Kext Cache /** How to Repair Permissions and Rebuild Kext Cache .md",
+    "Apple/iPad/FFPB ON iPad.md",
+    "Apple/iPad/YT-DLP on iPad.md",
     "Apple/iPad/FFMPEG on iPad.md",
+    "Nexus/Davinci Reslove for IPad/Basics.md",
     "Apple/iPad",
     "Nexus/Davinci Reslove for IPad/customRenderSettings.jpeg",
     "Nexus/Davinci Reslove for IPad/showTheRestOfThePages.jpeg",
@@ -200,19 +207,12 @@
     "Python/How to Fix Externally-Managed-Environment Error.md",
     "NodeJs and NVM/How to Install NVM and Manage Multiple NodeJs Versions?.md",
     "NodeJs and NVM",
-    "Noto/Noto to Obsidian.md",
     "Terminal/How to Use the Tree Command to only Show some Specific Files_/How to Use the Tree Command?.md",
     "Pycharm & Odoo/How to Kill Processes Using 8069 Port on Mac/How to Kill Processes Using 8069 Port on Mac.md",
     "Terminal/How to Remove Duplicates Using rmlint/How to Remove Duplicates Using rmlint.md",
     "Apple/MacOS/ Enable Repeat Key on Mac /** Enable Repeat Key on Mac .md",
     "Apple/MacOS/ Disable the red Software Update notification bubble on the System Preferences app in MacOS Mojave /** Disable the red Software Update notification bubble on the System Preferences app in MacOS Mojave .md",
     "Terminal/How to Sync Two Folders with Rsync Command/How to Sync Two Folders with Rsync Command.md",
-    "VS-Code/Cheat Sheet/Cheat Sheet.md",
-    "Git & Github/App_V1, App_v2 Workflow vs Github Workflow.md",
-    "VS-Code/How to Change Cell Language in Jupyter Notebook with  a Shortcut/How to Change Cell Language in Jupyter Notebook with  a Shortcut.md",
-    "Apple/MacOS/How to Decrease the show time of your Dock when you set it to Autohide/How to Decrease the show time of your Dock when you set it to Autohide.md",
-    "Graphic Design/Final Cut Pro/09 - Where Does Final Cut Pro Stores Custom Keyboard Shortcut Sets?.md",
-    "Chat GPT/How to Merge Subtitle with Movie using FFMPEG/How to Merge Subtitle with Movie using FFMPEG.md",
     "Work/Event/Engraving Fonts",
     "Work/Event/Color Codes",
     "Solved/How to fix problem of an unknown error has occurred on Illustrator"
