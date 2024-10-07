@@ -44,6 +44,10 @@ code demo
 
 `⌃ +G` >>> go to line [Helps with Debugging]
 
+### Select Between Tags
+
+The Built-In Command Emmet: Balance (Outward) Does the Job but It Doesn't Have a Built in Shortcut but You Can Create Your Own From the Settings. (⇧ + ⌥ + E) Won't Make Any Conflicts.
+
 :: __`HTML Emmet Abbreviations  Cheat Sheet`__ ::
 This Emmet:
 
