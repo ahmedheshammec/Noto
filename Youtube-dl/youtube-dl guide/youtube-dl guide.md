@@ -282,3 +282,18 @@ yt-dlp --get-title https://youtu.be/bp2eev21Qfo
 ```
 
 
+### How to Download only a Portion of a Youtube Video?
+
+Use the Following Command: 
+
+```zsh
+yt-dlp --download-sections "*02:00:00-02:00:10" -f 248+251 'https://www.youtube.com/watch?v=CwA1VWP0Ldw'
+```
+
+❖ nOte: The `248+251` Came From the Following Command: 
+
+```zsh
+yt-dlp -F https://www.youtube.com/watch?v=CwA1VWP0Ldw | grep webm > formats.md
+```
+
+❖ This Command Redirects All `Webm` Formats We Can Get to a Markdown File and We Choose the Video Format `248` and the Audio Format `251`   
