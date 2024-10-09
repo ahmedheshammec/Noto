@@ -87,5 +87,5 @@ button[onclick="confirmNavigation()"]{Open Google}
 will write code like this: 
 
 ```plaintext
-<buttononclick="confirmNavigation()">Open Google</button>
+<button onclick="confirmNavigation()">Open Google</button>
 ```

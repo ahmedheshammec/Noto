@@ -45,9 +45,9 @@ curl -L -o tailwind.js https://cdn.tailwindcss.com
 <script src="tailwind.js"></script>
 ```
 
-❖ To Make Sure It's Loaded Open the Html File and See if It's Loaded in the Sources Tab, Also by Commenting Out the Line that Loads Tailwind You Will See a Visual Difference.
+❖ To Make Sure It's Loaded Open the HTML File and See if It's Loaded in the Sources Tab, Also by Commenting Out the Line that Loads Tailwind You Will See a Visual Difference.
 
-❖ We Can Config the tailwind.css From There to Add More Stuff Like Adding Custom Colors, Fonts, Etc.
+❖ We Can Config the `tailwind.css` From There to Add More Stuff Like Adding Custom Colors, Fonts, Etc.
 
 ```html
 <head>
@@ -277,6 +277,8 @@ There's Something Called `screens` In the Responsive Design; Which Means when th
 `mt` → Margin Top
 `ml` → Margin Left
 `mr` → Margin Right
+`mx` → Margin Left & Right (X-Axis)
+`m` → Margin Top & Bottom (Y-Axis)
 
 ❖ We Can Change `mb-3` to `m-3` This Will Apply the Margin From All Sides. 
 
@@ -434,3 +436,222 @@ Let's Say We Have a Custom Font in Our System Called `Brush Script.ttf` And We P
 ```
 
 
+### Padding
+
+### What Is the Difference Between Margin and Padding?
+
+`Margin` → The Space Outside of the Element. 
+
+`Padding` → The Space Inside the Element. 
+
+Some Examples: 
+
+|Class|Properties|
+|---|---|
+|p-0|padding: 0px;|
+|px-0|padding-left: 0px; padding-right: 0px;|
+|py-0|padding-top: 0px; padding-bottom: 0px;|
+|ps-0|padding-inline-start: 0px;|
+|pe-0|padding-inline-end: 0px;|
+|pt-0|padding-top: 0px;|
+|pr-0|padding-right: 0px;|
+|pb-0|padding-bottom: 0px;|
+|pl-0|padding-left: 0px;|
+|p-px|padding: 1px;|
+|px-px|padding-left: 1px; padding-right: 1px;|
+|py-px|padding-top: 1px; padding-bottom: 1px;|
+|ps-px|padding-inline-start: 1px;|
+|pe-px|padding-inline-end: 1px;|
+|pt-px|padding-top: 1px;|
+|pr-px|padding-right: 1px;|
+|pb-px|padding-bottom: 1px;|
+|pl-px|padding-left: 1px;|
+|p-0.5|padding: 0.125rem; /* 2px */|
+|px-0.5|padding-left: 0.125rem; /* 2px */ padding-right: 0.125rem; /* 2px */|
+|py-0.5|padding-top: 0.125rem; /* 2px */ padding-bottom: 0.125rem; /* 2px */|
+|ps-0.5|padding-inline-start: 0.125rem; /* 2px */|
+|pe-0.5|padding-inline-end: 0.125rem; /* 2px */|
+|pt-0.5|padding-top: 0.125rem; /* 2px */|
+|pr-0.5|padding-right: 0.125rem; /* 2px */|
+|pb-0.5|padding-bottom: 0.125rem; /* 2px */|
+|pl-0.5|padding-left: 0.125rem; /* 2px */|
+|p-1|padding: 0.25rem; /* 4px */|
+|px-1|padding-left: 0.25rem; /* 4px */ padding-right: 0.25rem; /* 4px */|
+for more classes refer to the documentation at this link: 
+
+https://tailwindcss.com/docs/padding
+
+![image](marginAndPadding.png)
+
+### Space Between
+
+if you have a div that contains two or three elements inside that div you can add a class to the div to set the space between those two or three elements, for example: 
+
+| Class       | Properties                       |
+| ----------- | -------------------------------- |
+| space-x-0   | margin-left: 0px;                |
+| space-y-0   | margin-top: 0px;                 |
+| space-x-0.5 | margin-left: 0.125rem; /* 2px */ |
+| space-y-0.5 | margin-top: 0.125rem; /* 2px */  |
+| space-x-1   | margin-left: 0.25rem; /* 4px */  |
+| space-y-1   | margin-top: 0.25rem; /* 4px */   |
+for more classes, refer to the following documentation
+https://tailwindcss.com/docs/space
+
+### Grids in Tailwind
+
+See the Following Div Snippet and How Responsive Tailwind Is Making It: 
+
+```html
+<div class="mb-6 mt-4 text-white Parent bg-slate-900">
+    <div class="container mx-auto">
+        <div class="grid gap-4 md:grid-cols-4 sm:grid-cols-3 xs:grid-cols-2 ">
+            <div class="p-3 rounded-lg bg-sky-500">1</div>
+            <div class="p-3 rounded-lg bg-sky-500">2</div>
+            <div class="p-3 rounded-1g bg-sky-500">3</div>
+            <div class="p-3 rounded-1g bg-sky-500">4</div>
+            <div class="p-3 rounded-lg bg-sky-500">5</div>
+            <div class="p-3 rounded-1g bg-sky-500">6</div>
+        </div>
+    </div>
+</div>
+```
+
+![image](responsiveGrid.gif)
+
+→ Now if We Changed the Columns to Rows Like This: 
+
+```html
+<div class="mb-6 mt-4 text-white Parent bg-slate-900">
+
+<div class="container mx-auto">
+
+<div class="grid gap-4 grid-flow-col md:grid-rows-4 sm:grid-rows-3 xs:grid-rows-2 ">
+
+<div class="p-3 rounded-lg bg-sky-500">1</div>
+
+<div class="p-3 rounded-lg bg-sky-500">2</div>
+
+<div class="p-3 rounded-1g bg-sky-500">3</div>
+
+<div class="p-3 rounded-1g bg-sky-500">4</div>
+
+<div class="p-3 rounded-lg bg-sky-500">5</div>
+
+<div class="p-3 rounded-1g bg-sky-500">6</div>
+
+</div>
+
+</div>
+
+</div>
+```
+
+→ The Counting Order Will Change: 
+
+![image](countingOrder.png)
+
+→ You Can Play with the Numbers Until You Get What You're Looking For
+
+### What Is the Difference Between Grid and Container in Tailwind?
+
+**Key Differences**
+
+| **Feature** | **Grid**                                     | **Container**                                    |
+| ----------- | -------------------------------------------- | ------------------------------------------------ |
+| Purpose     | Controls grid-based layout (rows/columns)    | Defines a responsive, centered container         |
+| Layout      | Two-dimensional grid (rows & columns)        | No layout control (only width & centering)       |
+| Flexibility | Allows detailed control over positioning     | Automatically adjusts width based on screen size |
+| Example Use | Complex layouts like dashboards or galleries | Wrapping entire pages or sections of content     |
+**Example to show the difference**: 
+
+```html
+<div class="my-3">
+    <!-- Container Example -->
+    <div class="container mx-auto bg-blue-300 p-4">
+        <h1 class="text-2xl">This is a Container</h1>
+        <p class="mt-2">The container is centered, with its width adapting based on the screen size. It's great for
+            wrapping content sections or the entire page layout.</p>
+    </div>
+
+    <!-- Grid Example -->
+    <div class="grid grid-cols-3 gap-4 mt-8 p-4">
+        <div class="bg-red-500 p-4 text-white">Grid Item 1</div>
+        <div class="bg-green-500 p-4 text-white">Grid Item 2</div>
+        <div class="bg-blue-500 p-4 text-white">Grid Item 3</div>
+    </div>
+</div>
+```
+
+![image](containerVsGrid.png)
+
+### Adding Shadows
+
+→ Let's Say We Have a Dive Like This: 
+
+```html
+<div class="my-3 p-4 parent flex justify-center">
+    <div class="inline-block p-4 text-black bg-white border rounded-lg">
+        <h1 class="text-2xl">Hello</h1>
+        <p class="mb-4">This is My Div</p>
+        <button class="px-3 py-2 rounded-lg cursor-pointer bg-cyan-500">Say Hello</button>
+    </div>
+
+</div>
+```
+
+![image](roundedDiv.png)
+
+→ We Can Add the Shadow Classes Like This: 
+
+![image](shadows.png)
+
+Refer to This Documentation Link for More Options: 
+https://tailwindcss.com/docs/box-shadow
+
+### Animation in Tailwind
+
+See the Following Animated Bottom when You Hover over It: 
+
+```html
+<div class="container my-3 flex justify-center">
+    <button
+        class="scale-50 p-1 transition ease-in-out delay-100 bg-blue-500 hover:-translate-y-1 hover:scale-75 hover:bg-indigo-500 duration-300">
+        Save Changes
+    </button>
+</div>
+```
+
+→ We Used `scale-50` To Make the Button 50% Smaller and when We Hover over It It Scales From 50% To 75% 
+
+For More Scale Classes Refer to This Documentation: 
+https://tailwindcss.com/docs/scale
+
+#### Processing Button Using Tailwind
+
+```html
+<div class="flex items-center justify-center">
+  <button type="button" class="inline-flex items-center px-4 py-2 font-semibold leading-6 text-sm shadow rounded-md text-white bg-indigo-500 hover:bg-indigo-400 transition ease-in-out duration-150 cursor-not-allowed" disabled="">
+    <svg class="animate-spin -ml-1 mr-3 h-5 w-5 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+      <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+      <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+    </svg>
+    Processing...
+  </button>
+</div>
+```
+
+→ more examples can be found in this documentation: 
+https://tailwindcss.com/docs/animation
+
+→ you can `inspect element` in the page and copy the div that contains the animation if you want to test it in your own html document. 
+
+### Design System in Tailwind
+
+❖ Unfortunately with Tailwind CDN You Can't Use Something Like the `@Apply` Directive to Define a Class with Tailwind Code and Then Re-Use It to Apply the Code You Wrote for that Component
+
+
+### Useful Links
+
+Free Website for Icons
+https://icones.js.org
