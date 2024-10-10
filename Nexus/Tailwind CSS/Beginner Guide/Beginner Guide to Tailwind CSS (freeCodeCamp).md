@@ -339,8 +339,6 @@ Tailwind Comes with some Fonts that You Can Apply Right Away as a Class (on the 
 
 ![image](checkFontIfApplied.png)
 
-
-
 #### On the Fly Method
 
 ```html
@@ -648,7 +646,7 @@ https://tailwindcss.com/docs/animation
 
 ### Design System in Tailwind
 
-❖ Unfortunately with Tailwind CDN You Can't Use Something Like the `@Apply` Directive to Define a Class with Tailwind Code and Then Re-Use It to Apply the Code You Wrote for that Component
+❖ Unfortunately with Tailwind CDN You Can't Use Something Like the `@Apply` Directive to Define a Class with Tailwind Code and Then Re-Use It to Apply the Code You Wrote for that Components
 
 
 ### Useful Links
