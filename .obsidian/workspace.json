@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nexus/Tailwind CSS/Tailwind Build Via Vite/Tailwind Build Via Vite.md",
+                "file": "Nexus/UI-UX and Figma/Intro to UI-UX and Figma.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nexus/Tailwind CSS/Tailwind Build Via Vite/Tailwind Build Via Vite.md",
+                "file": "Nexus/UI-UX and Figma/Intro to UI-UX and Figma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nexus/Tailwind CSS/Tailwind Build Via Vite/Tailwind Build Via Vite.md",
+                "file": "Nexus/UI-UX and Figma/Intro to UI-UX and Figma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nexus/Tailwind CSS/Tailwind Build Via Vite/Tailwind Build Via Vite.md"
+                "file": "Nexus/UI-UX and Figma/Intro to UI-UX and Figma.md"
               }
             }
           }
@@ -161,20 +161,23 @@
   },
   "active": "f0ced05080dfae25",
   "lastOpenFiles": [
-    "Nexus/Tailwind CSS/Beginner Guide/Beginner Guide to Tailwind CSS (freeCodeCamp).md",
+    "Nexus/UI-UX and Figma/figmaPlugins.png",
+    "Nexus/UI-UX and Figma/figma plugins.png",
+    "Nexus/UI-UX and Figma/CleanShot 2024-10-14 at 07.42.10@2x.png",
+    "Nexus/UI-UX and Figma/devMode.png",
+    "Nexus/UI-UX and Figma/dev mode.png",
+    "Nexus/UI-UX and Figma/CleanShot 2024-10-14 at 07.00.37@2x.png",
+    "Nexus/UI-UX and Figma/downloadedLibrary.png",
+    "Nexus/UI-UX and Figma/Downloaded Library.png",
+    "Nexus/UI-UX and Figma/CleanShot 2024-10-14 at 06.45.14@2x.png",
+    "Nexus/UI-UX and Figma/Mockups.png",
+    "Nexus/UI-UX and Figma/CleanShot 2024-10-14 at 06.43.04@2x.png",
     "Nexus/Tailwind CSS/Tailwind Build Via Vite/Tailwind Build Via Vite.md",
-    "Nexus/Tailwind CSS/Tailwind Build Via Vite/firstUI.png",
-    "Nexus/Tailwind CSS/Tailwind Build Via Vite/CleanShot 2024-10-10 at 00.25.57@2x.png",
-    "Nexus/Tailwind CSS/Tailwind Build Via Vite/localhost.png",
-    "Nexus/Tailwind CSS/Tailwind Build Via Vite/localhowt.png",
-    "Nexus/Tailwind CSS/Tailwind Build Via Vite/CleanShot 2024-10-10 at 00.24.03@2x.png",
+    "Nexus/UI-UX and Figma/Intro to UI-UX and Figma.md",
+    "Nexus/UI-UX and Figma",
+    "Nexus/Tailwind CSS/Beginner Guide/Beginner Guide to Tailwind CSS (freeCodeCamp).md",
     "Nexus/Tailwind CSS/Tailwind Build Via Vite",
     "Apple/MacOS/Best Monitoring Utility for MacOS with Apple Silicon.md",
-    "Apple/MacOS/asitop.png",
-    "Nexus/Tailwind CSS/Beginner Guide/containerVsGrid.png",
-    "Nexus/Tailwind CSS/Beginner Guide/container vs grid.png",
-    "Nexus/Tailwind CSS/Beginner Guide/container vs div.png",
-    "Nexus/Tailwind CSS/Beginner Guide/CleanShot 2024-10-08 at 21.24.52@2x.png",
     "Chat GPT/ChatGPT to Obsidian Formatting with REGEX.md",
     "VS-Code/Cheat Sheet/Cheat Sheet.md",
     "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
@@ -200,7 +203,6 @@
     "NodeJs and NVM/How to Install NVM and Manage Multiple NodeJs Versions?.md",
     "NodeJs and NVM",
     "Terminal/How to Use the Tree Command to only Show some Specific Files_/How to Use the Tree Command?.md",
-    "Pycharm & Odoo/How to Kill Processes Using 8069 Port on Mac/How to Kill Processes Using 8069 Port on Mac.md",
     "Work/Event/Engraving Fonts",
     "Work/Event/Color Codes",
     "Solved/How to fix problem of an unknown error has occurred on Illustrator"
