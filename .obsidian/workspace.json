@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nexus/Tailwind CSS/Beginner Guide/Beginner Guide to Tailwind CSS (freeCodeCamp).md",
+                "file": "Nexus/How to Mirror a Website for Offline Access Using HTTRACK.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nexus/UI-UX and Figma/Intro to UI-UX and Figma.md",
+                "file": "Nexus/How to Mirror a Website for Offline Access Using HTTRACK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nexus/UI-UX and Figma/Intro to UI-UX and Figma.md",
+                "file": "Nexus/How to Mirror a Website for Offline Access Using HTTRACK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nexus/UI-UX and Figma/Intro to UI-UX and Figma.md"
+                "file": "Nexus/How to Mirror a Website for Offline Access Using HTTRACK.md"
               }
             }
           }
@@ -159,8 +160,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0ced05080dfae25",
+  "active": "bccf5bf2ed86031f",
   "lastOpenFiles": [
+    "Nexus/Tailwind CSS/Beginner Guide/Beginner Guide to Tailwind CSS (freeCodeCamp).md",
+    "Nexus/How to Mirror a Website for Offline Access Using HTTRACK.md",
+    "Untitled.md",
+    "Nexus/UI-UX and Figma/Intro to UI-UX and Figma.md",
     "Nexus/UI-UX and Figma/figmaPlugins.png",
     "Nexus/UI-UX and Figma/figma plugins.png",
     "Nexus/UI-UX and Figma/CleanShot 2024-10-14 at 07.42.10@2x.png",
@@ -171,11 +176,8 @@
     "Nexus/UI-UX and Figma/Downloaded Library.png",
     "Nexus/UI-UX and Figma/CleanShot 2024-10-14 at 06.45.14@2x.png",
     "Nexus/UI-UX and Figma/Mockups.png",
-    "Nexus/UI-UX and Figma/CleanShot 2024-10-14 at 06.43.04@2x.png",
     "Nexus/Tailwind CSS/Tailwind Build Via Vite/Tailwind Build Via Vite.md",
-    "Nexus/UI-UX and Figma/Intro to UI-UX and Figma.md",
     "Nexus/UI-UX and Figma",
-    "Nexus/Tailwind CSS/Beginner Guide/Beginner Guide to Tailwind CSS (freeCodeCamp).md",
     "Nexus/Tailwind CSS/Tailwind Build Via Vite",
     "Apple/MacOS/Best Monitoring Utility for MacOS with Apple Silicon.md",
     "Chat GPT/ChatGPT to Obsidian Formatting with REGEX.md",
@@ -202,7 +204,6 @@
     "Python/How to Fix Externally-Managed-Environment Error.md",
     "NodeJs and NVM/How to Install NVM and Manage Multiple NodeJs Versions?.md",
     "NodeJs and NVM",
-    "Terminal/How to Use the Tree Command to only Show some Specific Files_/How to Use the Tree Command?.md",
     "Work/Event/Engraving Fonts",
     "Work/Event/Color Codes",
     "Solved/How to fix problem of an unknown error has occurred on Illustrator"
