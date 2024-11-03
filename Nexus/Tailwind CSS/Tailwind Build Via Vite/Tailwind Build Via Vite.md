@@ -5,6 +5,7 @@
 
 ```zsh
 npm init vite
+cd vite-project
 npm install tailwindcss
 ```
 

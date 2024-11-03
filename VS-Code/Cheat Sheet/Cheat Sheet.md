@@ -40,9 +40,9 @@ code demo
 
 `⌘ +⇧ +o` >>> get to variables and functions quickly
 
-`⌘ +G` >>> open find and replace dialogue 
+`⌘ + G` >>> open find and replace dialogue 
 
-`⌃ +G` >>> go to line [Helps with Debugging]
+`⌃ + G` >>> go to line [Helps with Debugging]
 
 ### Select Between Tags
 

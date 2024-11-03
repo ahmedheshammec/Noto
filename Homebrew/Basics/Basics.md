@@ -70,3 +70,25 @@ In the Following Path:
 /opt/homebrew/Caskroom/
 ```
 
+## How to Fetch the Source Install File to Use It Later?
+
+use the following command: 
+
+```zsh
+brew fetch --cask {cask_name}
+```
+
+after the download process finishes it will be downloaded in the following directory: 
+
+```
+/Users/ahmed/Library/Caches/Homebrew/downloads/
+```
+
+to cleanup all files in the cache use the following command: 
+
+```zsh
+rm -r ~/Library/Caches/Homebrew/*
+```
+
+
+

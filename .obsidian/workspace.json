@@ -13,22 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nexus/UI-UX and Figma/Intro to UI-UX and Figma.md",
+                "file": "Apple/iPad/Beginner Guide.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Beginner Guide"
             }
           },
           {
-            "id": "bccf5bf2ed86031f",
+            "id": "4908a392b88b8c3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nexus/How to Mirror a Website for Offline Access Using HTTRACK.md",
+                "file": "Homebrew/Basics/Basics.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Basics"
             }
           }
         ],
@@ -52,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nexus/How to Mirror a Website for Offline Access Using HTTRACK.md",
+                "file": "Apple/MacOS/Best Monitoring Utility for MacOS with Apple Silicon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Best Monitoring Utility for MacOS with Apple Silicon"
             }
           },
           {
@@ -115,10 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nexus/How to Mirror a Website for Offline Access Using HTTRACK.md",
+                "file": "Apple/MacOS/Best Monitoring Utility for MacOS with Apple Silicon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Best Monitoring Utility for MacOS with Apple Silicon"
             }
           },
           {
@@ -129,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -138,8 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nexus/How to Mirror a Website for Offline Access Using HTTRACK.md"
-              }
+                "file": "Apple/MacOS/Best Monitoring Utility for MacOS with Apple Silicon.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Best Monitoring Utility for MacOS with Apple Silicon"
             }
           }
         ]
@@ -160,12 +178,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bccf5bf2ed86031f",
+  "active": "4908a392b88b8c3b",
   "lastOpenFiles": [
+    "Apple/MacOS/Best Monitoring Utility for MacOS with Apple Silicon.md",
+    "Python/How to Fix Externally-Managed-Environment Error.md",
+    "Apple/iPad/Beginner Guide.md",
+    "Apple/iPad/How to Create an Alias in a-Shell.md",
+    "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
+    "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
+    "Youtube-dl/How to Download Videos from TikTok that Consist of Images and Audio/How to Download Videos from TikTok that Consist of Images and Audio.md",
+    "VS-Code/Cheat Sheet/Cheat Sheet.md",
+    "Nexus/Tailwind CSS/Tailwind Build Via Vite/Tailwind Build Via Vite.md",
     "Nexus/Tailwind CSS/Beginner Guide/Beginner Guide to Tailwind CSS (freeCodeCamp).md",
+    "VS-Code/How to Fix VS Code Auto Indenting Code when You Paste It/How to Fix VS Code Auto Indenting Code when You Paste It.md",
+    "VS-Code/How to Enable Auto Indentation in VS-Code?.md",
+    "Nexus/UI-UX and Figma/Intro to UI-UX and Figma.md",
     "Nexus/How to Mirror a Website for Offline Access Using HTTRACK.md",
     "Untitled.md",
-    "Nexus/UI-UX and Figma/Intro to UI-UX and Figma.md",
     "Nexus/UI-UX and Figma/figmaPlugins.png",
     "Nexus/UI-UX and Figma/figma plugins.png",
     "Nexus/UI-UX and Figma/CleanShot 2024-10-14 at 07.42.10@2x.png",
@@ -176,14 +205,9 @@
     "Nexus/UI-UX and Figma/Downloaded Library.png",
     "Nexus/UI-UX and Figma/CleanShot 2024-10-14 at 06.45.14@2x.png",
     "Nexus/UI-UX and Figma/Mockups.png",
-    "Nexus/Tailwind CSS/Tailwind Build Via Vite/Tailwind Build Via Vite.md",
     "Nexus/UI-UX and Figma",
     "Nexus/Tailwind CSS/Tailwind Build Via Vite",
-    "Apple/MacOS/Best Monitoring Utility for MacOS with Apple Silicon.md",
     "Chat GPT/ChatGPT to Obsidian Formatting with REGEX.md",
-    "VS-Code/Cheat Sheet/Cheat Sheet.md",
-    "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
-    "Youtube-dl/How to Download Videos from TikTok that Consist of Images and Audio/How to Download Videos from TikTok that Consist of Images and Audio.md",
     "Youtube-dl/[TikTok] Failed to parse JSON - Can't download videos without watermark/[TikTok] Failed to parse JSON - Can't download videos without watermark.md",
     "Git & Github/How to Convert Any Webpage to an Application Using Nativefier (Cross Platform).md",
     "Noto/Noto to Obsidian.md",
@@ -195,14 +219,8 @@
     "Nexus/Davinci Reslove for IPad/Basics.md",
     "Apple/iPad",
     "Git & Github/How to Create a New Repo from Terminal using Github CLI/How to Create a New Repo from Terminal using Github CLI.md",
-    "FFMPEG Guide/FFMPEG Commands/FFMPEG Commands.md",
-    "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
-    "Apple/MacOS/Create custom icns Icons for macOS Apps/Create custom icns Icons for macOS Apps.md",
-    "Terminal/grep and pdfgrep/grep and pdfgrep.md",
     "Nexus/Davinci Reslove for IPad",
     "Nexus",
-    "Python/How to Fix Externally-Managed-Environment Error.md",
-    "NodeJs and NVM/How to Install NVM and Manage Multiple NodeJs Versions?.md",
     "NodeJs and NVM",
     "Work/Event/Engraving Fonts",
     "Work/Event/Color Codes",

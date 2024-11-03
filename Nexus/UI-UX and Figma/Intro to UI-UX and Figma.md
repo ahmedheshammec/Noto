@@ -173,6 +173,10 @@ you can search for plugins that does various of tasks
 
 ❖ if you click on the color in the fill tab you can save specific colors as your palette. 
 
+❖ sometimes when you place something on top of a component it just takes it's place but if you clicked the control key ⌃ it will place it on top of it normally. 
+
+
+
 
 
 
