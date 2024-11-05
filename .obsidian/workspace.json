@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5c8549b60fd73858",
+        "id": "f466fcf981c62c83",
         "type": "tabs",
         "children": [
           {
-            "id": "f0ced05080dfae25",
+            "id": "d6d57f747c31c0d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apple/iPad/Beginner Guide.md",
+                "file": "VS-Code/How to Backup Extensions?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Beginner Guide"
-            }
-          },
-          {
-            "id": "4908a392b88b8c3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homebrew/Basics/Basics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Basics"
+              "title": "How to Backup Extensions?"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,14 +163,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4908a392b88b8c3b",
+  "active": "d6d57f747c31c0d6",
   "lastOpenFiles": [
-    "Apple/MacOS/Best Monitoring Utility for MacOS with Apple Silicon.md",
-    "Python/How to Fix Externally-Managed-Environment Error.md",
+    "Chat GPT/ChatGPT to Obsidian Formatting with REGEX.md",
+    "VS-Code/How to Backup Extensions?.md",
     "Apple/iPad/Beginner Guide.md",
     "Apple/iPad/How to Create an Alias in a-Shell.md",
-    "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
     "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
+    "Homebrew/Basics/Basics.md",
+    "Apple/MacOS/Best Monitoring Utility for MacOS with Apple Silicon.md",
+    "Python/How to Fix Externally-Managed-Environment Error.md",
+    "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
     "Youtube-dl/How to Download Videos from TikTok that Consist of Images and Audio/How to Download Videos from TikTok that Consist of Images and Audio.md",
     "VS-Code/Cheat Sheet/Cheat Sheet.md",
     "Nexus/Tailwind CSS/Tailwind Build Via Vite/Tailwind Build Via Vite.md",
@@ -207,7 +195,6 @@
     "Nexus/UI-UX and Figma/Mockups.png",
     "Nexus/UI-UX and Figma",
     "Nexus/Tailwind CSS/Tailwind Build Via Vite",
-    "Chat GPT/ChatGPT to Obsidian Formatting with REGEX.md",
     "Youtube-dl/[TikTok] Failed to parse JSON - Can't download videos without watermark/[TikTok] Failed to parse JSON - Can't download videos without watermark.md",
     "Git & Github/How to Convert Any Webpage to an Application Using Nativefier (Cross Platform).md",
     "Noto/Noto to Obsidian.md",
@@ -216,9 +203,7 @@
     "Apple/iPad/FFPB ON iPad.md",
     "Apple/iPad/YT-DLP on iPad.md",
     "Apple/iPad/FFMPEG on iPad.md",
-    "Nexus/Davinci Reslove for IPad/Basics.md",
     "Apple/iPad",
-    "Git & Github/How to Create a New Repo from Terminal using Github CLI/How to Create a New Repo from Terminal using Github CLI.md",
     "Nexus/Davinci Reslove for IPad",
     "Nexus",
     "NodeJs and NVM",
