@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VS-Code/How to Backup Extensions?.md",
+                "file": "Nexus/PDF Rag with Ollama - How to talk to PDFs using LLMs?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to Backup Extensions?"
+              "title": "PDF Rag with Ollama - How to talk to PDFs using LLMs?"
+            }
+          },
+          {
+            "id": "2e58516a49db4292",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pycharm & Odoo/Odoo 15 Setup & Error Fixes/Odoo 15 Setup & Error Fixes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Odoo 15 Setup & Error Fixes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,16 +178,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6d57f747c31c0d6",
+  "active": "2e58516a49db4292",
   "lastOpenFiles": [
-    "Chat GPT/ChatGPT to Obsidian Formatting with REGEX.md",
+    "Nexus/PDF Rag with Ollama - How to talk to PDFs using LLMs?.md",
+    "Pycharm & Odoo/Odoo 15 Setup & Error Fixes/Odoo 15 Setup & Error Fixes.md",
+    "Nexus/How to Mirror a Website for Offline Access Using HTTRACK.md",
+    "Python/How to Fix Externally-Managed-Environment Error.md",
     "VS-Code/How to Backup Extensions?.md",
+    "Chat GPT/ChatGPT to Obsidian Formatting with REGEX.md",
     "Apple/iPad/Beginner Guide.md",
     "Apple/iPad/How to Create an Alias in a-Shell.md",
     "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
     "Homebrew/Basics/Basics.md",
     "Apple/MacOS/Best Monitoring Utility for MacOS with Apple Silicon.md",
-    "Python/How to Fix Externally-Managed-Environment Error.md",
     "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
     "Youtube-dl/How to Download Videos from TikTok that Consist of Images and Audio/How to Download Videos from TikTok that Consist of Images and Audio.md",
     "VS-Code/Cheat Sheet/Cheat Sheet.md",
@@ -181,7 +199,6 @@
     "VS-Code/How to Fix VS Code Auto Indenting Code when You Paste It/How to Fix VS Code Auto Indenting Code when You Paste It.md",
     "VS-Code/How to Enable Auto Indentation in VS-Code?.md",
     "Nexus/UI-UX and Figma/Intro to UI-UX and Figma.md",
-    "Nexus/How to Mirror a Website for Offline Access Using HTTRACK.md",
     "Untitled.md",
     "Nexus/UI-UX and Figma/figmaPlugins.png",
     "Nexus/UI-UX and Figma/figma plugins.png",
@@ -201,8 +218,6 @@
     "Linux/How to remove the lock on folders and files when created via root user/How to Remove the Lock on Folders and Files when Created via Root User - How to Take Ownership over a Directory in MacOs.md",
     "Apple/MacOS/ How to Repair Permissions and Rebuild Kext Cache /** How to Repair Permissions and Rebuild Kext Cache .md",
     "Apple/iPad/FFPB ON iPad.md",
-    "Apple/iPad/YT-DLP on iPad.md",
-    "Apple/iPad/FFMPEG on iPad.md",
     "Apple/iPad",
     "Nexus/Davinci Reslove for IPad",
     "Nexus",
