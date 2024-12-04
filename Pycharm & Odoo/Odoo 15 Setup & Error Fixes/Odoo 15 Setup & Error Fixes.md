@@ -1,30 +1,42 @@
 ❖ First Things First: The Python Version that Worked for Me Is Python@3.10.14
 ❖ To Make Everything Run Smooth Create a Virtual Environment Inside Odoo Folder Using the Following Command: 
-```plaintext
+
+```
 python -m venv .venv
 ```
+
 ❖ This Will Create a Hidden Venv File in the Odoo Odoo, Now We Need to Activate It
-```plaintext
+
+```
 source /Users/Ahmed/Documents/odoo15-15.0/.venv/bin/activate
 ```
+
 ❖ Now Let's Check that There's No Lists Installed Using the Following Command: 
-```plaintext
+
+```
 python -m pip list
 ```
+
 ❖ Next Let's Install the Requirements in the requirements.txt File Using the Following Command: 
-```plaintext
+
+```
 python -m pip install -r <path to the requiremtns file>
 ```
+
 ❖ Next Add the Following Lines in the Confing Under the Debian Directory: 
-```plaintext
+
+```
 addons_path = /Users/Ahmed/Documents/odoo15-15.0/addons,/Users/Ahmed/Documents/odoo15-15.0/custom_addons
 limit_memory_hard = 0
 limit_memory_soft = 0
 ```
+
 ❖ Now Let's Launch the Server:
-```plaintext
+
+```
 python odoo-bin -c /Users/Ahmed/Documents/odoo15-15.0/debian/odoo.conf
 ```
+
 ❖ If You Encountered a Problem Like This: `ValueError: current limit exceeds maximum limit`  Do the Following:
 1. Open Terminal.
 2. Type `sudo -i` and enter your password to switch to the root user.
@@ -39,47 +51,59 @@ python odoo-bin -c /Users/Ahmed/Documents/odoo15-15.0/debian/odoo.conf
 ### Installing Postgres@13
 This Is the Version of Postgres that Is Specifically Mentioned in Odoo's Documentation and Is Known to Be Compatible and Stable with Odoo 15.
 To Install Use the Following Command: 
-```plaintext
+
+```
 brew install postgresql@13
 ```
+
 To Check the Version of Postgres Currently Running Type:
-```plaintext
+
+```
 psql --version
 ```
 
+
 :: __`If I Have Postgres 16 and 13 How Can I Move Back and Forth Between the Two ?`__ ::
 ❖ First Let's Stop the Postgres 16 Service:
-```plaintext
+
+```
 brew services stop postgresql@16
 ```
+
 ❖ Now Let's Start the Postgres 13 Service:
-```plaintext
+
+```
 services start postgresql@13
 ```
+
 next we need to link `psql` command to postgres13 not 16, we can set it manually like this: 
-```plaintext
+
+```
 export PATH="/opt/homebrew/Cellar/postgresql@13/13.15/bin:$PATH"
 ```
+
 But for Convenience We Will Add the Following Alieases to Our `.zshrc` File: 
-```plaintext
+
+```
 # postgres aliases
 alias use_postgres_13='export PATH="/opt/homebrew/Cellar/postgresql@13/13.15/bin:$PATH"'
 alias use_postgres_16='export PATH="/opt/homebrew/Cellar/postgresql@16/16.2_1/bin:$PATH"'
 ```
+
 Now You Can Use Any of the Aliases to Go Back and Forth Between Different Versions of Postgres.
 also you can check the running postgres using the following command: 
-```plaintext
+
+```
 psql --version
 ```
+
 next you need to create role odoo in in the postgres and give it permission to create database.
 if you encounter the following error: `OSError: [Errno 48] Address already in use ` you need to shut down the processes that uses 8069 port. 
 
 :: __`Fixing X509_V_FLAG_NOTIFY_POLICY Error `__ ::
-The problem is with cryptography and pyopenssl libraries. change requirements.txt as:
+The problem is with cryptography and pyopenssl libraries.change requirements.txt as:
 go to terminal and:
 `pip uninstall pyopenssl`
 `pip install pyopenssl==22.0.0`
 `pip uninstall cryptography`
 `pip install cryptography==37.0.0`
-
-

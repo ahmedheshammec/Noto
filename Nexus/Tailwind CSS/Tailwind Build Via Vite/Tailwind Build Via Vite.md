@@ -101,7 +101,7 @@ export default defineConfig({
 <div class="bg-orange-500 text-white p-4">Hello World!</div>
 ```
 
-→ you might need to restart the `vite` session through the terminal for things to take effect. 
+→ you might need to `restart` the `vite` session through the terminal for things to take effect. 
 
 → now when you see the `Hello World` with the background you will notice it's centered in the page and that's because by default the `style.css` file contains the following `body` code: 
 

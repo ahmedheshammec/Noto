@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nexus/PDF Rag with Ollama - How to talk to PDFs using LLMs?.md",
+                "file": "Nexus/TMUX/TMUX Beginner Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PDF Rag with Ollama - How to talk to PDFs using LLMs?"
-            }
-          },
-          {
-            "id": "2e58516a49db4292",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pycharm & Odoo/Odoo 15 Setup & Error Fixes/Odoo 15 Setup & Error Fixes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Odoo 15 Setup & Error Fixes"
+              "title": "TMUX Beginner Guide"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gh repository github",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,28 +163,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e58516a49db4292",
+  "active": "d6d57f747c31c0d6",
   "lastOpenFiles": [
-    "Nexus/PDF Rag with Ollama - How to talk to PDFs using LLMs?.md",
-    "Pycharm & Odoo/Odoo 15 Setup & Error Fixes/Odoo 15 Setup & Error Fixes.md",
-    "Nexus/How to Mirror a Website for Offline Access Using HTTRACK.md",
-    "Python/How to Fix Externally-Managed-Environment Error.md",
-    "VS-Code/How to Backup Extensions?.md",
-    "Chat GPT/ChatGPT to Obsidian Formatting with REGEX.md",
-    "Apple/iPad/Beginner Guide.md",
-    "Apple/iPad/How to Create an Alias in a-Shell.md",
-    "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
-    "Homebrew/Basics/Basics.md",
+    "Apple/MacOS/When Sidecar is Not Working.md",
     "Apple/MacOS/Best Monitoring Utility for MacOS with Apple Silicon.md",
-    "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
-    "Youtube-dl/How to Download Videos from TikTok that Consist of Images and Audio/How to Download Videos from TikTok that Consist of Images and Audio.md",
-    "VS-Code/Cheat Sheet/Cheat Sheet.md",
+    "Nexus/TMUX/TMUX Beginner Guide.md",
+    "Pycharm & Odoo/VIP Shortcuts/VIP Shortcuts.md",
+    "FFMPEG Guide/FFMPEG Commands/FFMPEG Commands.md",
+    "Nexus/TMUX",
     "Nexus/Tailwind CSS/Tailwind Build Via Vite/Tailwind Build Via Vite.md",
+    "Nexus/Learn CSS Elzero 2021/Beginner Guide.md",
+    "Git & Github/How to Create a New Repo from Terminal using Github CLI/How to Create a New Repo from Terminal using Github CLI.md",
+    "Pycharm & Odoo/Odoo 15 Setup & Error Fixes/Odoo 15 Setup & Error Fixes.md",
+    "Linux/How to remove the lock on folders and files when created via root user/How to Remove the Lock on Folders and Files when Created via Root User - How to Take Ownership over a Directory in MacOs.md",
+    "Pycharm & Odoo/How to Add Pycharm Command to ZSH /How to Add Pycharm Command to ZSH .md",
+    "Apple/iPad/How to Create an Alias in a-Shell.md",
+    "Apple/iPad/YT-DLP on iPad.md",
+    "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
+    "Youtube-dl/[TikTok] Failed to parse JSON - Can't download videos without watermark/[TikTok] Failed to parse JSON - Can't download videos without watermark.md",
+    "VS-Code/How to Backup Extensions?.md",
     "Nexus/Tailwind CSS/Beginner Guide/Beginner Guide to Tailwind CSS (freeCodeCamp).md",
-    "VS-Code/How to Fix VS Code Auto Indenting Code when You Paste It/How to Fix VS Code Auto Indenting Code when You Paste It.md",
-    "VS-Code/How to Enable Auto Indentation in VS-Code?.md",
-    "Nexus/UI-UX and Figma/Intro to UI-UX and Figma.md",
-    "Untitled.md",
+    "Noto/Noto to Obsidian.md",
+    "Pycharm & Odoo/Pycharm Odoo Projects Workflow with Symbolic Links/Pycharm Odoo Projects Workflow with Symbolic Links.md",
+    "VS-Code/Cheat Sheet/Cheat Sheet.md",
+    "Python/How to Fix Externally-Managed-Environment Error.md",
+    "Python/Cheat Sheet/Cheat Sheet.md",
+    "Nexus/PDF Rag with Ollama - How to talk to PDFs using LLMs?.md",
+    "Nexus/Learn CSS Elzero 2021",
+    "Terminal/How to Compress GIF Using Terminal [gifsicle]/How to Compress GIF Using Terminal [gifsicle].md",
+    "Terminal/grep and pdfgrep/grep and pdfgrep.md",
+    "Terminal/ Homebrew and Casks Guide /** Homebrew and Casks Guide .md",
     "Nexus/UI-UX and Figma/figmaPlugins.png",
     "Nexus/UI-UX and Figma/figma plugins.png",
     "Nexus/UI-UX and Figma/CleanShot 2024-10-14 at 07.42.10@2x.png",
@@ -212,18 +205,11 @@
     "Nexus/UI-UX and Figma/Mockups.png",
     "Nexus/UI-UX and Figma",
     "Nexus/Tailwind CSS/Tailwind Build Via Vite",
-    "Youtube-dl/[TikTok] Failed to parse JSON - Can't download videos without watermark/[TikTok] Failed to parse JSON - Can't download videos without watermark.md",
-    "Git & Github/How to Convert Any Webpage to an Application Using Nativefier (Cross Platform).md",
-    "Noto/Noto to Obsidian.md",
-    "Linux/How to remove the lock on folders and files when created via root user/How to Remove the Lock on Folders and Files when Created via Root User - How to Take Ownership over a Directory in MacOs.md",
-    "Apple/MacOS/ How to Repair Permissions and Rebuild Kext Cache /** How to Repair Permissions and Rebuild Kext Cache .md",
-    "Apple/iPad/FFPB ON iPad.md",
     "Apple/iPad",
     "Nexus/Davinci Reslove for IPad",
     "Nexus",
     "NodeJs and NVM",
     "Work/Event/Engraving Fonts",
-    "Work/Event/Color Codes",
-    "Solved/How to fix problem of an unknown error has occurred on Illustrator"
+    "Work/Event/Color Codes"
   ]
 }
