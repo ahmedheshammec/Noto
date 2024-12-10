@@ -183,7 +183,161 @@ To test if your alias works, try using md in the terminal to create a directory.
 ```bash
 md testDirectory
 ```
+
 in windows you can type ipconfig to get your ip and other data, how can we do that on mac terminal? 
+
+## How to know which shell you're using and how to change the default shell?
+
+→ to know which shell you're using open the terminal and paste this command: 
+
+```
+echo $SHELL
+```
+
+→ to change the default shell use the following command: 
+
+```
+chsh -s /bin/bash
+```
+
+and restart the terminal. 
+
+## The `-y` Flag in Commands
+
+→ when you see a command like this: 
+
+```
+brew install --cask brave-browser -y
+```
+
+→ The `-y` flag is used to answer `Yes` automatically to any questions will be asked by the shell.
+
+## The Find Command
+
+→ The find command in Mac OS Searches and manipulates files and directories
+
+→ example to search for directories with the name `ollama` 
+
+```sh
+sudo find / -type d -iname "ollama" 2>/dev/null
+```
+
+
+	❖ The `/` in the command refers to the root directory
+	❖ The `i` in the flag `-iname` ignores case sensitivity.
+
+
+→ you can add more than condition like this: 
+
+```sh
+sudo find . -type f -iname "ollama" -o -type d -iname "ollama" 2>/dev/nul
+```
+
+	❖ This will search both files and directories
+
+→ to search for `ollama` and `.ollama` directories (normal and hidden directories) type: 
+
+```sh
+sudo find / -type d \( -name "ollama" -o -name ".ollama" \) 2>/dev/null
+```
+
+	❖ The `-o` operator is used to specify an alternative condition
+
+→ example case where we use `find` and `grep` to search for grep in files: 
+
+```sh
+find . -type f -name '*.txt' -exec grep -iH "example" {} \;
+```
+
+	❖ The `.` represent the current directory
+	❖ The `i` in the grep ignores case sensitivity.
+	❖ The -H option tells grep to print the filename and the line containing the string we're looking for. 
+
+→ Advanced example with `find` and `grep` and `regular Expressions` : let's say we want to search for a string `Hello World` but this string may exist in the files like this: `"Hello" World` with the word `Hello` quoted. thus; the normal find and grep commands won't work to catch this so what can we do about this? the answer is `regular Expressions` we will use it to widen the search parameters
+
+```sh
+find . -type f -name '*.txt' -exec grep -iH -E "hello.*world" {} \;
+```
+
+	❖ The `-E` flag tells `grep` that we will use a regular Expression
+	❖ The `.*` expression means find hello followed by any number of characters including white spaces until you find the world string
+
+## The Diff Command
+
+In macOS, `diff` is a command that compares two files or sets of files to show their differences. It generates an output showing what lines are different between the two input files.
+
+→ simple example to see difference between files: 
+
+```sh
+diff file1.txt file2.txt
+```
+
+→ simple example to search for difference between two directories 
+
+```sh
+diff -r Testing Testing2
+```
+
+we can get an output like this: 
+
+```
+Only in Testing2: file1 copy.md
+Only in Testing2: file2 copy.md
+```
+
+→ advanced example using `find` , `cat` , and `python` to find duplicates: 
+
+	❖ First use the find command to search for whatever you like (files or directories or both) 
+
+```sh
+find Testing Testing2 -type d | cat > output.txt
+```
+
+	❖ In this example i'm searching for only directories in both folders then i pipe the output to txt file with the cat command. 
+	❖ next we will use the following python script with the txt as an argument to find the duplicate folders in both directories
+
+```python
+#!/usr/bin/env python
+
+# script uses a txt file containing directories or files, store them in array and print out the duplicate records in the array (the duplicates in two directories)
+
+# first use the find command to print directories or files in two folders to a txt file using cat command
+
+# use the script like this: python3 scriptname.py '/Volumes/folder name/folder/file.txt'
+
+  
+
+import argparse
+
+from collections import Counter
+
+  
+
+# Create argument parser
+
+parser = argparse.ArgumentParser(description='Find duplicate lines in a text file')
+
+parser.add_argument('file', type=argparse.FileType('r'), help='the input file')
+
+args = parser.parse_args()
+
+  
+
+with args.file as f: # Use the provided file directly
+
+lines = [line.strip().split("/")[-1] for line in f] # Strip newlines and split by "/"
+
+  
+
+counter = Counter(lines) # Count occurrences of each line
+
+duplicates = [line for line, count in counter.items() if count > 1] # Filter out lines that appear once
+
+  
+
+print(duplicates)
+```
+
 ### :: **How to Activate 'Code' Command in ZSH to Create and Open Files with VS Code ** ::
 
 	1.	Open your zsh configuration file in a text editor. The file is usually located at ﻿~/.zshrc.
@@ -206,6 +360,7 @@ aliaspython='python3'
 exportPATH=$PATH:/Users/Ahmed/Documents/Scripts
 ```
 ### :: How to Add Folder to Path Variable on Mac ::
+
 To add a folder to the ﻿PATH variable on macOS, follow these steps:
 	1.	Open Terminal, which you can find in the Utilities folder within the Applications folder, or by using Spotlight search.
 	2.	In the Terminal window, type the following command and press Enter:
@@ -219,6 +374,7 @@ or
 ```bash
 code ~/.bash_profile
 ```
+
 to open in vs code
 
 	3.	This will open the ﻿.bash_profile file in the Nano text editor.

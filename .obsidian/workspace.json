@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nexus/TMUX/TMUX Beginner Guide.md",
+                "file": "Pycharm & Odoo/VIP Shortcuts/VIP Shortcuts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TMUX Beginner Guide"
+              "title": "VIP Shortcuts"
+            }
+          },
+          {
+            "id": "0cd4566bbb139997",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Terminal basics and Commands"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,12 +178,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6d57f747c31c0d6",
+  "active": "0cd4566bbb139997",
   "lastOpenFiles": [
+    "Pycharm & Odoo/VIP Shortcuts/VIP Shortcuts.md",
+    "Nexus/TMUX/TMUX Beginner Guide.md",
+    "Python/How to Fix Externally-Managed-Environment Error.md",
+    "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
+    "VS-Code/How to Activate 'Code' Command in ZSH to Create and Open Files with VS Code.md",
+    "Apple/MacOS/How to Preview Eps Files on Mac After Apple Dropping Support/How to Preview Eps Files on Mac After Apple Dropping Support.md",
+    "Terminal/How to Sync Two Folders with Rsync Command/How to Sync Two Folders with Rsync Command.md",
+    "Apple/Finder/How to Enable The Hidden Library Folder in Your User Files & Find The User Works/How to Enable The Hidden Library Folder in Your User Files & Find The User Works.md",
+    "VS-Code/Cheat Sheet/Cheat Sheet.md",
+    "VS-Code/How to Enable Auto Indentation in VS-Code?.md",
+    "VS-Code/How To Configure Vs Code To Work With Git And Push Commits In The Version Control Tab?.md",
+    "VS-Code/Regular Expressions Practical with Srt Files/Regular Expressions Practical with Srt Files.md",
+    "VS-Code/How to Set Autosave in vs Code so It Saves Changes Instantly/How to Set Autosave in vs Code so It Saves Changes Instantly.md",
+    "VS-Code/How to Fix VS Code Auto Indenting Code when You Paste It/How to Fix VS Code Auto Indenting Code when You Paste It.md",
+    "VS-Code/How to Change Cell Language in Jupyter Notebook with  a Shortcut/How to Change Cell Language in Jupyter Notebook with  a Shortcut.md",
     "Apple/MacOS/When Sidecar is Not Working.md",
     "Apple/MacOS/Best Monitoring Utility for MacOS with Apple Silicon.md",
-    "Nexus/TMUX/TMUX Beginner Guide.md",
-    "Pycharm & Odoo/VIP Shortcuts/VIP Shortcuts.md",
     "FFMPEG Guide/FFMPEG Commands/FFMPEG Commands.md",
     "Nexus/TMUX",
     "Nexus/Tailwind CSS/Tailwind Build Via Vite/Tailwind Build Via Vite.md",
@@ -179,20 +207,7 @@
     "Pycharm & Odoo/How to Add Pycharm Command to ZSH /How to Add Pycharm Command to ZSH .md",
     "Apple/iPad/How to Create an Alias in a-Shell.md",
     "Apple/iPad/YT-DLP on iPad.md",
-    "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
-    "Youtube-dl/[TikTok] Failed to parse JSON - Can't download videos without watermark/[TikTok] Failed to parse JSON - Can't download videos without watermark.md",
-    "VS-Code/How to Backup Extensions?.md",
-    "Nexus/Tailwind CSS/Beginner Guide/Beginner Guide to Tailwind CSS (freeCodeCamp).md",
-    "Noto/Noto to Obsidian.md",
-    "Pycharm & Odoo/Pycharm Odoo Projects Workflow with Symbolic Links/Pycharm Odoo Projects Workflow with Symbolic Links.md",
-    "VS-Code/Cheat Sheet/Cheat Sheet.md",
-    "Python/How to Fix Externally-Managed-Environment Error.md",
-    "Python/Cheat Sheet/Cheat Sheet.md",
-    "Nexus/PDF Rag with Ollama - How to talk to PDFs using LLMs?.md",
     "Nexus/Learn CSS Elzero 2021",
-    "Terminal/How to Compress GIF Using Terminal [gifsicle]/How to Compress GIF Using Terminal [gifsicle].md",
-    "Terminal/grep and pdfgrep/grep and pdfgrep.md",
-    "Terminal/ Homebrew and Casks Guide /** Homebrew and Casks Guide .md",
     "Nexus/UI-UX and Figma/figmaPlugins.png",
     "Nexus/UI-UX and Figma/figma plugins.png",
     "Nexus/UI-UX and Figma/CleanShot 2024-10-14 at 07.42.10@2x.png",
