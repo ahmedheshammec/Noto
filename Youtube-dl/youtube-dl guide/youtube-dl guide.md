@@ -254,7 +254,16 @@ alias yt-dlp="/usr/local/bin/yt-dlp_macos"
 ```
 
 ❖ Now Start a New Session and Check for the Version to See if It Matches the Final Build and Try Downloading Again Your Video.
-### How to download HLS stream using `yt-dlp` ?
+
+### How to update `yt-dlp` to latest version from Github master builds? 
+
+use the following command: 
+
+```sh
+sudo yt-dlp -U
+```
+
+### How to download HLS stream using `yt-dlp`?
 
 ❖ Check the available formats:
 ❖ Use the -F option to list all available formats, then choose a specific one:

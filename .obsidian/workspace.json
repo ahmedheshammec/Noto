@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphic Design/Design Sizes/Facebook Cover Size/Facebook Cover Size.md",
+                "file": "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Facebook Cover Size"
+              "title": "youtube-dl guide"
             }
           }
         ]
@@ -165,9 +165,15 @@
   },
   "active": "d6d57f747c31c0d6",
   "lastOpenFiles": [
+    "Youtube-dl/How to Download Videos from TikTok that Consist of Images and Audio/How to Download Videos from TikTok that Consist of Images and Audio.md",
+    "Youtube-dl/[TikTok] Failed to parse JSON - Can't download videos without watermark/[TikTok] Failed to parse JSON - Can't download videos without watermark.md",
+    "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
+    "Apple/iPad/YT-DLP on iPad.md",
+    "Python/Cheat Sheet/Cheat Sheet.md",
+    "Python/How to Install Jupyter Notebook and Pandoc The Right Way/How to Install Jupyter Notebook and Pandoc The Right Way.md",
+    "Graphic Design/Design Sizes/Facebook Cover Size/Facebook Cover Size.md",
     "Graphic Design/Design Sizes/Linked In Cover Size/Linked In Cover Size.md",
     "Graphic Design/Design Sizes/Twitter Cover Size.md",
-    "Graphic Design/Design Sizes/Facebook Cover Size/Facebook Cover Size.md",
     "VS-Code/How to Open Settings JSON in VS-Code.md",
     "VS-Code/How to Backup Extensions?.md",
     "VS-Code/Cheat Sheet/Cheat Sheet.md",
@@ -181,17 +187,11 @@
     "Pycharm & Odoo/How to Kill Processes Using 8069 Port on Mac/How to Kill Processes Using 8069 Port on Mac.md",
     "Git & Github/How to Create a New Repo from Terminal using Github CLI/How to Create a New Repo from Terminal using Github CLI.md",
     "Git & Github/Git & Github/Git & Github.md",
-    "Python/How to Install Jupyter Notebook and Pandoc The Right Way/How to Install Jupyter Notebook and Pandoc The Right Way.md",
     "Nexus/How to Mirror a Website for Offline Access Using HTTRACK.md",
     "Developing/Git & Github Intro/Git & Github Intro.md",
     "Python/How to Fix Externally-Managed-Environment Error.md",
     "VS-Code/How to Activate 'Code' Command in ZSH to Create and Open Files with VS Code.md",
     "Apple/MacOS/How to Preview Eps Files on Mac After Apple Dropping Support/How to Preview Eps Files on Mac After Apple Dropping Support.md",
-    "Terminal/How to Sync Two Folders with Rsync Command/How to Sync Two Folders with Rsync Command.md",
-    "Apple/Finder/How to Enable The Hidden Library Folder in Your User Files & Find The User Works/How to Enable The Hidden Library Folder in Your User Files & Find The User Works.md",
-    "VS-Code/How to Enable Auto Indentation in VS-Code?.md",
-    "VS-Code/How To Configure Vs Code To Work With Git And Push Commits In The Version Control Tab?.md",
-    "VS-Code/Regular Expressions Practical with Srt Files/Regular Expressions Practical with Srt Files.md",
     "Nexus/TMUX",
     "Nexus/Learn CSS Elzero 2021",
     "Nexus/UI-UX and Figma/figmaPlugins.png",

@@ -16,6 +16,25 @@ brew install python@3.12
 ```
 This Will Install Python 3.12
 
+### How to update a single pip package? 
+
+To update a single pip package on your Mac, open Terminal and run: 
+
+```sh
+pip install --upgrade package_name
+```
+
+replacing 'package_name' with the desired package. Ensure pip is up-to-date by executing pip install --upgrade pip beforehand. If you encounter permission issues, prepend the command with 'sudo' to grant administrative rights.
+
+### How to know the version of a pip package currently installed using terminal? 
+
+use the following command: 
+
+```
+pip show <package_name> | grep Version
+```
+
+→ you might need to replace `Version` with `version` based on the output of the `pip show` command. 
 ### :: How To Know Where Python Is Installed ? ::
 
 Create A New Python File In Vs Code With The Following Code And Run It: 
