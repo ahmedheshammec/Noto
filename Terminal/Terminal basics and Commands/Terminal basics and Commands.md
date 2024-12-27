@@ -1080,3 +1080,22 @@ exit()
 quit()
 ```
 
+### How to Force Eject a Removable Disk using Terminal on MacOs
+
+Use the following command:
+
+```
+diskutil unmount force /Volumes/Samsung\ T5
+```
+
+→ you can also add `sudo` with the command. 
+
+### How to Remove files using a txt file with rm command in MacOs Terminal
+
+```sh
+touch file_{1..3}.txt
+ls > files_to_remove.txt
+cat files_to_remove.txt
+xargs rm < files_to_remove.txt
+```
+

@@ -42,7 +42,10 @@ code demo
 
 `⌘ + G` >>> open find and replace dialogue 
 
-`⌃ + G` >>> go to line [Helps with Debugging]
+`⌃ + G` >>> go to line \[Helps with Debugging\]
+
+`⌘ + ⇧ + X` >>> Open the Extensions view in VS Code 
+
 
 ### Select Between Tags
 
