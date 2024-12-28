@@ -484,5 +484,58 @@ useful keyboard shortcuts:
 
 ❖ Click on the Timestamps at the Player Window to Show Milliseconds Timestamp
 
+### How to show GUI when opening audio files? 
 
+1- one-time solution: use the following command: 
+
+```sh
+mpv --force-window=yes <your_file>
+```
+
+2- permanent solution: 
+
+→ create `mpv.conf` file in this location: `~/.config/mpv/`
+
+```sh
+touch ~/.config/mpv/mpv.conf
+```
+
+add the following line
+
+```
+force-window=yes
+```
+
+→ we can use `echo` to quickly add it like this: 
+
+```sh
+echo "force-window=yes" >> ~/.config/mpv/mpv.conf
+```
+
+→ then we can verify it using `cat` command: 
+
+```sh
+cat ~/.config/mpv/mpv.conf
+```
+
+→ now you can run `mpv` with audio files and GUI. 
+
+
+### How to get keyboard shortcuts {comma & dot} to work in audio files with force window mode? 
+
+→ create `input.conf` file using the following command: 
+
+```sh
+touch "/Users/ahmed/.config/mpv/input.conf"
+```
+
+and add the following lines to the file: 
+
+```
+ctrl+, seek -0.05 #alternative binding for audio
+
+ctrl+. seek 0.05 #alternative binding for audio
+```
+
+→ Now in audio files we will use `⌃ + ,` or `⌃ + .` for precise seeking. 
 
