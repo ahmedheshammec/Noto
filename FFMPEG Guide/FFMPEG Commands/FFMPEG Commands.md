@@ -92,6 +92,12 @@ To Mix Video and Audio together
 ffmpeg -i <audio file> -i <video file> <output file>
 ```
 
+if you encountered an issue with the previous command try this one: 
+
+```sh
+ffmpeg -i video.mp4 -i audio.m4a -map 0:v -map 1:a -c:v copy -c:a aac -ac 2 output.mp4
+```
+
 ### :: Trim ::
 Trim Even to Milliseconds
 

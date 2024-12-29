@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games/WWF Wrestle-Mania Arcade (Mac Version).md",
+                "file": "FFMPEG Guide/FFMPEG Commands/FFMPEG Commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WWF Wrestle-Mania Arcade (Mac Version)"
+              "title": "FFMPEG Commands"
             }
           }
         ]
@@ -165,13 +165,14 @@
   },
   "active": "d6d57f747c31c0d6",
   "lastOpenFiles": [
-    "Windows/Useful Run Commands.md",
+    "Youtube-dl/How to Download Videos from TikTok that Consist of Images and Audio/How to Download Videos from TikTok that Consist of Images and Audio.md",
+    "Homebrew/Basics/Basics.md",
     "Games/WWF Wrestle-Mania Arcade (Mac Version).md",
+    "Windows/Useful Run Commands.md",
     "Games",
     "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
     "FFMPEG Guide/FFMPEG Commands/FFMPEG Commands.md",
     "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
-    "Youtube-dl/How to Download Videos from TikTok that Consist of Images and Audio/How to Download Videos from TikTok that Consist of Images and Audio.md",
     "Youtube-dl/[TikTok] Failed to parse JSON - Can't download videos without watermark/[TikTok] Failed to parse JSON - Can't download videos without watermark.md",
     "Apple/iPad/YT-DLP on iPad.md",
     "Python/Cheat Sheet/Cheat Sheet.md",
@@ -192,7 +193,6 @@
     "Git & Github/Git & Github/Git & Github.md",
     "Nexus/How to Mirror a Website for Offline Access Using HTTRACK.md",
     "Developing/Git & Github Intro/Git & Github Intro.md",
-    "Python/How to Fix Externally-Managed-Environment Error.md",
     "Nexus/TMUX",
     "Nexus/Learn CSS Elzero 2021",
     "Nexus/UI-UX and Figma/figmaPlugins.png",
