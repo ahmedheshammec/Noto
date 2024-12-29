@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FFMPEG Guide/FFMPEG Commands/FFMPEG Commands.md",
+                "file": "Games/WWF Wrestle-Mania Arcade (Mac Version).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FFMPEG Commands"
+              "title": "WWF Wrestle-Mania Arcade (Mac Version)"
             }
           }
         ]
@@ -165,6 +165,11 @@
   },
   "active": "d6d57f747c31c0d6",
   "lastOpenFiles": [
+    "Windows/Useful Run Commands.md",
+    "Games/WWF Wrestle-Mania Arcade (Mac Version).md",
+    "Games",
+    "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
+    "FFMPEG Guide/FFMPEG Commands/FFMPEG Commands.md",
     "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
     "Youtube-dl/How to Download Videos from TikTok that Consist of Images and Audio/How to Download Videos from TikTok that Consist of Images and Audio.md",
     "Youtube-dl/[TikTok] Failed to parse JSON - Can't download videos without watermark/[TikTok] Failed to parse JSON - Can't download videos without watermark.md",
@@ -178,9 +183,7 @@
     "VS-Code/How to Backup Extensions?.md",
     "VS-Code/Cheat Sheet/Cheat Sheet.md",
     "Nexus/Web - Internet/How Disable Brave Browser Check for Updates?.md",
-    "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
     "Nexus/Web - Internet",
-    "FFMPEG Guide/FFMPEG Commands/FFMPEG Commands.md",
     "Apple/MacOS/Best Monitoring Utility for MacOS with Apple Silicon.md",
     "Pycharm & Odoo/VIP Shortcuts/VIP Shortcuts.md",
     "Nexus/TMUX/TMUX Beginner Guide.md",
@@ -190,8 +193,6 @@
     "Nexus/How to Mirror a Website for Offline Access Using HTTRACK.md",
     "Developing/Git & Github Intro/Git & Github Intro.md",
     "Python/How to Fix Externally-Managed-Environment Error.md",
-    "VS-Code/How to Activate 'Code' Command in ZSH to Create and Open Files with VS Code.md",
-    "Apple/MacOS/How to Preview Eps Files on Mac After Apple Dropping Support/How to Preview Eps Files on Mac After Apple Dropping Support.md",
     "Nexus/TMUX",
     "Nexus/Learn CSS Elzero 2021",
     "Nexus/UI-UX and Figma/figmaPlugins.png",
@@ -209,7 +210,6 @@
     "Apple/iPad",
     "Nexus/Davinci Reslove for IPad",
     "Nexus",
-    "NodeJs and NVM",
-    "Work/Event/Engraving Fonts"
+    "NodeJs and NVM"
   ]
 }
