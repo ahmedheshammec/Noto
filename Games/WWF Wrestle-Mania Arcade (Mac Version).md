@@ -17,3 +17,21 @@
 - rapid b → i
 - c → l 
 - rapid c → o 
+
+### Movements for Shawn Michaels
+
+`u + i `→ hit with baseball bat. 
+
+`j + l` → make a run to the ropes
+
+`i + o while running` → flying cross bicycle kick
+
+`← or → twice towards the opponent then l` → down sweep kick, also works when you're grabbed by the opponent to do reversal move.
+
+`← or → twice opposite the opponent then j` → grab and throw
+
+`← or → twice opposite the opponent then l + k`  → top air kick
+
+`← or → twice opposite the opponent then j + k`  → grab and throw to ropes.
+
+

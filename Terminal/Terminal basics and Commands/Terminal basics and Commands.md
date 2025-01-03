@@ -104,6 +104,12 @@ to delete a directory type:
 rm -r "yoru directory name"
 ```
 
+to force delete a directory with it's content type: 
+
+```sh
+sudo rm -Rf <your_directory>
+```
+
 to copy file use this command: 
 ```bash
 cp "your text file name".txt "new file name".txt

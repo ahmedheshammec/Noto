@@ -234,6 +234,44 @@ Let's break down the command step by step:
 `-map "[outv]" -map "[outa]"`: These options specify which streams to include in the final output. Here, we are mapping the output video stream `[outv]` and the output audio stream `[outa]`.
 `output.mp4`: This is the name of the output file that will be generated.
 In summary, the command takes two input video files, concatenates their video and audio streams, and produces a single output file named "output.mp4" with the combined streams.
+
+### Another Way to Concatenate:
+
+→ Create **`join.txt`** file that contains the exact paths of the files that you want to join. All files should be same format (same codec). The path name of all files should be mentioned one by one like below.
+
+```
+file /home/sk/myvideos/part1.mp4
+file /home/sk/myvideos/part2.mp4
+file /home/sk/myvideos/part3.mp4
+file /home/sk/myvideos/part4.mp4
+```
+
+→ Now, join all files using command:
+
+```sh
+ffmpeg -f concat -i join.txt -c copy output.mp4
+```
+
+If you get an error something like below: 
+
+```
+[concat @ 0x555fed174cc0] Unsafe file name '/path/to/mp4'
+join.txt: Operation not permitted
+```
+
+Add **`"-safe 0"`**:
+
+```sh
+ffmpeg -f concat -safe 0 -i join.txt -c copy output.mp4
+```
+
+Alternatively, you can use the following one-liner command to join all files in a directory.
+
+```sh
+ffmpeg -i "concat:audio1.mp3|audio2.mp3|audio3.mp3" -c copy output.mp3
+```
+
+
 ### :: `How to Know if the video file is valid using FFmpeg?` ::
 To determine if a video file is valid using FFmpeg, you can use the following command:
 
