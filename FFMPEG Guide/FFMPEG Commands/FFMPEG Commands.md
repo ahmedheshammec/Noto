@@ -583,3 +583,16 @@ ctrl+. seek 0.05 #alternative binding for audio
 
 → Now in audio files we will use `⌃ + ,` or `⌃ + .` for precise seeking. 
 
+### How to speed up a video using `ffmpeg`? 
+
+use the following command: 
+
+```sh
+ffmpeg -i input.mp4 -filter:v "setpts=0.5*PTS" -an output.mp4
+```
+
+→ `0.5` makes double the speed so if the video is 10 seconds long the output will be only 5. 
+
+→ To make the output video even faster decrease the value to something like 0.2. and vise versa.
+
+→ The `-an` flag removes any audio streams from the video file. 
