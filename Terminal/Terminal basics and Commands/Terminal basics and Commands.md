@@ -219,6 +219,7 @@ brew install --cask brave-browser -y
 → The `-y` flag is used to answer `Yes` automatically to any questions will be asked by the shell.
 
 ## The Find Command
+### How to search all directories for a specific file or folder? 
 
 → The find command in Mac OS Searches and manipulates files and directories
 
@@ -615,7 +616,10 @@ echo "source $(brew --prefix)/share/zsh-syntax-highlighting/zsh-syntax-highlight
 and to activate the plugin edit the `zshrc` file. you'll see the git plugin already there; we just have to add the new one next to it 
 
 ```bash
-plugins=(git)
+plugins=(
+    git
+    zsh-syntax-highlighting
+)
 ```
 
 like this and source the `.zshrc` file to reload and you should be good to go; open terminal and type: 
