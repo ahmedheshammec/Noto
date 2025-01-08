@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
+                "file": "Work/Two Tiers Business Proposition Example.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terminal basics and Commands"
+              "title": "Two Tiers Business Proposition Example"
             }
           }
         ]
@@ -165,8 +165,18 @@
   },
   "active": "d6d57f747c31c0d6",
   "lastOpenFiles": [
-    "Terminal/grep and pdfgrep/grep and pdfgrep.md",
+    "Work/Event/Color Codes/Color Codes.md",
+    "Work/Two Tiers Business Proposition Example.md",
+    "Work/Event/Xoopar and Retumbler itmes/Xoopar and Retumbler itmes.md",
+    "Work/Rasheedy/Rasheedy Production & Rasheedy Films Font/Rasheedy Production & Rasheedy Films Font.md",
+    "Git & Github/Git & Github/Git & Github.md",
+    "Git & Github/How to Create a New Repo from Terminal using Github CLI/How to Create a New Repo from Terminal using Github CLI.md",
+    "Git & Github/App_V1, App_v2 Workflow vs Github Workflow.md",
+    "Git & Github/How to Convert Any Webpage to an Application Using Nativefier (Cross Platform).md",
+    "Git & Github/How to use Git Ignore.md",
+    "Git & Github/How to Create a New Repo from Terminal using Github CLI/Untitled.md",
     "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
+    "Terminal/grep and pdfgrep/grep and pdfgrep.md",
     "Apple/iPad/How to use a-shell with grep and Ulysses App to search and view notes and markdown files?.md",
     "Graphic Design/Indesign/How to create round Corners in Indesign/How to create round corners in Indesign?.md",
     "Graphic Design/Indesign/How to create round Corners in Indesign/round_corners_indesign.gif",
@@ -184,17 +194,7 @@
     "Pycharm & Odoo/Odoo 15 Setup & Error Fixes/Odoo 15 Setup & Error Fixes.md",
     "Terminal/How to Find the Mac Address /How to Find the Mac Address .md",
     "VS-Code/How to Activate 'Code' Command in ZSH to Create and Open Files with VS Code.md",
-    "Apple/MacOS/App is Damaged and Can't be Opened Adobe Zii/App is Damaged and Can't be Opened Adobe Zii.md",
-    "Python/Cheat Sheet/Cheat Sheet.md",
-    "Apple/Typing/Enable Repeat Key on Mac/Enable Repeat Key on Mac.md",
-    "Games/WWF Wrestle-Mania Arcade (Mac Version).md",
-    "Linux/How to remove the lock on folders and files when created via root user/How to Remove the Lock on Folders and Files when Created via Root User - How to Take Ownership over a Directory in MacOs.md",
-    "Nexus/UI-UX and Figma/Alternatives for Pure White & Pure Black.md",
     "Nexus/AI",
-    "Pycharm & Odoo/VIP Shortcuts/VIP Shortcuts.md",
-    "Youtube-dl/How to Download Videos from TikTok that Consist of Images and Audio/How to Download Videos from TikTok that Consist of Images and Audio.md",
-    "Homebrew/Basics/Basics.md",
-    "Windows/Useful Run Commands.md",
     "Games",
     "Nexus/Web - Internet",
     "Nexus/TMUX",
