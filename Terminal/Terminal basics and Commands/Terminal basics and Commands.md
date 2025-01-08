@@ -559,6 +559,7 @@ this is basically saying execute the convert.sh script in the directory `user/do
 ### :: How To Upgrade Your Terminal Game :: 
 
 First Install Oh My Zsh Through This Link: 
+
 ```bash
 https://ohmyz.sh/
 ```
@@ -579,6 +580,7 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$
 ```
 
 The Default theme in `~/.zshrc` will look like this: 
+
 ```zsh
 ZSH_THEME="robbyrussell"
 ```
@@ -587,6 +589,7 @@ ZSH_THEME="robbyrussell"
 Next Set `ZSH_THEME="powerlevel10k/powerlevel10k"` in `~/.zshrc` and Restart the Terminal.
 
 after going with the install here's the last window
+
 ![image](351A41AC-C759-47A4-A9EF-584AEFEE9AA8.jpg)
 
 if you want to re-choose your config just type in the terminal
@@ -596,6 +599,7 @@ p10k configure
 ```
 
 and source the `zshrc` file for changes to take effect. 
+
 now it's time to install `zsh-syntax-highlighting` 
 
 Github Repo: https://github.com/zsh-users/zsh-syntax-highlighting
@@ -603,31 +607,35 @@ Github Repo: https://github.com/zsh-users/zsh-syntax-highlighting
 look for oh my zsh install in the `install.md` file 
 
 Open Terminal and Type
-```zsh
-brew install zsh-syntax-highlighting
+
+```sh
+cd ~
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
+echo "source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc
 ```
 
-Second, enable zsh-syntax-highlighting by sourcing the script. Running this command on the terminal will add the source line to the end of your `.zshrc`:
-```zsh
-echo "source $(brew --prefix)/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc
-```
+→ source the `.zshrc` file or restart your ZSH shell. 
 
-
-and to activate the plugin edit the `zshrc` file. you'll see the git plugin already there; we just have to add the new one next to it 
-
-```bash
-plugins=(
-    git
-    zsh-syntax-highlighting
-)
-```
-
-like this and source the `.zshrc` file to reload and you should be good to go; open terminal and type: 
+Now open terminal and type: 
 ```bash
 echo "Hello World"
 ```
 
+### Alternative installation method using Oh-My-ZSH
 
+→ Clone this repository in oh-my-zsh's plugins directory:
+
+```sh
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+```
+
+→ Activate the plugin in `~/.zshrc`:
+
+```sh
+plugins=( [plugins...] zsh-syntax-highlighting)
+```
+
+→ Restart zsh (such as by opening a new instance of your terminal emulator).
 ### Autopair Plugin
 
 A simple plugin that auto-closes, deletes and skips over matching delimiters in zsh intelligently.
@@ -1109,3 +1117,20 @@ cat files_to_remove.txt
 xargs rm < files_to_remove.txt
 ```
 
+### How to open GUI File manager app like Finder from Terminal location (Current Work Directory)? 
+
+To open the current directory in a GUI file manager from the terminal:
+
+- **macOS:** Use:
+
+```sh
+open . 
+```
+
+- **Linux:** Use: 
+
+```sh
+xdg-open . 
+```
+
+These commands will launch the default file manager and display the current directory.
