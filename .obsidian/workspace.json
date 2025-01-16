@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git & Github/App_V1, App_v2 Workflow vs Github Workflow.md",
+                "file": "Nexus/Automator/Convert File to MP4 Using Quick Action and Automator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "App_V1, App_v2 Workflow vs Github Workflow"
+              "title": "Convert File to MP4 Using Quick Action and Automator"
             }
           }
         ]
@@ -165,8 +165,14 @@
   },
   "active": "d6d57f747c31c0d6",
   "lastOpenFiles": [
-    "Git & Github/How to Convert Any Webpage to an Application Using Nativefier (Cross Platform).md",
+    "Nexus/Automator/Convert Entire Folder to MP4 using Automator Quick Actions and ffmpeg.md",
+    "Nexus/Automator/Convert File to MP4 Using Quick Action and Automator.md",
+    "Nexus/Automator/Make Siri Speaks anything with a Shortcut.md",
+    "Nexus/Automator/Convert Files to MP3 and m4a Using Actions.md",
     "Git & Github/App_V1, App_v2 Workflow vs Github Workflow.md",
+    "Nexus/Automator",
+    "Nexus/Untitled.md",
+    "Git & Github/How to Convert Any Webpage to an Application Using Nativefier (Cross Platform).md",
     "Git & Github/How to Create a New Repo from Terminal using Github CLI/How to Create a New Repo from Terminal using Github CLI.md",
     "Pycharm & Odoo/VIP Shortcuts/VIP Shortcuts.md",
     "Apple/MacOS/How to find out if your MacBook is MDM or not?.md",
@@ -189,11 +195,6 @@
     "Graphic Design/Fonts",
     "Apple/MacOS/Create custom icns Icons for macOS Apps/Create custom icns Icons for macOS Apps.md",
     "Nexus/AI/Whisper CLI.md",
-    "Nexus/AI/Notes and Links.md",
-    "Apple/MacOS/ how to download files using terminal /How to download files using terminal.md",
-    "Python/How to Fix Externally-Managed-Environment Error.md",
-    "Pycharm & Odoo/Pycharm Odoo Projects Workflow with Symbolic Links/Pycharm Odoo Projects Workflow with Symbolic Links.md",
-    "Pycharm & Odoo/Odoo 15 Setup & Error Fixes/Odoo 15 Setup & Error Fixes.md",
     "Nexus/AI",
     "Games",
     "Nexus/Web - Internet",
@@ -209,7 +210,6 @@
     "Nexus/UI-UX and Figma/Downloaded Library.png",
     "Nexus/UI-UX and Figma/CleanShot 2024-10-14 at 06.45.14@2x.png",
     "Nexus/UI-UX and Figma",
-    "Nexus/Tailwind CSS/Tailwind Build Via Vite",
-    "Apple/iPad"
+    "Nexus/Tailwind CSS/Tailwind Build Via Vite"
   ]
 }
