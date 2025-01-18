@@ -34,4 +34,8 @@
 
 `← or → twice opposite the opponent then j + k`  → grab and throw to ropes.
 
+`j & k near the opponent head while he is on the ground` → grab his head 
+
+`Tip`: Normal A can replace rapid A in special moves. so as the other keys: B, C. 
+
 

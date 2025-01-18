@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nexus/Automator/Convert File to MP4 Using Quick Action and Automator.md",
+                "file": "Nexus/Automator/How to Create a Concat Script to Montage your Videos with Just Timestamps using Automator and ffmpeg?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Convert File to MP4 Using Quick Action and Automator"
+              "title": "How to Create a Concat Script to Montage your Videos with Just Timestamps using Automator and ffmpeg?"
+            }
+          },
+          {
+            "id": "d73caef566dd4ddb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apple/MacOS/How to Preview Eps Files on Mac After Apple Dropping Support/How to Preview Eps Files on Mac After Apple Dropping Support.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to Preview Eps Files on Mac After Apple Dropping Support"
+            }
+          },
+          {
+            "id": "c9f4938914036fb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nexus/Automator/How to Customize Workflow Icons?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to Customize Workflow Icons?"
+            }
+          },
+          {
+            "id": "f56be2293f0d89ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Games/WWF Wrestle-Mania Arcade (Mac Version).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WWF Wrestle-Mania Arcade (Mac Version)"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 241.5
   },
   "right": {
     "id": "44c572dcd721498c",
@@ -163,12 +206,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6d57f747c31c0d6",
+  "active": "c9f4938914036fb9",
   "lastOpenFiles": [
     "Nexus/Automator/Convert Entire Folder to MP4 using Automator Quick Actions and ffmpeg.md",
-    "Nexus/Automator/Convert File to MP4 Using Quick Action and Automator.md",
+    "Nexus/Automator/How to Customize Workflow Icons?.md",
+    "Apple/MacOS/How to Preview Eps Files on Mac After Apple Dropping Support/How to Preview Eps Files on Mac After Apple Dropping Support.md",
+    "Games/WWF Wrestle-Mania Arcade (Mac Version).md",
+    "Nexus/Automator/How to Create a Concat Script to Montage your Videos with Just Timestamps using Automator and ffmpeg?.md",
+    "Nexus/Automator/How to Create a Trim Script with Automator and ffmpeg?.md",
+    "Nexus/Automator/How to Convert PSD Files to JPG with Automator and Magick Command.md",
     "Nexus/Automator/Make Siri Speaks anything with a Shortcut.md",
+    "Nexus/Automator/PNG to ICNS with Automator and SIPS.md",
+    "Nexus/Automator/Convert All EPS within a Folder to PNG with Automator and GhostScript.md",
+    "Apple/MacOS/Create custom icns Icons for macOS Apps/Create custom icns Icons for macOS Apps.md",
     "Nexus/Automator/Convert Files to MP3 and m4a Using Actions.md",
+    "Nexus/Automator/Convert File to MP4 Using Quick Action and Automator.md",
+    "Nexus/Automator/VIP Note.md",
+    "Nexus/Automator/How to Apply Python Script to Files Using Automator?.md",
     "Git & Github/App_V1, App_v2 Workflow vs Github Workflow.md",
     "Nexus/Automator",
     "Nexus/Untitled.md",
@@ -181,20 +235,9 @@
     "Work/Event/Xoopar and Retumbler itmes/Xoopar and Retumbler itmes.md",
     "Work/Rasheedy/Rasheedy Production & Rasheedy Films Font/Rasheedy Production & Rasheedy Films Font.md",
     "Git & Github/Git & Github/Git & Github.md",
-    "Git & Github/How to use Git Ignore.md",
-    "Git & Github/How to Create a New Repo from Terminal using Github CLI/Untitled.md",
-    "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
-    "Terminal/grep and pdfgrep/grep and pdfgrep.md",
-    "Apple/iPad/How to use a-shell with grep and Ulysses App to search and view notes and markdown files?.md",
-    "Graphic Design/Indesign/How to create round Corners in Indesign/How to create round corners in Indesign?.md",
     "Graphic Design/Indesign/How to create round Corners in Indesign/round_corners_indesign.gif",
-    "FFMPEG Guide/FFMPEG Commands/FFMPEG Commands.md",
     "Graphic Design/Indesign/How to create round Corners in Indesign",
-    "Graphic Design/Fonts/How to add External folder of fonts to Font Book App?.md",
-    "Apple/Finder/How to create an app to copy finder window directory when clicked?.md",
     "Graphic Design/Fonts",
-    "Apple/MacOS/Create custom icns Icons for macOS Apps/Create custom icns Icons for macOS Apps.md",
-    "Nexus/AI/Whisper CLI.md",
     "Nexus/AI",
     "Games",
     "Nexus/Web - Internet",
