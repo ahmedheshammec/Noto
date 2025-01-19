@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nexus/Automator/How to Customize Workflow Icons?.md",
+                "file": "Graphic Design/Overprint.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to Customize Workflow Icons?"
+              "title": "Overprint"
             }
           },
           {
@@ -208,8 +208,11 @@
   },
   "active": "c9f4938914036fb9",
   "lastOpenFiles": [
-    "Nexus/Automator/Convert Entire Folder to MP4 using Automator Quick Actions and ffmpeg.md",
+    "Graphic Design/why-are-my-blacks-not-overprinting-the-first-is-indesign-v0-nasmzd01jwcd1.jpeg",
+    "Graphic Design/why-are-my-blacks-not-overprinting-the-first-is-indesign-v0-nasmzd01jwcd1.png.webp",
     "Nexus/Automator/How to Customize Workflow Icons?.md",
+    "Graphic Design/Overprint.md",
+    "Nexus/Automator/Convert Entire Folder to MP4 using Automator Quick Actions and ffmpeg.md",
     "Apple/MacOS/How to Preview Eps Files on Mac After Apple Dropping Support/How to Preview Eps Files on Mac After Apple Dropping Support.md",
     "Games/WWF Wrestle-Mania Arcade (Mac Version).md",
     "Nexus/Automator/How to Create a Concat Script to Montage your Videos with Just Timestamps using Automator and ffmpeg?.md",
@@ -233,8 +236,6 @@
     "Work/Two Tiers Business Proposition Example.md",
     "Work/Event/Color Codes/Color Codes.md",
     "Work/Event/Xoopar and Retumbler itmes/Xoopar and Retumbler itmes.md",
-    "Work/Rasheedy/Rasheedy Production & Rasheedy Films Font/Rasheedy Production & Rasheedy Films Font.md",
-    "Git & Github/Git & Github/Git & Github.md",
     "Graphic Design/Indesign/How to create round Corners in Indesign/round_corners_indesign.gif",
     "Graphic Design/Indesign/How to create round Corners in Indesign",
     "Graphic Design/Fonts",
@@ -251,7 +252,6 @@
     "Nexus/UI-UX and Figma/CleanShot 2024-10-14 at 07.00.37@2x.png",
     "Nexus/UI-UX and Figma/downloadedLibrary.png",
     "Nexus/UI-UX and Figma/Downloaded Library.png",
-    "Nexus/UI-UX and Figma/CleanShot 2024-10-14 at 06.45.14@2x.png",
     "Nexus/UI-UX and Figma",
     "Nexus/Tailwind CSS/Tailwind Build Via Vite"
   ]
