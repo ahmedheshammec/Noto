@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nexus/Automator/How to Create a Concat Script to Montage your Videos with Just Timestamps using Automator and ffmpeg?.md",
+                "file": "Nexus/Automator/How to Customize Workflow Icons?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to Create a Concat Script to Montage your Videos with Just Timestamps using Automator and ffmpeg?"
+              "title": "How to Customize Workflow Icons?"
             }
           },
           {
@@ -36,20 +36,6 @@
             }
           },
           {
-            "id": "c9f4938914036fb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Youtube-dl/how to check if there's a new version of yt-dlp without updating it on both Github and Pypi from terminal?.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "how to check if there's a new version of yt-dlp without updating it on both Github and Pypi from terminal?"
-            }
-          },
-          {
             "id": "f56be2293f0d89ba",
             "type": "leaf",
             "state": {
@@ -63,8 +49,7 @@
               "title": "WWF Wrestle-Mania Arcade (Mac Version)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,18 +191,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9f4938914036fb9",
+  "active": "d6d57f747c31c0d6",
   "lastOpenFiles": [
-    "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
+    "Nexus/Automator/How to Create a Concat Script to Montage your Videos with Just Timestamps using Automator and ffmpeg?.md",
+    "Apple/MacOS/How to Preview Eps Files on Mac After Apple Dropping Support/How to Preview Eps Files on Mac After Apple Dropping Support.md",
     "Youtube-dl/how to check if there's a new version of yt-dlp without updating it on both Github and Pypi from terminal?.md",
+    "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
     "Graphic Design/Overprint.md",
     "Graphic Design/why-are-my-blacks-not-overprinting-the-first-is-indesign-v0-nasmzd01jwcd1.jpeg",
     "Graphic Design/why-are-my-blacks-not-overprinting-the-first-is-indesign-v0-nasmzd01jwcd1.png.webp",
     "Nexus/Automator/How to Customize Workflow Icons?.md",
     "Nexus/Automator/Convert Entire Folder to MP4 using Automator Quick Actions and ffmpeg.md",
-    "Apple/MacOS/How to Preview Eps Files on Mac After Apple Dropping Support/How to Preview Eps Files on Mac After Apple Dropping Support.md",
     "Games/WWF Wrestle-Mania Arcade (Mac Version).md",
-    "Nexus/Automator/How to Create a Concat Script to Montage your Videos with Just Timestamps using Automator and ffmpeg?.md",
     "Nexus/Automator/How to Create a Trim Script with Automator and ffmpeg?.md",
     "Nexus/Automator/How to Convert PSD Files to JPG with Automator and Magick Command.md",
     "Nexus/Automator/Make Siri Speaks anything with a Shortcut.md",
