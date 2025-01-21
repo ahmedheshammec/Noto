@@ -13,40 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nexus/Automator/How to Customize Workflow Icons?.md",
+                "file": "FFMPEG Guide/FFMPEG Commands/FFMPEG Commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to Customize Workflow Icons?"
-            }
-          },
-          {
-            "id": "d73caef566dd4ddb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apple/MacOS/How to Preview Eps Files on Mac After Apple Dropping Support/How to Preview Eps Files on Mac After Apple Dropping Support.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How to Preview Eps Files on Mac After Apple Dropping Support"
-            }
-          },
-          {
-            "id": "f56be2293f0d89ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Games/WWF Wrestle-Mania Arcade (Mac Version).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "WWF Wrestle-Mania Arcade (Mac Version)"
+              "title": "FFMPEG Commands"
             }
           }
         ]
@@ -193,26 +165,26 @@
   },
   "active": "d6d57f747c31c0d6",
   "lastOpenFiles": [
+    "Nexus/Automator/How to Create a Trim Script with Automator and ffmpeg?.md",
     "Nexus/Automator/How to Create a Concat Script to Montage your Videos with Just Timestamps using Automator and ffmpeg?.md",
+    "Nexus/Automator/How to Convert PSD Files to JPG with Automator and Magick Command.md",
+    "Nexus/Automator/How to Apply Python Script to Files Using Automator?.md",
+    "Nexus/Automator/Convert Files to MP3 and m4a Using Actions.md",
+    "Nexus/Automator/Convert File to MP4 Using Quick Action and Automator.md",
+    "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
+    "Nexus/Automator/How to Customize Workflow Icons?.md",
     "Apple/MacOS/How to Preview Eps Files on Mac After Apple Dropping Support/How to Preview Eps Files on Mac After Apple Dropping Support.md",
     "Youtube-dl/how to check if there's a new version of yt-dlp without updating it on both Github and Pypi from terminal?.md",
-    "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
     "Graphic Design/Overprint.md",
     "Graphic Design/why-are-my-blacks-not-overprinting-the-first-is-indesign-v0-nasmzd01jwcd1.jpeg",
     "Graphic Design/why-are-my-blacks-not-overprinting-the-first-is-indesign-v0-nasmzd01jwcd1.png.webp",
-    "Nexus/Automator/How to Customize Workflow Icons?.md",
     "Nexus/Automator/Convert Entire Folder to MP4 using Automator Quick Actions and ffmpeg.md",
     "Games/WWF Wrestle-Mania Arcade (Mac Version).md",
-    "Nexus/Automator/How to Create a Trim Script with Automator and ffmpeg?.md",
-    "Nexus/Automator/How to Convert PSD Files to JPG with Automator and Magick Command.md",
     "Nexus/Automator/Make Siri Speaks anything with a Shortcut.md",
     "Nexus/Automator/PNG to ICNS with Automator and SIPS.md",
     "Nexus/Automator/Convert All EPS within a Folder to PNG with Automator and GhostScript.md",
     "Apple/MacOS/Create custom icns Icons for macOS Apps/Create custom icns Icons for macOS Apps.md",
-    "Nexus/Automator/Convert Files to MP3 and m4a Using Actions.md",
-    "Nexus/Automator/Convert File to MP4 Using Quick Action and Automator.md",
     "Nexus/Automator/VIP Note.md",
-    "Nexus/Automator/How to Apply Python Script to Files Using Automator?.md",
     "Git & Github/App_V1, App_v2 Workflow vs Github Workflow.md",
     "Nexus/Automator",
     "Nexus/Untitled.md",

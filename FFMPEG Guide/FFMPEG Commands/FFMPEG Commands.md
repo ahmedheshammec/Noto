@@ -596,3 +596,14 @@ ffmpeg -i input.mp4 -filter:v "setpts=0.5*PTS" -an output.mp4
 → To make the output video even faster decrease the value to something like 0.2. and vise versa.
 
 → The `-an` flag removes any audio streams from the video file. 
+
+### Loop Video over Audio
+
+Let's say we have a 20 sec 4K video let's call it `input.mp4` and we have 1 hour m4a audio file let's call it `input.m4a` . i want `ffmpeg` command that makes an output video of the two clips where the 20 sec video keeps looping over and over until the end of the m4a file
+
+You can use the following `ffmpeg` command to loop the video (`input.mp4`) and combine it with the audio (`input.m4a`) to create an output video that matches the length of the audio:
+
+```bash
+ffmpeg -stream_loop -1 -i input.mp4 -i input.m4a -shortest -c:v copy -c:a aac output.mp4
+```
+
