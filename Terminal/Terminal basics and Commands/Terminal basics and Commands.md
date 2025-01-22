@@ -484,6 +484,9 @@ expand-upload() {
 ```
 
 ❖ This Will Set the Cursor Right After the Equal Sign Allowing You to Type the First Letters of the File You Want to Download and Use the Tab Key to Get Zsh Completion (⚡)
+
+→ Also check this: 
+https://rstream.io/tools/file-sharing
 
 ### :: Ditto Command ::
 Let's say you have 3 Folders Day 1, Day 2, Day 3 and you want to copy files from Day 1 & 2 to Day 3; to do that type: 
