@@ -55,6 +55,9 @@ function run(input, parameters) {
     // Cut the selected text
     se.keystroke('x', {using: ['command down']});
     
+    // Small delay to allow clipboard update
+    delay(0.5);
+    
     // Get the clipboard content and force it to be treated as plain text
     const clipText = app.theClipboard().toString();
     
@@ -64,8 +67,14 @@ function run(input, parameters) {
     // Create the code block
     const wrappedText = '```\n' + normalizedText + '\n```';
     
+    // Small delay before setting clipboard
+    delay(0.2);
+    
     // Put it back on the clipboard
     app.setTheClipboardTo(wrappedText);
+    
+    // Small delay before pasting
+    delay(0.5);
     
     // Paste it back
     se.keystroke('v', {using: ['command down']});

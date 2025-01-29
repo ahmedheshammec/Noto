@@ -70,6 +70,17 @@ In the Following Path:
 /opt/homebrew/Caskroom/
 ```
 
+
+### How to show info about a specific cask?
+
+Use the following command: 
+
+```sh
+brew info --cask <cask_name>
+```
+
+→ You will find a Github link search inside it for `homepage`
+
 ## How to Fetch the Source Install File to Use It Later?
 
 use the following command: 

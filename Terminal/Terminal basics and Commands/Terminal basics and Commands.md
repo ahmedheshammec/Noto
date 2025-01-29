@@ -11,17 +11,28 @@ to know where you are type
 pwd
 ```
 
-To Go Back type just like windows: 
+To Go Back 1 Level Up type: 
+
 ```bash
 cd ..
 ```
 
+To Go Back (Like The Back Button in Finder and in The Browser) type: 
+
+```sh
+cd -
+```
+
+→ This goes back to the last directory you were in not 1 level up. 
+
 to make directory (i.e folder) type: 
+
 ```bash
 mkdir "your folder name"
 ```
 
 to quickly make multiple folders let's say 5
+
 ```bash
 mkdir css js fonts imgs assets
 ```
@@ -36,6 +47,23 @@ to make directory in the parent folder type:
 ```bash
 mkdir ../"your folder name"
 ```
+
+→ Advanced Example with MKDIR
+
+```sh
+mkdir -p {dev,test,prod}/{backend,frontend}
+```
+
+This will make a structure like this: 
+├── dev
+│   ├── backend
+│   └── frontend
+├── prod
+│   ├── backend
+│   └── frontend
+└── test
+   ├── backend
+   └── frontend
 
 to view the content of the directory you are at type: 
 ```bash
