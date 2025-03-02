@@ -101,5 +101,47 @@ to cleanup all files in the cache use the following command:
 rm -r ~/Library/Caches/Homebrew/*
 ```
 
+### 1. **Update `Homebrew` itself**
 
+First, ensure that `Homebrew` is up to date by running:
+
+```
+brew update
+```
+
+This command fetches the latest version of `Homebrew` and updates the list of available formulae.
+
+### 2. **Upgrade all installed formulae**
+
+Once `Homebrew` is updated, you can upgrade all installed formulae (packages) to their latest versions using:
+
+```
+brew upgrade
+```
+
+This will upgrade all outdated packages to the latest versions available in the `Homebrew` repositories.
+
+### 3. **Clean up old versions (optional)**
+
+After upgrading, you may want to clean up old versions of installed formulae to free up disk space:
+
+```
+brew cleanup
+```
+
+This command removes older versions of installed formulae that are no longer needed.
+
+**Fix Permission on Cleanup**
+
+if you got an error like this: 
+
+```
+Error: Could not cleanup old kegs! Fix your permissions on: /opt/homebrew/Cellar/certifi/2024.8.30 /opt/homebrew/Cellar/[python@3.12](mailto:python@3.12) /3.12.6 /opt/homebrew/Cellar/yt-dlp/2024.8.6
+```
+
+We can fix it using the following command: 
+
+```sh
+sudo chown -R $(whoami):admin /opt/homebrew
+```
 

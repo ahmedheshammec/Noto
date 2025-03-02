@@ -36,6 +36,8 @@
 
 `j & k near the opponent head while he is on the ground` → grab his head 
 
+`← or → Towards The Opponent once when he is near then j & k Together` → grab his head 
+
 `Tip`: Normal A can replace rapid A in special moves. so as the other keys: B, C. 
 
 

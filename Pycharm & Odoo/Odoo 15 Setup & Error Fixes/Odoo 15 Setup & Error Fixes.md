@@ -5,10 +5,10 @@
 python -m venv .venv
 ```
 
-❖ This Will Create a Hidden Venv File in the Odoo Odoo, Now We Need to Activate It
+❖ This Will Create a Hidden `Venv` File in the Odoo Odoo, Now We Need to Activate It
 
 ```
-source /Users/Ahmed/Documents/odoo15-15.0/.venv/bin/activate
+source .venv/bin/activate
 ```
 
 ❖ Now Let's Check that There's No Lists Installed Using the Following Command: 
@@ -17,16 +17,19 @@ source /Users/Ahmed/Documents/odoo15-15.0/.venv/bin/activate
 python -m pip list
 ```
 
+```
+python -m pip install --upgrade pip setuptools wheel
+```
+
 ❖ Next Let's Install the Requirements in the requirements.txt File Using the Following Command: 
 
 ```
-python -m pip install -r <path to the requiremtns file>
+sudo -H python -m pip install -r requirements.txt
 ```
 
-❖ Next Add the Following Lines in the Confing Under the Debian Directory: 
+❖ Next Add the Following Lines in the Config Under the Debian Directory: 
 
 ```
-addons_path = /Users/Ahmed/Documents/odoo15-15.0/addons,/Users/Ahmed/Documents/odoo15-15.0/custom_addons
 limit_memory_hard = 0
 limit_memory_soft = 0
 ```

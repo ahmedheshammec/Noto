@@ -13,12 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nexus/Automator/How to automate keystrokes using Javascript and Automator.md",
+                "file": "Nexus/Automator/AtomicParsley with Automator Quick Action.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to automate keystrokes using Javascript and Automator"
+              "title": "AtomicParsley with Automator Quick Action"
+            }
+          },
+          {
+            "id": "2ee6c4e57b0c943f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nexus/Automator/Convert All EPS within a Folder to PNG with Automator and GhostScript.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Convert All EPS within a Folder to PNG with Automator and GhostScript"
+            }
+          },
+          {
+            "id": "3f12711e9e270b40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nexus/Automator/VIP Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VIP Notes"
             }
           }
         ]
@@ -40,7 +68,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -77,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 273.5
   },
   "right": {
     "id": "44c572dcd721498c",
@@ -165,38 +194,39 @@
   },
   "active": "4ebaa72d5c310c90",
   "lastOpenFiles": [
+    "Nexus/Automator/Convert All EPS within a Folder to PNG with Automator and GhostScript.md",
+    "Nexus/Automator/AtomicParsley with Automator Quick Action.md",
+    "Nexus/Automator/VIP Notes.md",
+    "Nexus/Automator/How to Convert PSD Files to JPG with Automator and Magick Command.md",
+    "Nexus/Automator/How to automate keystrokes using Javascript and Automator.md",
     "Nexus/Automator/How to Apply Python Script to Files Using Automator?.md",
-    "Pycharm & Odoo/How to add PyCharm Autocompletion Support for Python and XML.md",
+    "Nexus/Automator/Convert Entire Folder to MP4 using Automator Quick Actions and ffmpeg.md",
+    "Nexus/Automator/Remove Suffix with Options Quick Action.md",
+    "Graphic Design/Green Screen Hex Code/Green Screen Hex Code.md",
+    "Graphic Design/After Effects/Ae Expressions/Basics/Value Expression/Value Expression.md",
+    "Graphic Design/After Effects/Ae Expressions/Basics/Offset Animation/Offset Animation.md",
+    "Apple/MacOS/Create custom icns Icons for macOS Apps/Create custom icns Icons for macOS Apps.md",
+    "Apple/MacOS/ how to download files using terminal /How to download files using terminal.md",
+    "Python/How to Fix Externally-Managed-Environment Error.md",
+    "Pycharm & Odoo/How to Remove the Annoying Warp Line in PyCharm?.md",
+    "Graphic Design/Photoshop/How to Remove the Annoying Layer Controlers in Photoshop 2024/How to Remove the Annoying Layer Controlers in Photoshop 2024.md",
+    "Nexus/AI/Whisper CLI.md",
+    "Graphic Design/Final Cut Pro/04-Keyboard Shortcuts/04-Keyboard Shortcuts.md",
+    "Graphic Design/Final Cut Pro/09 - Where Does Final Cut Pro Stores Custom Keyboard Shortcut Sets?.md",
+    "Pycharm & Odoo/Odoo 15 Setup & Error Fixes/Odoo 15 Setup & Error Fixes.md",
+    "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
+    "Pycharm & Odoo/VIP Shortcuts/VIP Shortcuts.md",
+    "Python/Cheat Sheet/Cheat Sheet.md",
+    "Youtube-dl/how to check if there's a new version of yt-dlp without updating it on both Github and Pypi from terminal?.md",
+    "FFMPEG Guide/FFMPEG Commands/FFMPEG Commands.md",
+    "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
     "Pycharm & Odoo/Autocomplete_Python.png",
     "Pycharm & Odoo/CleanShot 2025-01-28 at 22.08.43.png",
     "Pycharm & Odoo/PyCharm_autocomplete_templates.png",
     "Pycharm & Odoo/CleanShot 2025-01-28 at 22.04.36.png",
-    "Pycharm & Odoo/How to Remove the Annoying Warp Line in PyCharm?.md",
-    "Homebrew/Basics/Basics.md",
-    "Nexus/Automator/How to make upload workflow with automator and file.io.md",
-    "VS-Code/How to Fix VS Code Auto Indenting Code when You Paste It/How to Fix VS Code Auto Indenting Code when You Paste It.md",
-    "VS-Code/How to fix the annoying message \"Your code installation appears to be corrupt\".md",
-    "Nexus/Automator/How to create a FileNuke workflow with automator and find command?.md",
-    "Nexus/Automator/How to create audio level adjustment workflow for video & audio using automator and ffmpeg?.md",
-    "Nexus/Untitled.md",
-    "Nexus/Automator/How to Create a Concat Script to Montage your Videos with Just Timestamps using Automator and ffmpeg?.md",
-    "Nexus/Automator/How to Divide Video Dimension by Half Using Automator and ffmpeg?.md",
-    "Nexus/Automator/How to Customize Workflow Icons?.md",
-    "Nexus/Automator/How to Create a Trim Script with Automator and ffmpeg?.md",
-    "Nexus/Automator/Convert File to MP4 Using Quick Action and Automator.md",
-    "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
-    "Nexus/Automator/Convert Entire Folder to MP4 using Automator Quick Actions and ffmpeg.md",
-    "Nexus/Automator/How to automate keystrokes using Javascript and Automator.md",
-    "Apple/MacOS/How to Make any Window Stay on Top in MacOS.md",
     "Apple/MacOS/preview_dark.png",
     "Apple/MacOS/icon_128x128@2x-1.png",
-    "Apple/MacOS/How to Record Audio From your Mac.md",
     "Apple/MacOS/icon_128x128@2x.png",
-    "FFMPEG Guide/FFMPEG Commands/FFMPEG Commands.md",
-    "Nexus/Automator/How to Convert PSD Files to JPG with Automator and Magick Command.md",
-    "Nexus/Automator/Convert Files to MP3 and m4a Using Actions.md",
-    "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
-    "Apple/MacOS/How to Preview Eps Files on Mac After Apple Dropping Support/How to Preview Eps Files on Mac After Apple Dropping Support.md",
     "Graphic Design/why-are-my-blacks-not-overprinting-the-first-is-indesign-v0-nasmzd01jwcd1.jpeg",
     "Graphic Design/why-are-my-blacks-not-overprinting-the-first-is-indesign-v0-nasmzd01jwcd1.png.webp",
     "Nexus/Automator",

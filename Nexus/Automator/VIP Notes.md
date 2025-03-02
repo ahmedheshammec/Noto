@@ -8,3 +8,9 @@ osascript -e 'display notification "SRT Processed Successfully" with title "Done
 ```
 
 → In this example i'm also giving the full path of the Python Script. if you didn't mention the full path you might encounter some bugs when you're running the code. 
+
+## Automator Services Location
+
+```
+~/Library/Services/
+```
