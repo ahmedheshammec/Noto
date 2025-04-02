@@ -14,3 +14,18 @@ osascript -e 'display notification "SRT Processed Successfully" with title "Done
 ```
 ~/Library/Services/
 ```
+
+### Quickly CD to File
+
+```sh
+#!/bin/bash
+ 
+pathname=$(dirname "$@")
+cd "$pathname"
+```
+
+### Display a Notification
+
+```sh
+osascript -e 'display notification "Success" with title "Done!"'
+```

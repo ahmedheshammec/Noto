@@ -8,45 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4ebaa72d5c310c90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nexus/Automator/AtomicParsley with Automator Quick Action.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AtomicParsley with Automator Quick Action"
-            }
-          },
-          {
-            "id": "2ee6c4e57b0c943f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nexus/Automator/Convert All EPS within a Folder to PNG with Automator and GhostScript.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Convert All EPS within a Folder to PNG with Automator and GhostScript"
-            }
-          },
-          {
             "id": "3f12711e9e270b40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nexus/Automator/VIP Notes.md",
+                "file": "Games/WWF Wrestle-Mania Arcade (Mac Version).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VIP Notes"
+              "title": "WWF Wrestle-Mania Arcade (Mac Version)"
             }
           }
         ]
@@ -192,45 +164,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ebaa72d5c310c90",
+  "active": "3f12711e9e270b40",
   "lastOpenFiles": [
-    "Nexus/Automator/Convert All EPS within a Folder to PNG with Automator and GhostScript.md",
-    "Nexus/Automator/AtomicParsley with Automator Quick Action.md",
     "Nexus/Automator/VIP Notes.md",
+    "Apple/iPad/How to run Shell Scripts on a-shell?.md",
+    "Apple/iPad/How to Create an Alias in a-Shell.md",
+    "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
+    "Nexus/Automator/How to Apply Python Script to Files Using Automator?.md",
+    "First Notebook/Zip Code {Egypt}/Zip Code {Egypt}.md",
+    "Pycharm & Odoo/Odoo 15 Setup & Error Fixes/Odoo 15 Setup & Error Fixes.md",
+    "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
+    "Nexus/AI/Whisper CLI.md",
+    "VS-Code/Cheat Sheet/Cheat Sheet.md",
+    "Apple/MacOS/ how to download files using terminal /How to download files using terminal.md",
+    "Youtube-dl/how to check if there's a new version of yt-dlp without updating it on both Github and Pypi from terminal?.md",
+    "Nexus/Curl/How to Download Facebook Videos with Curl?.md",
+    "Nexus/Curl/CloudScraper on iPhone vs Mac.md",
+    "Tesseract OCR/Tesseract OCR/Tesseract OCR.md",
+    "Nexus/Automator/AtomicParsley with Automator Quick Action.md",
+    "Nexus/Automator/Convert All EPS within a Folder to PNG with Automator and GhostScript.md",
+    "Nexus/Curl/codeOutput.png",
+    "Nexus/Curl/CleanShot 2025-03-03 at 16.07.44@2x.png",
+    "Nexus/Curl/htmlResponse.png",
+    "Nexus/Curl/CleanShot 2025-03-03 at 15.59.32.png",
+    "Nexus/Curl/copyCookies.png",
+    "Nexus/Curl/CleanShot 2025-03-03 at 15.49.02@2x.png",
+    "Nexus/Curl/cookiesTab.png",
+    "Nexus/Curl/CleanShot 2025-03-03 at 15.40.23@2x.png",
+    "Nexus/Curl/Headers.png",
+    "Nexus/Curl/CleanShot 2025-03-03 at 15.37.16@2x.png",
+    "Nexus/Curl",
+    "Youtube-dl/How to Download Videos from TikTok that Consist of Images and Audio/How to Download Videos from TikTok that Consist of Images and Audio.md",
+    "Youtube-dl/[TikTok] Failed to parse JSON - Can't download videos without watermark/[TikTok] Failed to parse JSON - Can't download videos without watermark.md",
+    "Python/Cheat Sheet/Cheat Sheet.md",
     "Nexus/Automator/How to Convert PSD Files to JPG with Automator and Magick Command.md",
     "Nexus/Automator/How to automate keystrokes using Javascript and Automator.md",
-    "Nexus/Automator/How to Apply Python Script to Files Using Automator?.md",
     "Nexus/Automator/Convert Entire Folder to MP4 using Automator Quick Actions and ffmpeg.md",
     "Nexus/Automator/Remove Suffix with Options Quick Action.md",
     "Graphic Design/Green Screen Hex Code/Green Screen Hex Code.md",
     "Graphic Design/After Effects/Ae Expressions/Basics/Value Expression/Value Expression.md",
-    "Graphic Design/After Effects/Ae Expressions/Basics/Offset Animation/Offset Animation.md",
-    "Apple/MacOS/Create custom icns Icons for macOS Apps/Create custom icns Icons for macOS Apps.md",
-    "Apple/MacOS/ how to download files using terminal /How to download files using terminal.md",
-    "Python/How to Fix Externally-Managed-Environment Error.md",
-    "Pycharm & Odoo/How to Remove the Annoying Warp Line in PyCharm?.md",
-    "Graphic Design/Photoshop/How to Remove the Annoying Layer Controlers in Photoshop 2024/How to Remove the Annoying Layer Controlers in Photoshop 2024.md",
-    "Nexus/AI/Whisper CLI.md",
-    "Graphic Design/Final Cut Pro/04-Keyboard Shortcuts/04-Keyboard Shortcuts.md",
-    "Graphic Design/Final Cut Pro/09 - Where Does Final Cut Pro Stores Custom Keyboard Shortcut Sets?.md",
-    "Pycharm & Odoo/Odoo 15 Setup & Error Fixes/Odoo 15 Setup & Error Fixes.md",
-    "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
-    "Pycharm & Odoo/VIP Shortcuts/VIP Shortcuts.md",
-    "Python/Cheat Sheet/Cheat Sheet.md",
-    "Youtube-dl/how to check if there's a new version of yt-dlp without updating it on both Github and Pypi from terminal?.md",
-    "FFMPEG Guide/FFMPEG Commands/FFMPEG Commands.md",
-    "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
-    "Pycharm & Odoo/Autocomplete_Python.png",
-    "Pycharm & Odoo/CleanShot 2025-01-28 at 22.08.43.png",
-    "Pycharm & Odoo/PyCharm_autocomplete_templates.png",
-    "Pycharm & Odoo/CleanShot 2025-01-28 at 22.04.36.png",
-    "Apple/MacOS/preview_dark.png",
-    "Apple/MacOS/icon_128x128@2x-1.png",
-    "Apple/MacOS/icon_128x128@2x.png",
-    "Graphic Design/why-are-my-blacks-not-overprinting-the-first-is-indesign-v0-nasmzd01jwcd1.jpeg",
-    "Graphic Design/why-are-my-blacks-not-overprinting-the-first-is-indesign-v0-nasmzd01jwcd1.png.webp",
     "Nexus/Automator",
-    "Graphic Design/Indesign/How to create round Corners in Indesign/round_corners_indesign.gif",
     "Graphic Design/Indesign/How to create round Corners in Indesign",
     "Graphic Design/Fonts",
     "Nexus/AI",
@@ -238,7 +211,6 @@
     "Nexus/Web - Internet",
     "Nexus/TMUX",
     "Nexus/Learn CSS Elzero 2021",
-    "Nexus/UI-UX and Figma",
-    "Nexus/Tailwind CSS/Tailwind Build Via Vite"
+    "Nexus/UI-UX and Figma"
   ]
 }

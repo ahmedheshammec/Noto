@@ -1,6 +1,6 @@
 * you can launch vs code by typing: 
 
-```plaintext
+```
 code demo
 ```
 
@@ -54,13 +54,13 @@ The Built-In Command Emmet: Balance (Outward) Does the Job but It Doesn't Have a
 :: __`HTML Emmet Abbreviations  Cheat Sheet`__ ::
 This Emmet:
 
-```plaintext
+```
 form#main>input#input[type=text]+input[type=submit value='Go']
 ```
 
 will write code like this: 
 
-```plaintext
+```
 <form id="main">
     <input id="input" type="text">
     <input type="submit" value="Go">
@@ -69,13 +69,13 @@ will write code like this:
 
 And This Emmet: 
 
-```plaintext
+```
 form#main>input#main[type=text autocomplete=off]
 ```
 
 will write code like this: 
 
-```plaintext
+```
 <form id="main">
     <input type="text" id="input" autocomplete="off">
 </form>
@@ -83,12 +83,12 @@ will write code like this:
 
 And This Emmet: 
 
-```plaintext
+```
 button[onclick="confirmNavigation()"]{Open Google}
 ```
 
 will write code like this: 
 
-```plaintext
+```
 <button onclick="confirmNavigation()">Open Google</button>
 ```

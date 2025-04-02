@@ -38,6 +38,10 @@
 
 `← or → Towards The Opponent once when he is near then j & k Together` → grab his head 
 
+`← or → Towards The Opponent Twice when you're grabbing his head` → Execute Combo
+
+`↓ + ↓ then o + i together ` → Suplex
+
 `Tip`: Normal A can replace rapid A in special moves. so as the other keys: B, C. 
 
 
