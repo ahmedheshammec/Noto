@@ -159,6 +159,21 @@ to force delete a directory type: 
 rm -RF "your directory name"/
 ```
 
+to force eject an external hard drive type: 
+```shell
+sudo diskutil unmountDisk force /Volumes/Samsung\ T5
+```
+
+to remount the external hard drive you have to know the name of the disk first through: 
+```shell
+sudo diskutil list
+```
+
+then run the mount command: 
+```shell
+sudo diskutil mountDisk /dev/disk4
+```
+
 To clear the terminal window type: 
 ```bash
 Clear
