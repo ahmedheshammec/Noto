@@ -15,7 +15,7 @@ for f in "$@"; do
     
     # construct command
     cd "${pathname}"
-	input_filepath="input.png"
+	input_filepath="${f}"
 	output_iconset_name="output.iconset"
 	/bin/mkdir $output_iconset_name
 

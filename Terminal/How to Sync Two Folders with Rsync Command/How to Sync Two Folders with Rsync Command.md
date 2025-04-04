@@ -1,13 +1,13 @@
 
-First Cd to the Source Folder "the Folder You Want to Move Files From" And Type the Following Command: 
+First `cd` to the Source Folder "**The Folder You Want to Move Files From**" And Type the Following Command: 
 
-```plaintext
+```shell
 rsync -av . /destination/folder
 ```
 
 if you have a lot files to be synced you can add the `--progress`  flag
 
-```plaintext
+```shell
 rsync -av --progress . /destination/folder
 ```
 

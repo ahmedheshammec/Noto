@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games/WWF Wrestle-Mania Arcade (Mac Version).md",
+                "file": "Nexus/AI/Whisper CLI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WWF Wrestle-Mania Arcade (Mac Version)"
+              "title": "Whisper CLI"
+            }
+          },
+          {
+            "id": "88a40ec826cb1390",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nexus/Automator/VIP Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VIP Notes"
+            }
+          },
+          {
+            "id": "02e052cdb726bd93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nexus/Automator/AtomicParsley with Automator Quick Action.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AtomicParsley with Automator Quick Action"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
   "right": {
     "id": "44c572dcd721498c",
@@ -164,9 +194,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f12711e9e270b40",
+  "active": "88a40ec826cb1390",
   "lastOpenFiles": [
+    "Nexus/AI/Whisper CLI.md",
     "Nexus/Automator/VIP Notes.md",
+    "Nexus/Automator/AtomicParsley with Automator Quick Action.md",
+    "Pycharm & Odoo/Pycharm Odoo Projects Workflow with Symbolic Links/Pycharm Odoo Projects Workflow with Symbolic Links.md",
+    "Apple/Save space/How to move an app library path to an external drive to free space_ /How to move an app library path to an external drive to free space? .md",
+    "Terminal/How to Sync Two Folders with Rsync Command/How to Sync Two Folders with Rsync Command.md",
+    "Nexus/Automator/PNG to ICNS with Automator and SIPS.md",
+    "Apple/MacOS/How to Record a New Shortcut in Launch Palette App?.md",
+    "Games/WWF Wrestle-Mania Arcade (Mac Version).md",
     "Apple/iPad/How to run Shell Scripts on a-shell?.md",
     "Apple/iPad/How to Create an Alias in a-Shell.md",
     "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
@@ -174,14 +212,12 @@
     "First Notebook/Zip Code {Egypt}/Zip Code {Egypt}.md",
     "Pycharm & Odoo/Odoo 15 Setup & Error Fixes/Odoo 15 Setup & Error Fixes.md",
     "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
-    "Nexus/AI/Whisper CLI.md",
     "VS-Code/Cheat Sheet/Cheat Sheet.md",
     "Apple/MacOS/ how to download files using terminal /How to download files using terminal.md",
     "Youtube-dl/how to check if there's a new version of yt-dlp without updating it on both Github and Pypi from terminal?.md",
     "Nexus/Curl/How to Download Facebook Videos with Curl?.md",
     "Nexus/Curl/CloudScraper on iPhone vs Mac.md",
     "Tesseract OCR/Tesseract OCR/Tesseract OCR.md",
-    "Nexus/Automator/AtomicParsley with Automator Quick Action.md",
     "Nexus/Automator/Convert All EPS within a Folder to PNG with Automator and GhostScript.md",
     "Nexus/Curl/codeOutput.png",
     "Nexus/Curl/CleanShot 2025-03-03 at 16.07.44@2x.png",
@@ -197,12 +233,6 @@
     "Youtube-dl/How to Download Videos from TikTok that Consist of Images and Audio/How to Download Videos from TikTok that Consist of Images and Audio.md",
     "Youtube-dl/[TikTok] Failed to parse JSON - Can't download videos without watermark/[TikTok] Failed to parse JSON - Can't download videos without watermark.md",
     "Python/Cheat Sheet/Cheat Sheet.md",
-    "Nexus/Automator/How to Convert PSD Files to JPG with Automator and Magick Command.md",
-    "Nexus/Automator/How to automate keystrokes using Javascript and Automator.md",
-    "Nexus/Automator/Convert Entire Folder to MP4 using Automator Quick Actions and ffmpeg.md",
-    "Nexus/Automator/Remove Suffix with Options Quick Action.md",
-    "Graphic Design/Green Screen Hex Code/Green Screen Hex Code.md",
-    "Graphic Design/After Effects/Ae Expressions/Basics/Value Expression/Value Expression.md",
     "Nexus/Automator",
     "Graphic Design/Indesign/How to create round Corners in Indesign",
     "Graphic Design/Fonts",
