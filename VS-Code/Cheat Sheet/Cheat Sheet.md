@@ -38,6 +38,8 @@ code demo
 
 `⌥ +left click` >>> select multiple lines to edit them at the same time
 
+`⌥ + ⌘ + Down Arrow or Up Arrow` >>> adding multiple cursors vertically at the same position on several lines
+
 `⌘ +⇧ +o` >>> get to variables and functions quickly
 
 `⌘ + G` >>> open find and replace dialogue 
@@ -91,4 +93,37 @@ will write code like this:
 
 ```
 <button onclick="confirmNavigation()">Open Google</button>
+```
+
+And This Emmet: 
+
+```
+ul>li*5
+```
+
+will write code like this: 
+
+```
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+```
+
+And This Emmet: 
+
+```
+ul>li*3{Item $}
+```
+
+will write code like this: 
+```
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+</ul>
 ```

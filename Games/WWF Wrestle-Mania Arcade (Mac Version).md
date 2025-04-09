@@ -38,10 +38,16 @@
 
 `← or → Towards The Opponent once when he is near then j & k Together` → grab his head 
 
-`← or → Towards The Opponent Twice when you're grabbing his head` → Execute Combo
+`← or → Towards The Opponent Twice when you're grabbing his head + o` → Execute Combo
 
 `↓ + ↓ then o + i together ` → Suplex
 
 `Tip`: Normal A can replace rapid A in special moves. so as the other keys: B, C. 
 
 
+### How to Make 16 Hit Combo with Shawn Michaels
+
+1. ← or → Towards The Opponent Twice when you're grabbing his head + o
+2. K + L Together at the same time
+3. J + K Together at the same time
+4. J + L Together at the same time

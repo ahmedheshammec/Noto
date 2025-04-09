@@ -1,5 +1,6 @@
 this script save jpeg image to the desktop with the same name as the opened document. 
-```plaintext
+
+```jsx
 // Get the current open document
 vardoc = app.activeDocument;
 
@@ -22,6 +23,7 @@ varsavePath = Folder.desktop + "/" + docName + ".jpg";
 doc.saveAs(newFile(savePath), saveOptions, true);
 
 ```
+
 Save it as JSX and run it from File >> Automate >> Scripts. 
 
 
