@@ -1,0 +1,8 @@
+- Quick Shower
+- 1 Hour Walk 
+- Searching for Jobs
+- Code 6 Hours 
+- Pray 5 Times 
+- Thank GOD
+- Eat Less 
+- 15 Min Implementation Videos (Odoo)

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games/WWF Wrestle-Mania Arcade (Mac Version).md",
+                "file": "Nexus/Web - Internet/We Landline Internet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WWF Wrestle-Mania Arcade (Mac Version)"
+              "title": "We Landline Internet"
             }
           },
           {
@@ -194,6 +194,9 @@
   },
   "active": "3f12711e9e270b40",
   "lastOpenFiles": [
+    "Nexus/Habit Tracking System.md",
+    "Nexus/Web - Internet/We Landline Internet.md",
+    "Games/WWF Wrestle-Mania Arcade (Mac Version).md",
     "Nexus/AI/Whisper CLI.md",
     "VS-Code/Cheat Sheet/Cheat Sheet.md",
     "Nexus/Markdown Basics.md",
@@ -207,7 +210,6 @@
     "Terminal/How to Sync Two Folders with Rsync Command/How to Sync Two Folders with Rsync Command.md",
     "Nexus/Automator/PNG to ICNS with Automator and SIPS.md",
     "Apple/MacOS/How to Record a New Shortcut in Launch Palette App?.md",
-    "Games/WWF Wrestle-Mania Arcade (Mac Version).md",
     "Apple/iPad/How to run Shell Scripts on a-shell?.md",
     "Apple/iPad/How to Create an Alias in a-Shell.md",
     "Nexus/Automator/How to Apply Python Script to Files Using Automator?.md",
@@ -218,8 +220,6 @@
     "Youtube-dl/how to check if there's a new version of yt-dlp without updating it on both Github and Pypi from terminal?.md",
     "Nexus/Curl/How to Download Facebook Videos with Curl?.md",
     "Nexus/Curl/CloudScraper on iPhone vs Mac.md",
-    "Tesseract OCR/Tesseract OCR/Tesseract OCR.md",
-    "Nexus/Automator/Convert All EPS within a Folder to PNG with Automator and GhostScript.md",
     "Nexus/Curl/codeOutput.png",
     "Nexus/Curl/CleanShot 2025-03-03 at 16.07.44@2x.png",
     "Nexus/Curl/htmlResponse.png",
