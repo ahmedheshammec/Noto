@@ -23,7 +23,7 @@ for file in /Volumes/Samsung\ T5/Whisper/* ; do
 done
 ```
 
-→ You can use the `path.sh` script to convert the path from Raycast to a path a terminal can read, here's the `path.sh` script: 
+→ You can use the `path.sh` script to convert the path to a path a terminal can read, here's the `path.sh` script: 
 
 ```shell
 #!/bin/bash

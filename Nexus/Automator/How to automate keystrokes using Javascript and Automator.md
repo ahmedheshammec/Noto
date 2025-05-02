@@ -86,3 +86,6 @@ function run(input, parameters) {
 → Now go to keyboard >> keyboard shortcuts >> services >> General and assign a keyboard shortcut let's say `⌃ + F6`
 
 
+
+
+

@@ -1,5 +1,5 @@
 open terminal and type this: 
-```plaintext
-open -n -a 'application name'
+```shell
+open -n -a <application name>
 ```
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nexus/Web - Internet/We Landline Internet.md",
+                "file": "Git & Github/How to Create a New Repo from Terminal using Github CLI/How to Create a New Repo from Terminal using Github CLI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "We Landline Internet"
+              "title": "How to Create a New Repo from Terminal using Github CLI"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VS-Code/Cheat Sheet/Cheat Sheet.md",
+                "file": "Nexus/Automator/How to Apply Python Script to Files Using Automator?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cheat Sheet"
+              "title": "How to Apply Python Script to Files Using Automator?"
             }
           },
           {
@@ -41,15 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nexus/Automator/AtomicParsley with Automator Quick Action.md",
+                "file": "Graphic Design/Final Cut Pro/04-Keyboard Shortcuts/04-Keyboard Shortcuts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AtomicParsley with Automator Quick Action"
+              "title": "04-Keyboard Shortcuts"
+            }
+          },
+          {
+            "id": "5cb8071e8add89e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graphic Design/Final Cut Pro/12- Titles in Final Cut Pro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12- Titles in Final Cut Pro"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -192,53 +207,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f12711e9e270b40",
+  "active": "5cb8071e8add89e6",
   "lastOpenFiles": [
-    "Nexus/Habit Tracking System.md",
-    "Nexus/Web - Internet/We Landline Internet.md",
-    "Games/WWF Wrestle-Mania Arcade (Mac Version).md",
-    "Nexus/AI/Whisper CLI.md",
-    "VS-Code/Cheat Sheet/Cheat Sheet.md",
-    "Nexus/Markdown Basics.md",
-    "Noto/How to Fix Noto Markdown Files when Exported and Convert Them to PDFs/How to Fix Noto Markdown Files when Exported and Convert Them to PDFs.md",
-    "Chat GPT/[Photoshop] save Preview Script/[Photoshop] save Preview Script.md",
-    "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
-    "Nexus/Automator/VIP Notes.md",
-    "Nexus/Automator/AtomicParsley with Automator Quick Action.md",
+    "Graphic Design/Final Cut Pro/Imgs/difference_in_moving_title.gif",
+    "Graphic Design/Final Cut Pro/Imgs/transform_icon.png",
+    "Graphic Design/Final Cut Pro/Imgs/CleanShot 2025-05-03 at 00.29.19.png",
+    "Graphic Design/Final Cut Pro/Imgs/default_title.png",
+    "Graphic Design/Final Cut Pro/Imgs/CleanShot 2025-05-03 at 00.25.27.png",
+    "Graphic Design/Final Cut Pro/Imgs/setting_keyboard_shortcut_for_default_title.png",
+    "Graphic Design/Final Cut Pro/Imgs/CleanShot 2025-05-03 at 00.21.17.png",
+    "Graphic Design/Final Cut Pro/11- Connected Clips in FCP.md",
+    "Graphic Design/Final Cut Pro/12- Titles in Final Cut Pro.md",
+    "Graphic Design/Final Cut Pro/05- The Magnetic Timeline/05- The Magnetic Timeline.md",
+    "Graphic Design/Final Cut Pro/04-Keyboard Shortcuts/04-Keyboard Shortcuts.md",
     "Pycharm & Odoo/Pycharm Odoo Projects Workflow with Symbolic Links/Pycharm Odoo Projects Workflow with Symbolic Links.md",
-    "Apple/Save space/How to move an app library path to an external drive to free space_ /How to move an app library path to an external drive to free space? .md",
-    "Terminal/How to Sync Two Folders with Rsync Command/How to Sync Two Folders with Rsync Command.md",
-    "Nexus/Automator/PNG to ICNS with Automator and SIPS.md",
-    "Apple/MacOS/How to Record a New Shortcut in Launch Palette App?.md",
-    "Apple/iPad/How to run Shell Scripts on a-shell?.md",
-    "Apple/iPad/How to Create an Alias in a-Shell.md",
+    "Nexus/Automator/VIP Notes.md",
     "Nexus/Automator/How to Apply Python Script to Files Using Automator?.md",
+    "FFMPEG Guide/FFMPEG Commands/FFMPEG Commands.md",
+    "Nexus/Automator/How to automate keystrokes using Javascript and Automator.md",
+    "Pycharm & Odoo/VIP Shortcuts/VIP Shortcuts.md",
+    "Pycharm & Odoo/How to add PyCharm Autocompletion Support for Python and XML.md",
+    "Python/Cheat Sheet/Cheat Sheet.md",
+    "Graphic Design/Final Cut Pro/Imgs/change_connection_point.gif",
+    "Graphic Design/Final Cut Pro/Imgs/Montage Area_21542.gif",
+    "Nexus/How to Mirror a Website for Offline Access Using HTTRACK.md",
+    "Nexus/wget/How to Use Wget to Download All Images From a Link?.md",
+    "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
+    "Apple/Software/Run Multiple Instances of the Same App More On Mac OS X /Run Multiple Instances of the Same App More On Mac OS X .md",
+    "Nexus/wget",
+    "Graphic Design/Final Cut Pro/Imgs/telda_key.png",
+    "Graphic Design/Final Cut Pro/Imgs/Everything You Thought You Knew About Connecting Clips in Final Cut Pro X-0004.png",
+    "Graphic Design/Final Cut Pro/10 - How to Edit Project Settings and Dimention.md",
+    "Graphic Design/Final Cut Pro/09 - Where Does Final Cut Pro Stores Custom Keyboard Shortcut Sets?.md",
+    "Graphic Design/Final Cut Pro/Imgs",
+    "Graphic Design/Final Cut Pro/untitled folder",
+    "Terminal/Ghostty Terminal.md",
+    "VS-Code/Cheat Sheet/Cheat Sheet.md",
+    "Homebrew/Basics/Basics.md",
+    "Terminal/ Homebrew and Casks Guide /** Homebrew and Casks Guide .md",
+    "Graphic Design/Fonts/How to add External folder of fonts to Font Book App?.md",
     "First Notebook/Zip Code {Egypt}/Zip Code {Egypt}.md",
-    "Pycharm & Odoo/Odoo 15 Setup & Error Fixes/Odoo 15 Setup & Error Fixes.md",
-    "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
-    "Apple/MacOS/ how to download files using terminal /How to download files using terminal.md",
-    "Youtube-dl/how to check if there's a new version of yt-dlp without updating it on both Github and Pypi from terminal?.md",
-    "Nexus/Curl/How to Download Facebook Videos with Curl?.md",
-    "Nexus/Curl/CloudScraper on iPhone vs Mac.md",
-    "Nexus/Curl/codeOutput.png",
-    "Nexus/Curl/CleanShot 2025-03-03 at 16.07.44@2x.png",
-    "Nexus/Curl/htmlResponse.png",
-    "Nexus/Curl/CleanShot 2025-03-03 at 15.59.32.png",
-    "Nexus/Curl/copyCookies.png",
-    "Nexus/Curl/CleanShot 2025-03-03 at 15.49.02@2x.png",
-    "Nexus/Curl/cookiesTab.png",
-    "Nexus/Curl/CleanShot 2025-03-03 at 15.40.23@2x.png",
-    "Nexus/Curl/Headers.png",
-    "Nexus/Curl/CleanShot 2025-03-03 at 15.37.16@2x.png",
+    "Nexus/Automator/AtomicParsley with Automator Quick Action.md",
     "Nexus/Curl",
     "Nexus/Automator",
     "Graphic Design/Indesign/How to create round Corners in Indesign",
     "Graphic Design/Fonts",
     "Nexus/AI",
     "Games",
-    "Nexus/Web - Internet",
-    "Nexus/TMUX",
-    "Nexus/Learn CSS Elzero 2021",
-    "Nexus/UI-UX and Figma"
+    "Nexus/Web - Internet"
   ]
 }
