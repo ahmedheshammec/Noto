@@ -1,4 +1,70 @@
-❖ First Things First: The Python Version that Worked for Me Is Python@3.10.14
+### Debugging
+
+Here's some useful terminal commands used in the debugging: 
+
+→ **Redirect to a log**
+
+```
+pip install libsass==0.17.0 > log.txt 2>&1
+```
+
+→ **Copy log content to clipboard**
+
+```
+cat log.txt | pbcopy
+```
+
+→ **Uninstall a specific Package**
+
+```
+pip uninstall lxml==4.5.0
+```
+
+→ **List a Specific Package From Pip List**
+
+```
+pip list | grep "lxml"
+```
+
+### Best Workflow to Fix Setup Errors
+
+1- start by creating a virtual environment then activate it using a recommended python version for the odoo server you want to run (Scroll Down for Code 👇)
+
+2- Run the following command
+
+```
+pip install -e .
+```
+
+→ If you got errors running this command, switch to a different version of python until it gives you no errors. 
+
+→ After running this command open `requirements.txt` and open the output of the `pip list` command **side by side** in vs-code. 
+
+→ Go through each package in the requirements and see if it's installed in the pip list output, if it's not installed install it. 
+
+→ After you're done with list try running the server with the **base** module using the following command: 
+
+```
+python odoo-bin -c odoo13-bahy.conf -d odoo13-bahy -i base
+```
+
+**PS** you might get some errors at this point related to some packages needs to downgraded to a compatible module. in this case delete the installed version, install the compatible one, and retry.
+
+→ Now if you're successful running the base module try running the following command: 
+
+```
+python odoo-bin -c odoo13-bahy.conf -d odoo13-bahy
+```
+
+→ Now you're good to go 👍 🚀
+
+---
+❖ To delete every installed pip package on your environment run: 
+
+```
+pip freeze | xargs pip uninstall -y
+```
+
 ❖ To Make Everything Run Smooth Create a Virtual Environment Inside Odoo Folder Using the Following Command: 
 
 ```
@@ -24,7 +90,23 @@ python -m pip install --upgrade pip setuptools wheel
 ❖ Next Let's Install the Requirements in the requirements.txt File Using the Following Command: 
 
 ```
-sudo -H python -m pip install -r requirements.txt
+pip install -r requirements.txt
+```
+
+or try the following command with different python versions: 
+
+```
+pip install -e .
+```
+
+Which Installs the current project in editable mode
+
+→ You may need to install the following: 
+
+```
+pip install "lxml[html_clean]"
+pip install lxml_html_clean
+pip install gevent psycopg2-binary pillow reportlab python-ldap num2words xlwt
 ```
 
 ❖ Next Add the Following Lines in the Config Under the Debian Directory: 

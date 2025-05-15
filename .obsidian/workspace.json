@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nexus/Automator/How to Apply Python Script to Files Using Automator?.md",
+                "file": "Pycharm & Odoo/How to Fix Styling Errors on localhost?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to Apply Python Script to Files Using Automator?"
+              "title": "How to Fix Styling Errors on localhost?"
             }
           },
           {
@@ -41,30 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphic Design/Final Cut Pro/04-Keyboard Shortcuts/04-Keyboard Shortcuts.md",
+                "file": "Python/How to Fix Externally-Managed-Environment Error.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04-Keyboard Shortcuts"
+              "title": "How to Fix Externally-Managed-Environment Error"
             }
           },
           {
-            "id": "5cb8071e8add89e6",
+            "id": "67c7b096e19b3b40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphic Design/Final Cut Pro/12- Titles in Final Cut Pro.md",
+                "file": "Nexus/AI/Whisper CLI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12- Titles in Final Cut Pro"
+              "title": "Whisper CLI"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,8 +207,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5cb8071e8add89e6",
+  "active": "86713c6f7cf4ffd6",
   "lastOpenFiles": [
+    "Pycharm & Odoo/imgs/styling_error_localhost.png",
+    "Pycharm & Odoo/imgs/CleanShot 2025-05-15 at 11.13.14.png",
+    "Pycharm & Odoo/imgs",
+    "Pycharm & Odoo/untitled folder",
+    "Pycharm & Odoo/Odoo 15 Setup & Error Fixes/Odoo 15 Setup & Error Fixes.md",
+    "Pycharm & Odoo/How to Fix Styling Errors on localhost?.md",
+    "Python/How to Fix Externally-Managed-Environment Error.md",
+    "Nexus/AI/Whisper CLI.md",
+    "Graphic Design/Final Cut Pro/13 - How to Export a Video with Alpha Channel in FCP?.md",
+    "Graphic Design/Fix SRT Problems (SRT File is Corrupt or maybe Damaged).md",
+    "Nexus/Markdown Basics.md",
+    "Terminal/How to Sync Two Folders with Rsync Command/How to Sync Two Folders with Rsync Command.md",
+    "Graphic Design/Premiere Pro/How to Write Arabic Caption Using Ai and Capcut/How to Write Arabic Caption Using Ai and Capcut.md",
+    "Nexus/Automator/How to Apply Python Script to Files Using Automator?.md",
+    "Graphic Design/Final Cut Pro/Imgs/export_alpha.png",
+    "Graphic Design/Final Cut Pro/Imgs/CleanShot 2025-05-04 at 15.23.20.png",
+    "Graphic Design/Final Cut Pro/04-Keyboard Shortcuts/04-Keyboard Shortcuts.md",
+    "Graphic Design/Final Cut Pro/12- Titles in Final Cut Pro.md",
     "Graphic Design/Final Cut Pro/Imgs/difference_in_moving_title.gif",
     "Graphic Design/Final Cut Pro/Imgs/transform_icon.png",
     "Graphic Design/Final Cut Pro/Imgs/CleanShot 2025-05-03 at 00.29.19.png",
@@ -217,43 +235,25 @@
     "Graphic Design/Final Cut Pro/Imgs/setting_keyboard_shortcut_for_default_title.png",
     "Graphic Design/Final Cut Pro/Imgs/CleanShot 2025-05-03 at 00.21.17.png",
     "Graphic Design/Final Cut Pro/11- Connected Clips in FCP.md",
-    "Graphic Design/Final Cut Pro/12- Titles in Final Cut Pro.md",
     "Graphic Design/Final Cut Pro/05- The Magnetic Timeline/05- The Magnetic Timeline.md",
-    "Graphic Design/Final Cut Pro/04-Keyboard Shortcuts/04-Keyboard Shortcuts.md",
     "Pycharm & Odoo/Pycharm Odoo Projects Workflow with Symbolic Links/Pycharm Odoo Projects Workflow with Symbolic Links.md",
     "Nexus/Automator/VIP Notes.md",
-    "Nexus/Automator/How to Apply Python Script to Files Using Automator?.md",
     "FFMPEG Guide/FFMPEG Commands/FFMPEG Commands.md",
     "Nexus/Automator/How to automate keystrokes using Javascript and Automator.md",
     "Pycharm & Odoo/VIP Shortcuts/VIP Shortcuts.md",
     "Pycharm & Odoo/How to add PyCharm Autocompletion Support for Python and XML.md",
     "Python/Cheat Sheet/Cheat Sheet.md",
-    "Graphic Design/Final Cut Pro/Imgs/change_connection_point.gif",
-    "Graphic Design/Final Cut Pro/Imgs/Montage Area_21542.gif",
     "Nexus/How to Mirror a Website for Offline Access Using HTTRACK.md",
     "Nexus/wget/How to Use Wget to Download All Images From a Link?.md",
     "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
     "Apple/Software/Run Multiple Instances of the Same App More On Mac OS X /Run Multiple Instances of the Same App More On Mac OS X .md",
     "Nexus/wget",
-    "Graphic Design/Final Cut Pro/Imgs/telda_key.png",
-    "Graphic Design/Final Cut Pro/Imgs/Everything You Thought You Knew About Connecting Clips in Final Cut Pro X-0004.png",
-    "Graphic Design/Final Cut Pro/10 - How to Edit Project Settings and Dimention.md",
-    "Graphic Design/Final Cut Pro/09 - Where Does Final Cut Pro Stores Custom Keyboard Shortcut Sets?.md",
     "Graphic Design/Final Cut Pro/Imgs",
     "Graphic Design/Final Cut Pro/untitled folder",
-    "Terminal/Ghostty Terminal.md",
-    "VS-Code/Cheat Sheet/Cheat Sheet.md",
-    "Homebrew/Basics/Basics.md",
-    "Terminal/ Homebrew and Casks Guide /** Homebrew and Casks Guide .md",
-    "Graphic Design/Fonts/How to add External folder of fonts to Font Book App?.md",
-    "First Notebook/Zip Code {Egypt}/Zip Code {Egypt}.md",
-    "Nexus/Automator/AtomicParsley with Automator Quick Action.md",
     "Nexus/Curl",
     "Nexus/Automator",
     "Graphic Design/Indesign/How to create round Corners in Indesign",
     "Graphic Design/Fonts",
-    "Nexus/AI",
-    "Games",
-    "Nexus/Web - Internet"
+    "Nexus/AI"
   ]
 }
