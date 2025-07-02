@@ -1,59 +1,33 @@
-→ Here's the Code: 
 
-```sh
+```shell
 #!/bin/bash
- 
-pathname=$(dirname "$@")
-cd "$pathname"
 
+# Fix PATH for Automator
+export PATH="/Users/ahmed/.pyenv/shims:/usr/local/bin:/opt/homebrew/bin:/usr/bin:/bin:/usr/sbin:/sbin"
 
-# Prompt user for choice
-choice=$(
-    osascript <<EOF
-    set selectedOption to choose from list {"artwork.png", "artwork.jpeg", "artwork.jpg"} with title "Artwork Name" with prompt "Choose an option:" default items {"artwork.png"}
-    if selectedOption is false then
-        return "Cancel"
-    else
-        return item 1 of selectedOption
-    end if
-EOF
-)
-
-
-# Exit if the user cancels
-if [[ "$choice" == "Cancel" ]]; then
-    exit 0
-fi
-
-# Check if a directory is provided as an argument
-if [[ $# -ne 1 ]]; then
-    exit 1
-fi
-
-
-# Process files in the directory
-for file in "$@"; do
-    # Skip directories
-    if [[ -d "$file" ]]; then
+for filepath in "$@"; do
+    if [ ! -f "$filepath" ]; then
+        osascript -e "display notification \"File not found: $filepath\" with title \"Error\""
         continue
     fi
 
-    # Apply the appropriate renaming logic
-    case "$choice" in
-        "artwork.png")
-            /opt/homebrew/bin/AtomicParsley "$file" --artwork artwork.png
-            ;;
-        "artwork.jpeg")
-            /opt/homebrew/bin/AtomicParsley "$file" --artwork artwork.jpeg
-            ;;
-        "artwork.jpg")
-            /opt/homebrew/bin/AtomicParsley "$file" --artwork artwork.jpg
-            ;;
-        *)
-            exit 1
-            ;;
-    esac
-done
-osascript -e 'display notification "Success" with title "Done!"'
-```
+    # Get filename parts
+    filename=$(basename "$filepath")
+    base="${filename%.*}"
+    dirpath=$(dirname "$filepath")
 
+    # Run extraction
+    AtomicParsley "$filepath" --extractPix
+
+    # Look for any output file like base_artwork_1.*
+    extracted_img=$(find "$dirpath" -maxdepth 1 -type f -name "${base}_artwork_1.*" | head -n 1)
+
+    if [ -f "$extracted_img" ]; then
+        ext="${extracted_img##*.}"
+        mv -f "$extracted_img" "$dirpath/artwork.$ext"
+        osascript -e "display notification \"Saved artwork.$ext from: $filename\" with title \"Done!\""
+    else
+        osascript -e "display notification \"No artwork found for: $filename\" with title \"Error\""
+    fi
+done
+```

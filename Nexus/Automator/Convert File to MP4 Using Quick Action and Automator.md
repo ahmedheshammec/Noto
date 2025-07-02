@@ -14,9 +14,13 @@ for f in "$@"; do
     # Generate a random 5-digit number
     randomNumber=$(printf "%05d" $((RANDOM % 100000)))
 
+    # construct output path
+    output_file="${pathname}/${filename}_${randomNumber}.mp4"
 
     # construct command
-    /opt/homebrew/bin/ffmpeg -i "${f}" -pix_fmt yuv420p -c:v libx264 -c:a aac "${pathname}/${filename}_${randomNumber}.mp4"
-    osascript -e 'display notification "Coversion Successful" with title "Done!"'
+    /opt/homebrew/bin/ffmpeg -i "${f}" -pix_fmt yuv420p -c:v libx264 -c:a aac "${output_file}"
+
+    # Show notification with filename
+    osascript -e "display notification \"Conversion successful for ${filename}\" with title \"Done!\""
 done
 ```

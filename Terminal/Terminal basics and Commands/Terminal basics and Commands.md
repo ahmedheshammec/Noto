@@ -280,7 +280,7 @@ sudo find / -type d -iname "ollama" 2>/dev/null
 → you can add more than condition like this: 
 
 ```sh
-sudo find . -type f -iname "ollama" -o -type d -iname "ollama" 2>/dev/nul
+sudo find / \( -type f -iname "bahy" -o -type d -iname "bahy" \) 2>/dev/null
 ```
 
 	❖ This will search both files and directories

@@ -299,7 +299,7 @@ Use the Following Command:
 yt-dlp --download-sections "*02:00:00-02:00:10" -f 248+251 'https://www.youtube.com/watch?v=CwA1VWP0Ldw'
 ```
 
-❖ nOte: The `248+251` Came From the Following Command: 
+❖ Note: The `248+251` Came From the Following Command: 
 
 ```zsh
 yt-dlp -F https://www.youtube.com/watch?v=CwA1VWP0Ldw | grep webm > formats.md

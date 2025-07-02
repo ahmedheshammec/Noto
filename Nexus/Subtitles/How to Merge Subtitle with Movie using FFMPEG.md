@@ -65,7 +65,7 @@ brew install sub2srt
 sub2srt input.sub output.srt
 ```
 
-### :: __`Convert Ass to Srt Usign Ffmpeg`__ ::
+### :: __`Convert ASS to Srt Usign FFMPEG`__ ::
 
 ```plaintext
 ffmpeg -i input.ass output.srt
