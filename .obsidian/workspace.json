@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nexus/Subtitles/SRT Process Cheat Sheet.md",
+                "file": "Nexus/AI/Claude MCP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SRT Process Cheat Sheet"
+              "title": "Claude MCP"
             }
           }
         ],
@@ -209,8 +209,12 @@
   },
   "active": "67c7b096e19b3b40",
   "lastOpenFiles": [
-    "Nexus/Subtitles/Subtitle Tool & Converter for FCP.md",
+    "Nexus/AI/Whisper CLI.md",
+    "Nexus/AI/Claude MCP.md",
+    "Nexus/AI/Notes and Links.md",
     "Nexus/Subtitles/SRT Process Cheat Sheet.md",
+    "Nexus/Web - Internet/Top Cinema Download Script.md",
+    "Nexus/Subtitles/Subtitle Tool & Converter for FCP.md",
     "Nexus/Subtitles/Subtitles Websites.md",
     "Nexus/Subtitles/How to Merge Subtitle with Movie using FFMPEG.md",
     "Nexus/Automator/AtomicParsley Extract Artwork with Automator.md",
@@ -232,14 +236,10 @@
     "Nexus/Automator/Convert All EPS within a Folder to PNG with Automator and GhostScript.md",
     "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
     "Untitled.md",
-    "Youtube-dl/How to Download Videos from TikTok that Consist of Images and Audio/How to Download Videos from TikTok that Consist of Images and Audio.md",
-    "Nexus/AI/Whisper CLI.md",
-    "Pycharm & Odoo/How to Fix Styling Errors on localhost?.md",
     "Pycharm & Odoo/imgs/styling_error_localhost.png",
     "Pycharm & Odoo/imgs/CleanShot 2025-05-15 at 11.13.14.png",
     "Pycharm & Odoo/imgs",
     "Pycharm & Odoo/untitled folder",
-    "Graphic Design/Final Cut Pro/13 - How to Export a Video with Alpha Channel in FCP?.md",
     "Graphic Design/Final Cut Pro/Imgs/export_alpha.png",
     "Graphic Design/Final Cut Pro/Imgs/CleanShot 2025-05-04 at 15.23.20.png",
     "Graphic Design/Final Cut Pro/Imgs/difference_in_moving_title.gif",
