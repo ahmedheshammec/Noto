@@ -1,4 +1,4 @@
-→ Replace Parenthesis
+→ Replace Parenthesis & Brackets 
 
 ---
 
@@ -37,7 +37,7 @@ and this:
 → Replace This:
 
 ```
-..
+...
 ```
 
 → With a Space
@@ -117,3 +117,13 @@ $1
 ```
 
 → With Nothing
+
+---
+
+→ Replace This:
+
+```
+\s\s
+```
+
+→ With  a single Space. 

@@ -270,6 +270,27 @@ If you want to switch between HTTPS and SSH, you can change the remote URL using
 git remote set-url origin new_url
 ```
 
+🔄 Push the renamed branch to GitHub:
+
+```bash
+git push origin new-branch-name
+```
+
+❌ Delete the old branch from GitHub (if needed):
+
+```bash
+git push origin --delete old-branch-name
+```
+
+### How to Rename Github Branch
+
+✅ If you’re on the branch you want to rename:
+
+```bash
+git branch -m new-branch-name
+```
+
+
 
 ### :: **Some Notes** ::
 * you cannot push a single file using git without cloning the entire repo first to your local machine. 
