@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nexus/Subtitles/SRT Process Cheat Sheet.md",
+                "file": "Nexus/Automator/VIP Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SRT Process Cheat Sheet"
+              "title": "VIP Notes"
             }
           },
           {
@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nexus/Subtitles/Subtitles Websites.md",
+                "file": "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Subtitles Websites"
+              "title": "Terminal basics and Commands"
+            }
+          },
+          {
+            "id": "38295a6da8d42c07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pycharm & Odoo/Pycharm Odoo Projects Workflow with Symbolic Links/Pycharm Odoo Projects Workflow with Symbolic Links.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pycharm Odoo Projects Workflow with Symbolic Links"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -193,35 +207,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67c7b096e19b3b40",
+  "active": "38295a6da8d42c07",
   "lastOpenFiles": [
-    "Nexus/Subtitles/Subtitles Websites.md",
+    "Nexus/Automator/VIP Notes.md",
+    "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
+    "Apple/iPad/How to Create an Alias in a-Shell.md",
+    "Apple/iPad/How to run Shell Scripts on a-shell?.md",
+    "Apple/iPad/YT-DLP on iPad.md",
+    "Nexus/AI/GEMINI API KEYS.md",
+    "Nexus/AI/Claude MCP.md",
+    "Nexus/AI/Notes and Links.md",
+    "Nexus/AI/Whisper CLI.md",
+    "Pycharm & Odoo/How to Kill Processes Using 8069 Port on Mac/How to Kill Processes Using 8069 Port on Mac.md",
+    "Nexus/Web - Internet/We Landline Internet.md",
+    "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
+    "Nexus/AI/Claude Code.md",
+    "Apple/Software/Run Multiple Instances of the Same App More On Mac OS X /Run Multiple Instances of the Same App More On Mac OS X .md",
     "Nexus/Subtitles/SRT Process Cheat Sheet.md",
     "Nexus/Web - Internet/Top Cinema Download Script.md",
+    "Nexus/Subtitles/Subtitles Websites.md",
     "Git & Github/Git & Github/Git & Github.md",
-    "Nexus/AI/GEMINI API KEYS.md",
     "Nexus/How to Mirror a Website for Offline Access Using HTTRACK.md",
     "Nexus/Habit Tracking System.md",
-    "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
     "Nexus/Automator/AtomicParsley with Automator Quick Action.md",
     "Nexus/Automator/AtomicParsley Extract Artwork with Automator.md",
-    "Nexus/AI/Claude MCP.md",
-    "Nexus/AI/Whisper CLI.md",
-    "Nexus/AI/Notes and Links.md",
     "Nexus/Subtitles/Subtitle Tool & Converter for FCP.md",
     "Nexus/Subtitles/How to Merge Subtitle with Movie using FFMPEG.md",
     "Chat GPT/How to Merge Subtitle with Movie using FFMPEG/How to Merge Subtitle with Movie using FFMPEG.md",
     "Nexus/Subtitles",
     "Git & Github/How to Create a New Repo from Terminal using Github CLI/How to Create a New Repo from Terminal using Github CLI.md",
-    "VS-Code/How to Set Autosave in vs Code so It Saves Changes Instantly/How to Set Autosave in vs Code so It Saves Changes Instantly.md",
-    "Terminal/How to Sync Two Folders with Rsync Command/How to Sync Two Folders with Rsync Command.md",
-    "Nexus/Automator/Convert File to MP4 Using Quick Action and Automator.md",
-    "Python/How to Fix Externally-Managed-Environment Error.md",
-    "Nexus/Automator/VIP Notes.md",
-    "Pycharm & Odoo/Odoo 15 Setup & Error Fixes/Odoo 15 Setup & Error Fixes.md",
-    "Python/Cheat Sheet/Cheat Sheet.md",
-    "Chat GPT/Apple Music Album Art Location and How to Merge with m4a Files_ /Apple Music Album Art Location and How to Merge with m4a Files? .md",
-    "Nexus/Automator/Convert Entire Folder to MP4 using Automator Quick Actions and ffmpeg.md",
     "Pycharm & Odoo/imgs/styling_error_localhost.png",
     "Pycharm & Odoo/imgs/CleanShot 2025-05-15 at 11.13.14.png",
     "Pycharm & Odoo/imgs",
