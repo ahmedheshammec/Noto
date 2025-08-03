@@ -101,12 +101,29 @@ pip install -e .
 
 Which Installs the current project in editable mode
 
-→ You may need to install the following: 
+→ Next run this one liner command to get the remaining (not installed libraries) in a new txt files: 
 
+```bash
+grep -vE '^\s*#|^\s*$' requirements.txt | while read req; do pkg=$(echo "$req" | cut -d'=' -f1 | cut -d'<' -f1 | cut -d'>' -f1); pip show "$pkg" >/dev/null || echo "$req"; done > remaining_requirements.txt
 ```
-pip install "lxml[html_clean]"
+
+→ Next run: 
+
+```bash
+pip install -r remaining_requirements.txt
+```
+
+Next Run this: 
+
+```bash
 pip install lxml_html_clean
-pip install gevent psycopg2-binary pillow reportlab python-ldap num2words xlwt
+pip install "werkzeug<2.1"
+```
+
+→ Now try to launch odoo instance: 
+
+```bash
+./odoo-bin -c odoo.conf -i base
 ```
 
 ❖ Next Add the Following Lines in the Config Under the Debian Directory: 
