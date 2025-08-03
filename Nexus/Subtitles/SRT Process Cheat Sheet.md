@@ -49,7 +49,7 @@ and this:
 → Replace This:
 
 ```
-\{.+\}
+\{(?!\\an\d\})[^}]+\}
 ```
 
 With Nothing
@@ -127,3 +127,10 @@ $1
 ```
 
 → With  a single Space. 
+
+---
+→ Check Engish - Arabic Lines By Matching Only English Words
+
+```
+\b[a-zA-Z]+\b
+```

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nexus/Automator/VIP Notes.md",
+                "file": "Graphic Design/Design Sizes/Facebook Cover Size/Facebook Cover Size.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VIP Notes"
+              "title": "Facebook Cover Size"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pycharm & Odoo/Pycharm Odoo Projects Workflow with Symbolic Links/Pycharm Odoo Projects Workflow with Symbolic Links.md",
+                "file": "Nexus/Subtitles/SRT Process Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pycharm Odoo Projects Workflow with Symbolic Links"
+              "title": "SRT Process Cheat Sheet"
             }
           }
         ],
@@ -209,12 +209,15 @@
   },
   "active": "38295a6da8d42c07",
   "lastOpenFiles": [
+    "Graphic Design/Design Sizes/Facebook Cover Size/Facebook Cover Size.md",
+    "Nexus/AI/GEMINI API KEYS.md",
     "Nexus/Automator/VIP Notes.md",
     "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
+    "Nexus/Subtitles/SRT Process Cheat Sheet.md",
+    "Pycharm & Odoo/Pycharm Odoo Projects Workflow with Symbolic Links/Pycharm Odoo Projects Workflow with Symbolic Links.md",
     "Apple/iPad/How to Create an Alias in a-Shell.md",
     "Apple/iPad/How to run Shell Scripts on a-shell?.md",
     "Apple/iPad/YT-DLP on iPad.md",
-    "Nexus/AI/GEMINI API KEYS.md",
     "Nexus/AI/Claude MCP.md",
     "Nexus/AI/Notes and Links.md",
     "Nexus/AI/Whisper CLI.md",
@@ -223,7 +226,6 @@
     "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
     "Nexus/AI/Claude Code.md",
     "Apple/Software/Run Multiple Instances of the Same App More On Mac OS X /Run Multiple Instances of the Same App More On Mac OS X .md",
-    "Nexus/Subtitles/SRT Process Cheat Sheet.md",
     "Nexus/Web - Internet/Top Cinema Download Script.md",
     "Nexus/Subtitles/Subtitles Websites.md",
     "Git & Github/Git & Github/Git & Github.md",
@@ -233,9 +235,7 @@
     "Nexus/Automator/AtomicParsley Extract Artwork with Automator.md",
     "Nexus/Subtitles/Subtitle Tool & Converter for FCP.md",
     "Nexus/Subtitles/How to Merge Subtitle with Movie using FFMPEG.md",
-    "Chat GPT/How to Merge Subtitle with Movie using FFMPEG/How to Merge Subtitle with Movie using FFMPEG.md",
     "Nexus/Subtitles",
-    "Git & Github/How to Create a New Repo from Terminal using Github CLI/How to Create a New Repo from Terminal using Github CLI.md",
     "Pycharm & Odoo/imgs/styling_error_localhost.png",
     "Pycharm & Odoo/imgs/CleanShot 2025-05-15 at 11.13.14.png",
     "Pycharm & Odoo/imgs",
