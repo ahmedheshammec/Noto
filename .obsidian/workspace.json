@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphic Design/Design Sizes/Facebook Cover Size/Facebook Cover Size.md",
+                "file": "Youtube-dl/Tiktok to YT-DLP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Facebook Cover Size"
+              "title": "Tiktok to YT-DLP"
             }
           },
           {
@@ -48,23 +48,9 @@
               "icon": "lucide-file",
               "title": "Terminal basics and Commands"
             }
-          },
-          {
-            "id": "38295a6da8d42c07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pycharm & Odoo/Odoo 15 Setup & Error Fixes/Odoo 15 Setup & Error Fixes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Odoo 15 Setup & Error Fixes"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,34 +193,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38295a6da8d42c07",
+  "active": "b44ea1772496a809",
   "lastOpenFiles": [
     "Nexus/Subtitles/SRT Process Cheat Sheet.md",
-    "Graphic Design/Design Sizes/Facebook Cover Size/Facebook Cover Size.md",
-    "Nexus/AI/GEMINI API KEYS.md",
     "Nexus/Automator/VIP Notes.md",
+    "Youtube-dl/Tiktok to YT-DLP.md",
+    "Graphic Design/Design Sizes/Facebook Cover Size/Facebook Cover Size.md",
+    "Nexus/Web - Internet/Top Cinema Download Script.md",
+    "Youtube-dl/How to Download Videos from TikTok that Consist of Images and Audio/How to Download Videos from TikTok that Consist of Images and Audio.md",
+    "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
+    "Youtube-dl/[TikTok] Failed to parse JSON - Can't download videos without watermark/[TikTok] Failed to parse JSON - Can't download videos without watermark.md",
+    "FFMPEG Guide/FFMPEG Commands/FFMPEG Commands.md",
+    "Nexus/AI/GEMINI API KEYS.md",
+    "Nexus/AI/Claude Code.md",
     "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
+    "Pycharm & Odoo/Odoo 15 Setup & Error Fixes/Odoo 15 Setup & Error Fixes.md",
+    "Terminal/ Homebrew and Casks Guide /** Homebrew and Casks Guide .md",
+    "Homebrew/Awesome Homebrew Stuff/Awesome Homebrew Stuff.md",
+    "Linux/How to remove the lock on folders and files when created via root user/How to Remove the Lock on Folders and Files when Created via Root User - How to Take Ownership over a Directory in MacOs.md",
+    "Apple/Software/Airbuddy 2 License/Airbuddy 2 License.md",
+    "Pycharm & Odoo/VIP Shortcuts/VIP Shortcuts.md",
+    "Nexus/Subtitles/SRT Positioning Tags.md",
+    "Nexus/Subtitles/Subtitles Websites.md",
     "Pycharm & Odoo/Pycharm Odoo Projects Workflow with Symbolic Links/Pycharm Odoo Projects Workflow with Symbolic Links.md",
     "Apple/iPad/How to Create an Alias in a-Shell.md",
     "Apple/iPad/How to run Shell Scripts on a-shell?.md",
     "Apple/iPad/YT-DLP on iPad.md",
     "Nexus/AI/Claude MCP.md",
     "Nexus/AI/Notes and Links.md",
-    "Nexus/AI/Whisper CLI.md",
-    "Pycharm & Odoo/How to Kill Processes Using 8069 Port on Mac/How to Kill Processes Using 8069 Port on Mac.md",
-    "Nexus/Web - Internet/We Landline Internet.md",
-    "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
-    "Nexus/AI/Claude Code.md",
-    "Apple/Software/Run Multiple Instances of the Same App More On Mac OS X /Run Multiple Instances of the Same App More On Mac OS X .md",
-    "Nexus/Web - Internet/Top Cinema Download Script.md",
-    "Nexus/Subtitles/Subtitles Websites.md",
-    "Git & Github/Git & Github/Git & Github.md",
-    "Nexus/How to Mirror a Website for Offline Access Using HTTRACK.md",
-    "Nexus/Habit Tracking System.md",
-    "Nexus/Automator/AtomicParsley with Automator Quick Action.md",
-    "Nexus/Automator/AtomicParsley Extract Artwork with Automator.md",
-    "Nexus/Subtitles/Subtitle Tool & Converter for FCP.md",
-    "Nexus/Subtitles/How to Merge Subtitle with Movie using FFMPEG.md",
     "Nexus/Subtitles",
     "Pycharm & Odoo/imgs/styling_error_localhost.png",
     "Pycharm & Odoo/imgs/CleanShot 2025-05-15 at 11.13.14.png",

@@ -95,6 +95,26 @@ to open files  (like the txt file we just create it) using terminal type: 
 open "your text file name".txt
 ```
 
+**Create Multiple Directories from a txt File**
+
+→ let's say you want to copy a lot of directories so you can paste them elsewhere, first use: 
+
+```bash
+ls | pbcopy
+```
+
+→ Next to paste them in the new directory as txt file run this: 
+
+```bash
+pbpaste > dirs.txt
+```
+
+→ Now to create the folders in the text file run the following command: 
+
+```bash
+cat dirs.txt | xargs -I {} mkdir -p "{}"
+```
+
 **Move, Copy, Paste, Rename, Delete a file**
 copy 
 ```bash

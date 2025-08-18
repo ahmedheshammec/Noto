@@ -18,8 +18,15 @@ to update Homebrew itself by fetching the latest version and updating its packag
 ```plaintext
 brew update
 ```
+
+**To Show the installation path of a formula type:** 
+```
+brew --prefix <formula>
+```
+
 website to download: 
-[https://brew.sh](https://brew.sh)￼
+[https://brew.sh](https://brew.sh)
+￼
 
 
 
