@@ -1,3 +1,25 @@
+
+**How to Install** 
+
+```
+brew install gemini-cli
+```
+
+**How to Know the Latest Realease of Gemini on Homebrew and Your Installed Version?**
+
+```bash
+brew info --json=v2 gemini-cli | jq -r '.formulae[0].versions.stable'
+gemini --version
+```
+
+**How to Upgradde**
+
+```
+brew upgrade gemini-cli
+```
+
+**API KEYS**
+
 ```
 AIzaSyBbttyPZggV_VFOkpze_W5RPP2IqteFkNo
 ```

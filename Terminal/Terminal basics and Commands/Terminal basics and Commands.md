@@ -122,6 +122,24 @@ cp -r
 ```
 the -r refers to recursively (the directory with inside folders)
 
+**How to Use rsync as replacement for cp and get a Percentage?**
+
+```bash
+rsync -ah --info=progress2 /directory /destination
+```
+
+→ you can also use alias like this in the zshrc file:
+
+```bash
+alias cpcp="rsync -ah --info=progress2"
+```
+
+→ now you can use the command like this: 
+
+```bash
+cpcp /directory /destination
+```
+
 move
 ```bash
 mv
