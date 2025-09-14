@@ -1,4 +1,4 @@
-**to install Homebrew open the terminal and type: 
+To install Homebrew open the terminal and type: 
 
 ```
 xcode-select —install￼
