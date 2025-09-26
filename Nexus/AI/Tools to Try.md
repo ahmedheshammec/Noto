@@ -1,0 +1,4 @@
+- Opencode CLI
+- Cline
+- Kilo Code
+- Zed
