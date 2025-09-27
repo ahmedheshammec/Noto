@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nexus/NPM & NVM.md",
+                "file": "Git & Github/How to Manage Multiple Github Accounts on the Same Machine & CLI?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NPM & NVM"
+              "title": "How to Manage Multiple Github Accounts on the Same Machine & CLI?"
             }
           },
           {
@@ -84,7 +84,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -210,10 +210,15 @@
   },
   "active": "b44ea1772496a809",
   "lastOpenFiles": [
+    "Git & Github/How to Create a New Repo from Terminal using Github CLI/How to Create a New Repo from Terminal using Github CLI.md",
+    "Git & Github/How to Manage Multiple Github Accounts on the Same Machine & CLI?.md",
+    "Git & Github/Git & Github/Git & Github.md",
+    "Git & Github/How to Convert Any Webpage to an Application Using Nativefier (Cross Platform).md",
+    "Git & Github/how to fix error `fatal_ fetch-pack_ invalid index-pack output` /how to fix error `fatal: fetch-pack: invalid index-pack output` .md",
+    "Nexus/NPM & NVM.md",
     "Nexus/AI/Tools to Try.md",
     "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
     "Pycharm & Odoo/How to Kill Processes Using 8069 Port on Mac/How to Kill Processes Using Port Number or Program Name.md",
-    "Nexus/NPM & NVM.md",
     "Nexus/AI/Claude Code.md",
     "Nexus/TMUX/TMUX Beginner Guide.md",
     "Terminal/How to Sync Two Folders with Rsync Command/How to Sync Two Folders with Rsync Command.md",
@@ -231,11 +236,6 @@
     "FFMPEG Guide/FFMPEG Commands/FFMPEG Commands.md",
     "Pycharm & Odoo/Odoo 15 Setup & Error Fixes/Odoo 15 Setup & Error Fixes.md",
     "Homebrew/Awesome Homebrew Stuff/Awesome Homebrew Stuff.md",
-    "Linux/How to remove the lock on folders and files when created via root user/How to Remove the Lock on Folders and Files when Created via Root User - How to Take Ownership over a Directory in MacOs.md",
-    "Apple/Software/Airbuddy 2 License/Airbuddy 2 License.md",
-    "Pycharm & Odoo/VIP Shortcuts/VIP Shortcuts.md",
-    "Nexus/Subtitles/SRT Positioning Tags.md",
-    "Nexus/Subtitles/Subtitles Websites.md",
     "Nexus/Subtitles",
     "Pycharm & Odoo/imgs/styling_error_localhost.png",
     "Pycharm & Odoo/imgs/CleanShot 2025-05-15 at 11.13.14.png",
