@@ -1,5 +1,35 @@
 → When you install a Node.js version via nvm install `<version>`, it also installs the matching npm version that comes bundled with that Node release.
 
+→ You can install NVM using either **curl** or **wget**.
+```bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash
+```
+
+OR using wget:
+```bash
+wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash
+```
+
+→ After installation, **you must reload your shell** so that nvm becomes available.
+```bash
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"
+```
+
+→ if you're on homebrew you must change the NVM_DIR to homebrew's path: 
+```bash
+# configuring nvm
+export NVM_DIR="$HOME/.nvm"
+[ -s "/opt/homebrew/opt/nvm/nvm.sh" ] && \. "/opt/homebrew/opt/nvm/nvm.sh"  # This loads nvm
+[ -s "/opt/homebrew/opt/nvm/etc/bash_completion" ] && \. "/opt/homebrew/opt/nvm/etc/bash_completion"  # This loads nvm bash_completion
+```
+
+→ Verify installation
+```bash
+nvm --version
+```
+
 → To check the versions you have run those commands: 
 
 ```bash

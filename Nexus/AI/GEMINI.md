@@ -28,6 +28,11 @@ AIzaSyBbttyPZggV_VFOkpze_W5RPP2IqteFkNo
 AIzaSyBKo4gCN6NkNnu3cmzrv-MAdpMSjdeKkPg
 ```
 
+→ Nanao Banana
+```
+AIzaSyBh2bkmifRGeUlw9tzbt8WgXIHglvMoMyo
+```
+
 Simple Curl Test
 
 ```bash
