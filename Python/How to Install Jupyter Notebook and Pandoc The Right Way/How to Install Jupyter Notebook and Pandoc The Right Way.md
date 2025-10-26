@@ -17,7 +17,7 @@ pip install pandoc
 
 * and let's install `jupyter`
 
-```plaintext
+```
 pip install jupyter
 ```
 
@@ -45,12 +45,12 @@ sudo tlmgr update --self
 ![image](D3166EFD-A108-45C2-9FFB-BBF7B6E7DFEA.jpg)￼
 * now for the pdf we will use the `webpdf` option but before that we need to install chromium, so will install it using `playwright` command 
 
-```plaintext
+```
 pip install playwright
 ```
 
 
-```plaintext
+```
 playwright install chromium
 ```
 
