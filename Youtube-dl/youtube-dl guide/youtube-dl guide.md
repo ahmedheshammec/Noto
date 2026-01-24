@@ -17,6 +17,12 @@ to download a specific resolution type: 
 yt-dlp -f "best[height=480]” 'your_youtube_link'
 ```
 
+to download only the thumbnail type: 
+
+```shell
+yt-dlp --skip-download --write-thumbnail --no-playlist "<YOUTUBE_URL>"
+```
+
 to download a playlist type: 
 
 ```bash

@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f12711e9e270b40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nexus/AI/Qwen Code.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Qwen Code"
-            }
-          },
-          {
             "id": "0eefcd5443fe6036",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPM Global Package Nuclear Fix Guide.md",
+                "file": "Apple/MacOS/How Change Brave Icon with ZSH Fucntion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NPM Global Package Nuclear Fix Guide"
+              "title": "How Change Brave Icon with ZSH Fucntion"
             }
           },
           {
@@ -41,12 +27,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git & Github/How to Create a New Repo from Terminal using Github CLI/How to Create a New Repo from Terminal using Github CLI.md",
+                "file": "Linux/Nano/Nano.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to Create a New Repo from Terminal using Github CLI"
+              "title": "Nano"
+            }
+          },
+          {
+            "id": "dcd32a8cd65a9b15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git & Github/How to use Git Ignore.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to use Git Ignore"
+            }
+          },
+          {
+            "id": "b33dfab71455ac0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Youtube-dl/Tiktok to YT-DLP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tiktok to YT-DLP"
             }
           }
         ]
@@ -106,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 214.5
   },
   "right": {
     "id": "44c572dcd721498c",
@@ -193,34 +207,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f12711e9e270b40",
+  "active": "0eefcd5443fe6036",
   "lastOpenFiles": [
-    "Pycharm & Odoo/Pycharm Odoo Projects Workflow with Symbolic Links/Pycharm Odoo Projects Workflow with Symbolic Links.md",
-    "Nexus/Web - Internet/Top Cinema Download Script.md",
-    "Nexus/AI/GEMINI.md",
-    "Python/How to Install Jupyter Notebook and Pandoc The Right Way/How to Install Jupyter Notebook and Pandoc The Right Way.md",
-    "Apple/iPad/How to Create an Alias in a-Shell.md",
-    "Nexus/AI/Qwen Code.md",
-    "NPM Global Package Nuclear Fix Guide.md",
-    "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
-    "Apple/iPad/How to use a-shell with grep and Ulysses App to search and view notes and markdown files?.md",
-    "Nexus/NPM & NVM.md",
-    "Nexus/AI/Claude Code.md",
-    "Git & Github/How to Create a New Repo from Terminal using Github CLI/How to Create a New Repo from Terminal using Github CLI.md",
-    "Git & Github/How to Manage Multiple Github Accounts on the Same Machine & CLI?.md",
-    "Terminal/grep and pdfgrep/grep and pdfgrep.md",
-    "Python/How to Fix Externally-Managed-Environment Error.md",
-    "Git & Github/Git & Github/Git & Github.md",
-    "Git & Github/How to Convert Any Webpage to an Application Using Nativefier (Cross Platform).md",
-    "Git & Github/how to fix error `fatal_ fetch-pack_ invalid index-pack output` /how to fix error `fatal: fetch-pack: invalid index-pack output` .md",
-    "Nexus/AI/Tools to Try.md",
-    "Pycharm & Odoo/How to Kill Processes Using 8069 Port on Mac/How to Kill Processes Using Port Number or Program Name.md",
-    "Nexus/TMUX/TMUX Beginner Guide.md",
-    "Terminal/How to Sync Two Folders with Rsync Command/How to Sync Two Folders with Rsync Command.md",
-    "Terminal/ Homebrew and Casks Guide /Homebrew and Casks Guide.md",
-    "Youtube-dl/Tiktok to YT-DLP.md",
+    "MS-Word/Bookmark in MS-Word/Bookmark in MS-Word.md",
+    "Apple/MacOS/How Change Brave Icon with ZSH Fucntion.md",
+    "MS-Word/ازاي أخلي صفحة واحدة تكون Landscape من غير ما باقي الصفح تتأثر/ازاي أخلي صفحة واحدة تكون Landscape من غير ما باقي الصفح تتأثر.md",
+    "Pycharm & Odoo/Python Versions for All Odoo Versions.md",
     "Nexus/Subtitles/SRT Process Cheat Sheet.md",
+    "Nexus/Web - Internet/Top Cinema Download Script.md",
+    "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
     "Nexus/Automator/VIP Notes.md",
+    "Graphic Design/Final Cut Pro/04-Keyboard Shortcuts/04-Keyboard Shortcuts.md",
+    "Graphic Design/Final Cut Pro/12- Titles in Final Cut Pro.md",
+    "Youtube-dl/youtube-dl guide/youtube-dl guide.md",
+    "Nexus/Automator/Customize Workflow Icons?.md",
+    "Nexus/Automator/PNG to ICNS with Automator and SIPS.md",
+    "Nexus/Automator/Remove Suffix with Options Quick Action.md",
+    "Nexus/AI/Qwen Code.md",
+    "Nexus/AI/Claude Code.md",
+    "Youtube-dl/Tiktok to YT-DLP.md",
+    "Nexus/Curl/htmlResponse.png",
+    "Nexus/Curl/How to Download Facebook Videos with Curl?.md",
+    "Nexus/Curl/CloudScraper on iPhone vs Mac.md",
+    "Git & Github/How to use Git Ignore.md",
+    "Linux/Nano/Nano.md",
+    "Tesseract OCR/Tesseract OCR/Tesseract OCR.md",
+    "Python/How to Fix Externally-Managed-Environment Error.md",
+    "Pycharm & Odoo/How to Fix clang++ Errors when trying to Install pip packages like PyKCS11.md",
+    "Pycharm & Odoo/Odoo 15 Setup & Error Fixes/Odoo 15 Setup & Error Fixes.md",
+    "Apple/MacOS/How to Erase or Format External Drive via Terminal/How to Erase or Format External Drive via Terminal.md",
+    "italk.zip",
     "Nexus/Subtitles",
     "Pycharm & Odoo/imgs/styling_error_localhost.png",
     "Pycharm & Odoo/imgs/CleanShot 2025-05-15 at 11.13.14.png",
@@ -233,13 +249,11 @@
     "Graphic Design/Final Cut Pro/Imgs/CleanShot 2025-05-03 at 00.29.19.png",
     "Graphic Design/Final Cut Pro/Imgs/default_title.png",
     "Graphic Design/Final Cut Pro/Imgs/CleanShot 2025-05-03 at 00.25.27.png",
-    "Graphic Design/Final Cut Pro/Imgs/setting_keyboard_shortcut_for_default_title.png",
     "Nexus/wget",
     "Graphic Design/Final Cut Pro/Imgs",
     "Graphic Design/Final Cut Pro/untitled folder",
     "Nexus/Curl",
     "Nexus/Automator",
-    "Graphic Design/Indesign/How to create round Corners in Indesign",
-    "Graphic Design/Fonts"
+    "Graphic Design/Indesign/How to create round Corners in Indesign"
   ]
 }

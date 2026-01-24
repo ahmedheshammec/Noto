@@ -1218,3 +1218,16 @@ xdg-open .
 ```
 
 These commands will launch the default file manager and display the current directory.
+
+---
+### How to View All the Git Log, Print it in Terminal and Copy it to the Clipboard?
+
+```bash
+git log --all | tee /dev/tty | pbcopy
+```
+
+or if you want to limit to the last 5 commits only type:
+
+```bash
+git log -5 --all | tee /dev/tty | pbcopy
+```

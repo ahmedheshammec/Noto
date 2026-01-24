@@ -134,3 +134,12 @@ $1
 ```
 \b[a-zA-Z]+\b
 ```
+
+---
+→ Check English - Arabic Lines in the Same line: 
+
+```
+^(?=.*[\u0600-\u06FF])(?=.*[A-Za-z]).*$
+```
+
+---

@@ -31,3 +31,6 @@ and adjust the json file as follows:
   ]
 }
 ```
+
+→ Refer to this link for more: 
+https://www.zdoc.app/en/QwenLM/qwen-code/blob/main/docs/cli/configuration.md
