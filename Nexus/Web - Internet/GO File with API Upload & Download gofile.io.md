@@ -28,3 +28,5 @@ gallery-dl -d . -o directory="" "https://gofile.io/d/NcGN7i"
 ```
 
 → This will downlod all files from the sharable link to the current directory
+
+→ For Documentation: https://github.com/mikf/gallery-dl
