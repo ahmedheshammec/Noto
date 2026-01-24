@@ -141,3 +141,39 @@ A pane is a basic element of a tmux window within a session. Managing many panes
 | **`CTRL+b`** then **`!`**       | Convert the current pane into a window.   |
 | **`exit`** or  <br>**`CTRL+d`** | Close the selected pane.                  |
 | **`CTRL+b`** then **`q`**       | Display pane number.                      |
+
+
+---
+### How to Copy the Current Command with a single keyboard shortcut?
+
+→ Install this: 
+
+```bash
+brew install reattach-to-user-namespace
+```
+
+then add this to the `~/.tmux.conf`
+
+```
+set-option -g default-command "reattach-to-user-namespace -l zsh"
+```
+
+Add this to your `.zshrc` file: 
+
+```bash
+# tmux
+function copy_buffer_to_clipboard() {
+  print -rn -- "$BUFFER" | pbcopy
+}
+
+zle -N copy_buffer_to_clipboard
+bindkey '^y' copy_buffer_to_clipboard
+```
+
+→ now when you type something like: 
+
+```bash
+echo "Hello World"
+```
+
+and press `ctrl ⌃ + y` it will copy it to the MacOS Clipboard 
