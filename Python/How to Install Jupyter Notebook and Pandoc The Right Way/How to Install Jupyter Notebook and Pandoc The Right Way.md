@@ -11,7 +11,7 @@ python -V
 `externally managed environment`
 * Now let's install pandoc
 
-```plaintext
+```
 pip install pandoc
 ```
 
@@ -23,20 +23,20 @@ pip install jupyter
 
 * now cd into the location of your `jupyter` notebooks and type: 
 
-```plaintext
+```
 jupyter notebook
 ```
 
 This will start the Jupyter Notebook server, and a new browser window or tab will open with the Jupyter Notebook interface.
 * now run this command: 
 
-```plaintext
+```
 sudo tlmgr install lmodern
 ```
 
 * and this command
 
-```plaintext
+```
 sudo tlmgr update --self
 ```
 

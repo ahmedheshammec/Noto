@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nexus/Web - Internet/GO File with API Upload & Download gofile.io.md",
+                "file": "Apple/MacOS/Unminimize App Windows Script.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GO File with API Upload & Download gofile.io"
+              "title": "Unminimize App Windows Script"
             }
           },
           {
@@ -120,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.5
+    "width": 225.5
   },
   "right": {
     "id": "44c572dcd721498c",
@@ -209,15 +209,17 @@
   },
   "active": "0eefcd5443fe6036",
   "lastOpenFiles": [
-    "Nexus/TMUX/TMUX Beginner Guide.md",
+    "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
+    "Apple/MacOS/Unminimize App Windows Script.md",
+    "Python/How to Install Jupyter Notebook and Pandoc The Right Way/How to Install Jupyter Notebook and Pandoc The Right Way.md",
     "Nexus/Web - Internet/GO File with API Upload & Download gofile.io.md",
+    "Nexus/TMUX/TMUX Beginner Guide.md",
     "Apple/MacOS/How Change Brave Icon with ZSH Fucntion.md",
     "MS-Word/Bookmark in MS-Word/Bookmark in MS-Word.md",
     "MS-Word/ازاي أخلي صفحة واحدة تكون Landscape من غير ما باقي الصفح تتأثر/ازاي أخلي صفحة واحدة تكون Landscape من غير ما باقي الصفح تتأثر.md",
     "Pycharm & Odoo/Python Versions for All Odoo Versions.md",
     "Nexus/Subtitles/SRT Process Cheat Sheet.md",
     "Nexus/Web - Internet/Top Cinema Download Script.md",
-    "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
     "Nexus/Automator/VIP Notes.md",
     "Graphic Design/Final Cut Pro/04-Keyboard Shortcuts/04-Keyboard Shortcuts.md",
     "Graphic Design/Final Cut Pro/12- Titles in Final Cut Pro.md",
@@ -234,8 +236,6 @@
     "Git & Github/How to use Git Ignore.md",
     "Linux/Nano/Nano.md",
     "Tesseract OCR/Tesseract OCR/Tesseract OCR.md",
-    "Python/How to Fix Externally-Managed-Environment Error.md",
-    "Pycharm & Odoo/How to Fix clang++ Errors when trying to Install pip packages like PyKCS11.md",
     "italk.zip",
     "Nexus/Subtitles",
     "Pycharm & Odoo/imgs/styling_error_localhost.png",

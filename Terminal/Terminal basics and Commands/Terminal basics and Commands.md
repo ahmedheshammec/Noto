@@ -1231,3 +1231,11 @@ or if you want to limit to the last 5 commits only type:
 ```bash
 git log -5 --all | tee /dev/tty | pbcopy
 ```
+
+### How to Run a Command and Capture the Output in a Log File?
+
+→ use the following after the command: 
+
+```
+2>&1 | tee output.log
+```
