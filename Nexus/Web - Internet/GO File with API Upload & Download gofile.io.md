@@ -21,10 +21,19 @@ PS: you can get the file id from the website when you click the three dots and c
 brew install gallery-dl
 ```
 
+→ or using `pip` 
+
+```bash
+pip install gallery-dl
+```
+
 Now let's download from the Download page we got from the JSON response: 
 
 ```bash
 gallery-dl -d . -o directory="" "https://gofile.io/d/NcGN7i"
+
+# if you're using pip:
+python -m gallery_dl -d . -o directory="" "https://gofile.io/d/NcGN7i"
 ```
 
 → This will downlod all files from the sharable link to the current directory
