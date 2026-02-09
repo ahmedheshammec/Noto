@@ -36,3 +36,32 @@ or
 /model claude-opus-4-20250514  
 /model claude-3-5-haiku-20241022
 ```
+
+### How to Run Two Accounts on the Same Machine?
+
+→ You can do this on separate terminals or the different window on the same terminal. 
+
+→ Create separate config directories:
+
+```bash
+mkdir ~/.claude-account1
+mkdir ~/.claude-account2
+```
+
+
+→ Add aliases to your shell config file:
+
+```bash
+nano ~/.zshrc
+alias claude-account1="CLAUDE_CONFIG_DIR=~/.claude-account1 claude"
+alias claude-account2="CLAUDE_CONFIG_DIR=~/.claude-account2 claude"
+```
+
+→ Save and reload:
+
+```bash
+source ~/.zshrc
+```
+
+→ Now you can simply run `claude-account1` or `claude-account2` and authenticate with each account. 
+

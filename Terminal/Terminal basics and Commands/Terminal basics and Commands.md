@@ -755,6 +755,12 @@ plugins=(
 )
 ```
 
+→ or like this: 
+
+```bash
+plugins=(git zsh-autopair)
+```
+
 ❖ Restart Your Terminal And You're Good To Go. 
 
 ### :: **Cat Command** ::
