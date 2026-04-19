@@ -19,3 +19,5 @@ Line 1
 Line 2
 # To Exit Press CTRL ⌃ + D 
 ```
+
+→ If you want to add something after a specific line use `vim` instead. 

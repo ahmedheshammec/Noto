@@ -1,0 +1,2 @@
+1. Go settings -> Messages -> check the numbers/emails are fine. I had an old esim trying to be used, hence the repeated notifications. I clicked on it, removed it, and now constant notifications have stopped!
+2. Same for FaceTime: Go settings -> FaceTime -> check the numbers/emails are fine (I had an old esim trying to be used; I removed it)

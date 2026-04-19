@@ -25,6 +25,51 @@ echo -e "# Title\n\nThis is a description under the title." >> README.md
 git init
 ```
 
+
+❖ Adding `.gitignore`
+
+```bash
+code .gitignore
+```
+
+→ Add this: 
+
+```
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.env/
+Virtualenv/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Unit test / coverage reports
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Local environment variables (Security!)
+.env
+```
+
+→ If you’ve already accidentally committed a file that should have been ignored, simply adding it to `.gitignore` won't remove it from Git's history. You'll need to "untrack" it manually using:  
+
+```bash
+git rm --cached <file_name>
+```
+
 ❖ **Add and Commit Files**: Add and commit the files in your directory to the Git repository:
 
 ```bash
@@ -54,6 +99,7 @@ git branch -M main
 
 ```bash
 git remote add origin https://github.com/your_repo_link_without_git
+# Example: git remote add origin https://github.com/ahmedheshammec/IOSDev
 ```
 
 ❖ Before Pushing The Changes We Want to Set the Remote Url to SSH

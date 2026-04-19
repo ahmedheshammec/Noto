@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nexus/AI/Claude Code.md",
+                "file": "Git & Github/How to Create a New Repo from Terminal using Github CLI/How to Create a New Repo from Terminal using Github CLI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Claude Code"
+              "title": "How to Create a New Repo from Terminal using Github CLI"
             }
           },
           {
@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nexus/Automator/VIP Notes.md",
+                "file": "Git & Github/How to use Git Ignore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VIP Notes"
+              "title": "How to use Git Ignore"
+            }
+          },
+          {
+            "id": "968ebd4ecfd9c744",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apple/IPhone/How to Get Rid Of \"Turn on iCloud\" Message?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to Get Rid Of \"Turn on iCloud\" Message?"
             }
           },
           {
@@ -41,16 +55,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nexus/A-Shell/Tips & Tricks.md",
+                "file": "Chat GPT/How to convert PDF to PNG Files using GhostScript_ /How to convert PDF to PNG Files using GhostScript? .md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tips & Tricks"
+              "title": "How to convert PDF to PNG Files using GhostScript?"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,35 +207,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff3d0c17dee926de",
+  "active": "0eefcd5443fe6036",
   "lastOpenFiles": [
-    "Nexus/A-Shell/Tips & Tricks.md",
-    "Nexus/A-Shell",
+    "Git & Github/How to use Git Ignore.md",
+    "Nexus/Automator/Customize Workflow Icons?.md",
     "Git & Github/How to Create a New Repo from Terminal using Github CLI/How to Create a New Repo from Terminal using Github CLI.md",
     "Nexus/AI/Claude Code.md",
-    "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
-    "VS-Code/How to Set Autosave in vs Code so It Saves Changes Instantly/How to Set Autosave in vs Code so It Saves Changes Instantly.md",
-    "VS-Code/How to Enable Auto Indentation in VS-Code?.md",
-    "Linux/Linux Setup.md",
+    "Apple/IPhone/How to Get Rid Of \"Turn on iCloud\" Message?.md",
+    "Apple/MacOS/ How to Stop Your Mac From Sleeping Using the Command Line /** How to Stop Your Mac From Sleeping Using the Command Line .md",
+    "Nexus/Web - Internet/Extract Cookies from Brave or Chrome using YT-DLP.md",
     "Terminal/How to Sync Two Folders with Rsync Command/How to Sync Two Folders with Rsync Command.md",
-    "Nexus/AI/How to Run Two.md",
-    "Python/How to Fix Externally-Managed-Environment Error.md",
-    "Apple/MacOS/Unminimize App Windows Script.md",
-    "Youtube-dl/Tiktok to YT-DLP.md",
-    "Git & Github/How to use Git Ignore.md",
-    "Linux/Nano/Nano.md",
-    "Python/How to Install Jupyter Notebook and Pandoc The Right Way/How to Install Jupyter Notebook and Pandoc The Right Way.md",
-    "Nexus/Web - Internet/GO File with API Upload & Download gofile.io.md",
-    "Nexus/TMUX/TMUX Beginner Guide.md",
-    "Apple/MacOS/How Change Brave Icon with ZSH Fucntion.md",
-    "MS-Word/Bookmark in MS-Word/Bookmark in MS-Word.md",
-    "MS-Word/ازاي أخلي صفحة واحدة تكون Landscape من غير ما باقي الصفح تتأثر/ازاي أخلي صفحة واحدة تكون Landscape من غير ما باقي الصفح تتأثر.md",
-    "Pycharm & Odoo/Python Versions for All Odoo Versions.md",
-    "Nexus/Subtitles/SRT Process Cheat Sheet.md",
-    "Nexus/Web - Internet/Top Cinema Download Script.md",
+    "Apple/Software/Run Multiple Instances of the Same App More On Mac OS X /Run Multiple Instances of the Same App More On Mac OS X .md",
     "Nexus/Automator/VIP Notes.md",
-    "Graphic Design/Final Cut Pro/04-Keyboard Shortcuts/04-Keyboard Shortcuts.md",
-    "Graphic Design/Final Cut Pro/12- Titles in Final Cut Pro.md",
+    "Chat GPT/How to convert PDF to PNG Files using GhostScript_ /How to convert PDF to PNG Files using GhostScript? .md",
+    "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
+    "Pycharm & Odoo/Odoo 15 Setup & Error Fixes/Odoo 15 Setup & Error Fixes.md",
+    "VS-Code/How to Set Autosave in vs Code so It Saves Changes Instantly/How to Set Autosave in vs Code so It Saves Changes Instantly.md",
+    "Nexus/Subtitles/SRT Process Cheat Sheet.md",
+    "Nexus/Subtitles/Arabic SRT Typo Cleanup Guide.md",
+    "Nexus/Subtitles/Subtitles Websites.md",
+    "Nexus/Web - Internet/How to Download iframe Videos?.md",
+    "Nexus/Web - Internet/Top Cinema Download Script.md",
+    "Apple/MacOS/ how to download files using terminal /How to download files using terminal.md",
+    "FFMPEG Guide/FFMPEG Commands/FFMPEG Commands.md",
+    "NodeJs and NVM/How to Install NVM and Manage Multiple NodeJs Versions?.md",
+    "Nexus/AI/Claude MCP.md",
+    "Apple/Typing/Enable Repeat Key on Mac/Enable Repeat Key on Mac.md",
+    "Graphic Design/Design Sizes/Facebook Cover Size/Facebook Cover Size.md",
+    "Pycharm & Odoo/Pycharm Odoo Projects Workflow with Symbolic Links/Pycharm Odoo Projects Workflow with Symbolic Links.md",
+    "Nexus/A-Shell",
     "Nexus/Curl/htmlResponse.png",
     "italk.zip",
     "Nexus/Subtitles",

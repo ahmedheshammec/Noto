@@ -121,17 +121,39 @@ add this to the middle of the code:
 ```bash
 -pix_fmt yuv420p
 ```
-### :: Combine Videos With Same Codec Together ::
-to combine videos with same codec together: 
+### :: Combine Videos Together ::
+
+We will use `cat` and `EOF` to quickly create a `files.txt` : 
 
 ```bash
-ffmpeg -i "concat:input1.ts|input2.ts|input3.ts" -c copy output.ts
+❯ cat << EOF >> files.txt
+
+heredoc> $(pbpaste)
+
+heredoc> EOF
 ```
 
-if you get an Error Message like this: 'FFMPEG (libx264) “height not divisible by 2” add this command to your code: 
+and the data in the clipboard will be this: 
 
-```bash
--vf "pad=ceil(iw/2)*2:ceil(ih/2)*2"
+```
+file 'video1.mp4'
+file 'video2.mp4'
+```
+
+next we will merge the videos using this command: 
+
+```shell
+ffmpeg -f concat -safe 0 -i files.txt -c copy output.mp4
+```
+
+Note: 🔥 If videos are slightly different Then re-encode:
+
+```shell
+ffmpeg -f concat -safe 0 -i files.txt -c:v libx264 -c:a aac output.mp4
+```
+
+
+
 ```
 
 ### :: Convert Image Sequence into a video file using ffmpeg ::
