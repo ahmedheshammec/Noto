@@ -27,6 +27,16 @@ brew install gallery-dl
 pip install gallery-dl
 ```
 
+→ or using `pipx`
+
+```bash
+apt install pipx -y
+pipx install gallery-dl
+pipx ensurepath
+source ~/.bashrc
+gallery-dl --version
+```
+
 Now let's download from the Download page we got from the JSON response: 
 
 ```bash
@@ -37,5 +47,10 @@ python -m gallery_dl -d . -o directory="" "https://gofile.io/d/NcGN7i"
 ```
 
 → This will downlod all files from the sharable link to the current directory
+
+```bash
+unzip YOUR_FILE.zip
+sudo systemctl restart odoo
+```
 
 → For Documentation: https://github.com/mikf/gallery-dl

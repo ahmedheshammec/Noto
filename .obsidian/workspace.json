@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git & Github/How to Create a New Repo from Terminal using Github CLI/How to Create a New Repo from Terminal using Github CLI.md",
+                "file": "Nexus/Web - Internet/GO File with API Upload & Download gofile.io.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to Create a New Repo from Terminal using Github CLI"
+              "title": "GO File with API Upload & Download gofile.io"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git & Github/How to use Git Ignore.md",
+                "file": "Python/How to Fix Externally-Managed-Environment Error.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to use Git Ignore"
+              "title": "How to Fix Externally-Managed-Environment Error"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apple/IPhone/How to Get Rid Of \"Turn on iCloud\" Message?.md",
+                "file": "Nexus/AI/Claude Code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to Get Rid Of \"Turn on iCloud\" Message?"
+              "title": "Claude Code"
             }
           },
           {
@@ -63,7 +63,8 @@
               "title": "How to convert PDF to PNG Files using GhostScript?"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,20 +208,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0eefcd5443fe6036",
+  "active": "968ebd4ecfd9c744",
   "lastOpenFiles": [
-    "Git & Github/How to use Git Ignore.md",
-    "Nexus/Automator/Customize Workflow Icons?.md",
-    "Git & Github/How to Create a New Repo from Terminal using Github CLI/How to Create a New Repo from Terminal using Github CLI.md",
+    "Nexus/AI/Claude MCP.md",
     "Nexus/AI/Claude Code.md",
+    "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
     "Apple/IPhone/How to Get Rid Of \"Turn on iCloud\" Message?.md",
+    "Python/How to Fix Externally-Managed-Environment Error.md",
+    "Nexus/Web - Internet/GO File with API Upload & Download gofile.io.md",
+    "Linux/Linux Setup.md",
+    "Git & Github/How to use Git Ignore.md",
+    "Linux/Nano/Nano.md",
+    "Linux/How to remove the lock on folders and files when created via root user/How to Remove the Lock on Folders and Files when Created via Root User - How to Take Ownership over a Directory in MacOs.md",
+    "Git & Github/How to Create a New Repo from Terminal using Github CLI/How to Create a New Repo from Terminal using Github CLI.md",
+    "Nexus/Automator/Customize Workflow Icons?.md",
     "Apple/MacOS/ How to Stop Your Mac From Sleeping Using the Command Line /** How to Stop Your Mac From Sleeping Using the Command Line .md",
     "Nexus/Web - Internet/Extract Cookies from Brave or Chrome using YT-DLP.md",
     "Terminal/How to Sync Two Folders with Rsync Command/How to Sync Two Folders with Rsync Command.md",
     "Apple/Software/Run Multiple Instances of the Same App More On Mac OS X /Run Multiple Instances of the Same App More On Mac OS X .md",
     "Nexus/Automator/VIP Notes.md",
     "Chat GPT/How to convert PDF to PNG Files using GhostScript_ /How to convert PDF to PNG Files using GhostScript? .md",
-    "Terminal/Terminal basics and Commands/Terminal basics and Commands.md",
     "Pycharm & Odoo/Odoo 15 Setup & Error Fixes/Odoo 15 Setup & Error Fixes.md",
     "VS-Code/How to Set Autosave in vs Code so It Saves Changes Instantly/How to Set Autosave in vs Code so It Saves Changes Instantly.md",
     "Nexus/Subtitles/SRT Process Cheat Sheet.md",
@@ -229,12 +236,6 @@
     "Nexus/Web - Internet/How to Download iframe Videos?.md",
     "Nexus/Web - Internet/Top Cinema Download Script.md",
     "Apple/MacOS/ how to download files using terminal /How to download files using terminal.md",
-    "FFMPEG Guide/FFMPEG Commands/FFMPEG Commands.md",
-    "NodeJs and NVM/How to Install NVM and Manage Multiple NodeJs Versions?.md",
-    "Nexus/AI/Claude MCP.md",
-    "Apple/Typing/Enable Repeat Key on Mac/Enable Repeat Key on Mac.md",
-    "Graphic Design/Design Sizes/Facebook Cover Size/Facebook Cover Size.md",
-    "Pycharm & Odoo/Pycharm Odoo Projects Workflow with Symbolic Links/Pycharm Odoo Projects Workflow with Symbolic Links.md",
     "Nexus/A-Shell",
     "Nexus/Curl/htmlResponse.png",
     "italk.zip",

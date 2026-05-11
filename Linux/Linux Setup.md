@@ -1,15 +1,37 @@
+### Mint
 
 ```bash
-sudo apt update
+sudo apt update && sudo apt upgrade -y
+sudo mintdrivers
+sudo apt install mint-meta-codecs -y
+sudo apt autoremove -y && sudo apt autoclean
+sudo reboot
+```
+
+
+```bash
+sudo apt update && sudo apt upgrade -y
 sudo apt install zsh
 zsh --version
 chsh -s $(which zsh)
+```
+
+
+→ Install Git
+
+```bash
+sudo apt update
+sudo apt install git
 ```
 
 → Install "Oh My Zsh"
 
 ```bash
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+which zsh
+chsh -s $(which zsh) #change the default to be zsh
+#Log out & log back in
+echo $SHELL #verify after reboot
 ```
 
 → Install Build Dependencies
@@ -57,6 +79,14 @@ http://apt.postgresql.org/pub/repos/apt \
 $(lsb_release -cs)-pgdg main" \
 | sudo tee /etc/apt/sources.list.d/pgdg.list
 ```
+
+→ On Mint:
+```bash
+sudo nano /etc/apt/sources.list.d/pgdg.list
+# Replace zena with noble
+# deb http://apt.postgresql.org/pub/repos/apt noble-pgdg main
+```
+
 
 ```bash
 sudo apt update
@@ -129,3 +159,14 @@ sudo apt update
 sudo apt install code
 ```
 
+## Install PyCharm Community
+
+```bash
+sudo apt install flatpak -y
+
+sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+
+flatpak install flathub com.jetbrains.PyCharm-Community -y
+
+flatpak run com.jetbrains.PyCharm-Community
+```

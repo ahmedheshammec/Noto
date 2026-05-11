@@ -65,3 +65,25 @@ source ~/.zshrc
 
 → Now you can simply run `claude-account1` or `claude-account2` and authenticate with each account. 
 
+## Claude Setting.json File
+
+→ Location: `/Users/ahmed/.claude/settings.json`
+
+```json
+{
+  "permissions": {
+    "allow": [
+      "Bash(*)",
+      "Read",
+      "Grep",
+      "Glob",
+      "LS"
+    ],
+    "ask": [
+      "Bash(rm:*)"
+    ],
+    "deny": []
+  }
+}
+```
+
